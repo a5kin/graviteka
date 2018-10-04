@@ -1,0 +1,77 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="DR Bass drum 1" volume="0.53200000524520874023"
+             filtertype="0" cutoff="1" resonance="0" osc1volume="0" osc2volume="1"
+             osc3volume="0" osc1waveform="0" osc2waveform="0.75" oscsync="0"
+             oscmastertune="0.5" osc1tune="0" osc2tune="0.14000000059604644775"
+             osc1finetune="0.5" osc2finetune="0.5" portamento="0" keyfollow="0"
+             filtercontour="0.5" filterattack="0" filterdecay="0.32000002264976501465"
+             filtersustain="1" filterrelease="0" ampattack="0" ampdecay="0.49200001358985900879"
+             ampsustain="0" amprelease="0.25200000405311584473" voices="0"
+             portamentomode="0" lfo1waveform="0" lfo2waveform="0" lfo1rate="0"
+             lfo2rate="0" lfo1amount="0" lfo2amount="0" lfo1destination="0"
+             lfo2destination="0" lfo1phase="0" lfo2phase="0" osc1pw="0.5"
+             osc2fm="0" osc1phase="0.5" osc2phase="0" transpose="0.5" freeadattack="0"
+             freeaddecay="0.11599999666213989258" freeadamount="0.68200004100799560547"
+             freeaddestination="1" lfo1sync="0" lfo1keytrigger="0" lfo2sync="0"
+             lfo2keytrigger="0" velocityvolume="0.88400006294250488281" velocitycontour="0"
+             velocitycutoff="0" pitchwheelcutoff="0" pitchwheelpitch="0.16800001263618469238"
+             highpass="0" detune="0" vintagenoise="0" ringmodulation="0" chorus1enable="0"
+             chorus2enable="0" reverbwet="0" reverbdecay="0.42800003290176391602"
+             reverbpredelay="0" reverbhighcut="0" reverblowcut="1" oscbitcrusher="1"
+             filterdrive="0" delaywet="0" delaytime="0.5" delaysync="0" delayfactorl="0"
+             delayfactorr="0" delayhighshelf="0" delaylowshelf="0" delayfeedback="0.5"
+             envelopeeditordest1="0.42857143282890319824" envelopeeditorspeed="0.20000000298023223877"
+             envelopeeditoramount="0.85600006580352783203" envelopeoneshot="1"
+             envelopefixtempo="1" tab1open="1" tab2open="0" tab3open="1" tab4open="0">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="1"
+                     controlPointLeftX="0" controlPointLeftY="1" controlPointRightX="0.12222222238779067993"
+                     controlPointRightY="1"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.011111111380159854889"
+                     centerPointY="0.62999999523162841797" controlPointLeftX="0.0018518520519137382507"
+                     controlPointLeftY="0.61500000953674316406" controlPointRightX="0.11111108958721160889"
+                     controlPointRightY="0.62999999523162841797"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.024074073880910873413"
+                     centerPointY="0.43000000715255737305" controlPointLeftX="0.0092592574656009674072"
+                     controlPointLeftY="0.41500002145767211914" controlPointRightX="0.1240739971399307251"
+                     controlPointRightY="0.43000000715255737305"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.050000000745058059692"
+                     centerPointY="0.20499998331069946289" controlPointLeftX="0.0055555552244186401367"
+                     controlPointLeftY="0.20499998331069946289" controlPointRightX="0.14999997615814208984"
+                     controlPointRightY="0.20499998331069946289"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.090740740299224853516"
+                     centerPointY="0.13999998569488525391" controlPointLeftX="0.051851850003004074097"
+                     controlPointLeftY="0.13999998569488525391" controlPointRightX="0.15000000596046447754"
+                     controlPointRightY="0.12999999523162841797"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.17407406866550445557"
+                     centerPointY="0.060000002384185791016" controlPointLeftX="0.074074074625968933105"
+                     controlPointLeftY="0.060000002384185791016" controlPointRightX="0.27407395839691162109"
+                     controlPointRightY="0.060000002384185791016"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="1" centerPointY="0"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="1"
+                     controlPointLeftX="0.89074075222015380859" controlPointLeftY="0.97000002861022949219"
+                     controlPointRightX="1" controlPointRightY="1"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

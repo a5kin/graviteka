@@ -1,0 +1,58 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="BS Toy Box" volume="0.51200002431869506836" filtertype="0.18181818723678588867"
+             cutoff="0.14500001072883605957" resonance="0.28600001335144042969"
+             osc1volume="0.69600003957748413086" osc2volume="0.8240000605583190918"
+             osc3volume="0.80800002813339233398" osc1waveform="0.32737204432487487793"
+             osc2waveform="0" oscsync="0.61165195703506469727" oscmastertune="0.51900005340576171875"
+             osc1tune="0.18787194788455963135" osc2tune="1" osc1finetune="0.50100004673004150391"
+             osc2finetune="0.51900005340576171875" portamento="0.096000000834465026855"
+             keyfollow="0" filtercontour="0.87600004673004150391" filterattack="0"
+             filterdecay="0.32200002670288085938" filtersustain="0.16000001132488250732"
+             filterrelease="0.41000002622604370117" ampattack="0" ampdecay="0.71500003337860107422"
+             ampsustain="0" amprelease="0" voices="0.058107241988182067871"
+             portamentomode="0" lfo1waveform="0.17755669355392456055" lfo2waveform="0.90881067514419555664"
+             lfo1rate="0.3123264312744140625" lfo2rate="0.15732291340827941895"
+             lfo1amount="0.41398358345031738281" lfo2amount="0.89373457431793212891"
+             lfo1destination="0" lfo2destination="0.0059816278517246246338"
+             lfo1phase="0.65611743927001953125" lfo2phase="0.27353739738464355469"
+             osc1pw="0.53996396064758300781" osc2fm="0.072000004351139068604"
+             osc1phase="0.73662525415420532227" osc2phase="0.046082951128482818604"
+             transpose="0.48400002717971801758" freeadattack="0" freeaddecay="0.16500000655651092529"
+             freeadamount="1" freeaddestination="0.60000002384185791016" lfo1sync="0.020905179902911186218"
+             lfo1keytrigger="0.10946989059448242188" lfo2sync="0.76848655939102172852"
+             lfo2keytrigger="0.36255988478660583496" velocityvolume="0.82195502519607543945"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0.57222205400466918945"
+             pitchwheelpitch="0.85061192512512207031" highpass="0" detune="0.07500000298023223877"
+             vintagenoise="0" ringmodulation="0" chorus1enable="0" chorus2enable="0"
+             reverbwet="0.24000000953674316406" reverbdecay="0.09200000762939453125"
+             reverbpredelay="0" reverbhighcut="0.28500002622604370117" reverblowcut="0.91300004720687866211"
+             oscbitcrusher="0.31200000643730163574" filterdrive="0" delaywet="0"
+             delaytime="0.062898650765419006348" delaysync="0.74663531780242919922"
+             delayfactorl="0.45396283268928527832" delayfactorr="0.35670033097267150879"
+             delayhighshelf="0.17331461608409881592" delaylowshelf="0.85164952278137207031"
+             delayfeedback="0.41218298673629760742" envelopeeditordest1="0"
+             envelopeeditorspeed="0.95309305191040039062" envelopeeditoramount="0.88821071386337280273"
+             envelopeoneshot="0.27808466553688049316" envelopefixtempo="0.58268988132476806641"
+             tab1open="1" tab2open="0" tab3open="0" tab4open="0">
+      <splinePoints/>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

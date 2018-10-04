@@ -1,0 +1,63 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="DR Closed Hihat" volume="0.87600004673004150391"
+             filtertype="0.37745293974876403809" cutoff="0.80000001192092895508"
+             resonance="0.73200005292892456055" osc1volume="0.32800000905990600586"
+             osc2volume="0.052000001072883605957" osc3volume="0" osc1waveform="1"
+             osc2waveform="0.2491531074047088623" oscsync="0" oscmastertune="0.51600003242492675781"
+             osc1tune="0.53901791572570800781" osc2tune="0.48800003528594970703"
+             osc1finetune="0.65498822927474975586" osc2finetune="0.21118809282779693604"
+             portamento="0" keyfollow="0" filtercontour="0.50400000810623168945"
+             filterattack="0" filterdecay="0" filtersustain="0" filterrelease="0"
+             ampattack="0" ampdecay="0.29800000786781311035" ampsustain="0"
+             amprelease="0.30800002813339233398" voices="0.40000000596046447754"
+             portamentomode="0" lfo1waveform="0.81588184833526611328" lfo2waveform="0.9378948211669921875"
+             lfo1rate="0.038636434823274612427" lfo2rate="0.60115361213684082031"
+             lfo1amount="0.023865474388003349304" lfo2amount="0.81105989217758178711"
+             lfo1destination="0" lfo2destination="0" lfo1phase="0.82509839534759521484"
+             lfo2phase="0.37858211994171142578" osc1pw="0.67879271507263183594"
+             osc2fm="0.47900003194808959961" osc1phase="0.80019533634185791016"
+             osc2phase="0.4161809086799621582" transpose="0" freeadattack="0.060121465474367141724"
+             freeaddecay="0.7292397618293762207" freeadamount="0.1883907616138458252"
+             freeaddestination="0.7919247746467590332" lfo1sync="0.39716789126396179199"
+             lfo1keytrigger="0.75740838050842285156" lfo2sync="0.37855160236358642578"
+             lfo2keytrigger="0.21964171528816223145" velocityvolume="0.7060000300407409668"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0" pitchwheelpitch="0"
+             highpass="0" detune="0" vintagenoise="0" ringmodulation="0.28000000119209289551"
+             chorus1enable="0" chorus2enable="1" reverbwet="0" reverbdecay="0.27700001001358032227"
+             reverbpredelay="0.065999999642372131348" reverbhighcut="0.1160000041127204895"
+             reverblowcut="0.82000005245208740234" oscbitcrusher="1" filterdrive="0"
+             delaywet="0" delaytime="0.20800000429153442383" delaysync="0"
+             delayfactorl="0" delayfactorr="0.18240913748741149902" delayhighshelf="0"
+             delaylowshelf="0" delayfeedback="0.10900000482797622681" envelopeeditordest1="0.83739739656448364258"
+             envelopeeditorspeed="0.78017514944076538086" envelopeeditoramount="0.64040040969848632812"
+             envelopeoneshot="0.36274299025535583496" envelopefixtempo="0.68065428733825683594"
+             tab1open="1" tab2open="0" tab3open="0" tab4open="0">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0"
+                     controlPointLeftX="0" controlPointLeftY="0" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

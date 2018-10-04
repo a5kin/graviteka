@@ -1,0 +1,58 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="BS Silver Spike" volume="0.50400000810623168945"
+             filtertype="0.90909093618392944336" cutoff="0.24400001764297485352"
+             resonance="0.74400001764297485352" osc1volume="0.25100001692771911621"
+             osc2volume="0.5879999995231628418" osc3volume="0" osc1waveform="0"
+             osc2waveform="0.5" oscsync="0" oscmastertune="0.54600000381469726562"
+             osc1tune="0" osc2tune="0" osc1finetune="0.49400001764297485352"
+             osc2finetune="0.51200002431869506836" portamento="0.32700002193450927734"
+             keyfollow="1" filtercontour="0.91200006008148193359" filterattack="0"
+             filterdecay="0.55099999904632568359" filtersustain="0.19200000166893005371"
+             filterrelease="0.49360635876655578613" ampattack="0" ampdecay="0.79300004243850708008"
+             ampsustain="0.032000001519918441772" amprelease="0.29200002551078796387"
+             voices="0" portamentomode="0.5" lfo1waveform="0.12198248505592346191"
+             lfo2waveform="0.51887571811676025391" lfo1rate="0.028992583975195884705"
+             lfo2rate="0.73552662134170532227" lfo1amount="0.38715779781341552734"
+             lfo2amount="0.17300942540168762207" lfo1destination="0" lfo2destination="0"
+             lfo1phase="0.80043947696685791016" lfo2phase="0.36188849806785583496"
+             osc1pw="0.16202276945114135742" osc2fm="0" osc1phase="1" osc2phase="1"
+             transpose="0.49100002646446228027" freeadattack="0.874538421630859375"
+             freeaddecay="0.93356120586395263672" freeadamount="0.36832788586616516113"
+             freeaddestination="0.60000002384185791016" lfo1sync="0.14261299371719360352"
+             lfo1keytrigger="0.54997408390045166016" lfo2sync="0.47761467099189758301"
+             lfo2keytrigger="0.80187386274337768555" velocityvolume="0.62600004673004150391"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0" pitchwheelpitch="0.030213324353098869324"
+             highpass="0.04400000348687171936" detune="0" vintagenoise="0.04400000348687171936"
+             ringmodulation="0" chorus1enable="1" chorus2enable="1" reverbwet="0"
+             reverbdecay="0.4120000302791595459" reverbpredelay="0.37600001692771911621"
+             reverbhighcut="0.57500004768371582031" reverblowcut="0.52100002765655517578"
+             oscbitcrusher="0.46800002455711364746" filterdrive="0.1840000152587890625"
+             delaywet="0" delaytime="0.74541461467742919922" delaysync="0.40098270773887634277"
+             delayfactorl="0.94994962215423583984" delayfactorr="0.79842525720596313477"
+             delayhighshelf="0.13946959376335144043" delaylowshelf="0.83925902843475341797"
+             delayfeedback="0.46205022931098937988" envelopeeditordest1="0.19318217039108276367"
+             envelopeeditorspeed="0.93072301149368286133" envelopeeditoramount="0.47770622372627258301"
+             envelopeoneshot="0.65529346466064453125" envelopefixtempo="0.875301361083984375"
+             tab1open="1" tab2open="0" tab3open="0" tab4open="0">
+      <splinePoints/>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

@@ -1,0 +1,64 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="PD Bubbles" volume="0.30800002813339233398" filtertype="0.90909093618392944336"
+             cutoff="0.26800000667572021484" resonance="0.44400003552436828613"
+             osc1volume="0.54000002145767211914" osc2volume="0.62000000476837158203"
+             osc3volume="0" osc1waveform="0" osc2waveform="0" oscsync="0"
+             oscmastertune="0.52799999713897705078" osc1tune="0.51000005006790161133"
+             osc2tune="0.51200002431869506836" osc1finetune="0.64400005340576171875"
+             osc2finetune="0.49200001358985900879" portamento="0" keyfollow="1"
+             filtercontour="0.91600006818771362305" filterattack="0.46400001645088195801"
+             filterdecay="0.56000000238418579102" filtersustain="0.56000000238418579102"
+             filterrelease="0.60400003194808959961" ampattack="0.4560000300407409668"
+             ampdecay="0.79600006341934204102" ampsustain="0" amprelease="0.52400004863739013672"
+             voices="1" portamentomode="0" lfo1waveform="0" lfo2waveform="0.5"
+             lfo1rate="0.21200001239776611328" lfo2rate="0.73600006103515625"
+             lfo1amount="0.87200003862380981445" lfo2amount="0.30800002813339233398"
+             lfo1destination="0.57142859697341918945" lfo2destination="0.14285714924335479736"
+             lfo1phase="0" lfo2phase="0" osc1pw="0.46000000834465026855" osc2fm="0"
+             osc1phase="0.52000004053115844727" osc2phase="0.51600003242492675781"
+             transpose="0.30800002813339233398" freeadattack="0" freeaddecay="0.14400000870227813721"
+             freeadamount="0.70800000429153442383" freeaddestination="0.60000002384185791016"
+             lfo1sync="0" lfo1keytrigger="0" lfo2sync="0" lfo2keytrigger="1"
+             velocityvolume="0.71200001239776611328" velocitycontour="0" velocitycutoff="0"
+             pitchwheelcutoff="0.57600003480911254883" pitchwheelpitch="0"
+             highpass="0.11200000345706939697" detune="0" vintagenoise="0"
+             ringmodulation="0" chorus1enable="0" chorus2enable="1" reverbwet="0"
+             reverbdecay="0.67200005054473876953" reverbpredelay="0" reverbhighcut="0.51200002431869506836"
+             reverblowcut="0.4560000300407409668" oscbitcrusher="1" filterdrive="0"
+             delaywet="0" delaytime="0.5" delaysync="0" delayfactorl="0" delayfactorr="0"
+             delayhighshelf="0" delaylowshelf="0" delayfeedback="0.5" envelopeeditordest1="0"
+             envelopeeditorspeed="0.60000002384185791016" envelopeeditoramount="0.97600007057189941406"
+             envelopeoneshot="1" envelopefixtempo="0" tab1open="1" tab2open="0"
+             tab3open="0" tab4open="0">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0"
+                     controlPointLeftX="0" controlPointLeftY="0" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0" centerPointY="1"
+                     controlPointLeftX="0" controlPointLeftY="1" controlPointRightX="0"
+                     controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0"
+                     controlPointLeftX="0.27962958812713623047" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

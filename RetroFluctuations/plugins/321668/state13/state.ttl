@@ -1,0 +1,69 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="FX Ominous Wind" volume="0.14800000190734863281"
+             filtertype="0.51506090164184570312" cutoff="0.3610000312328338623"
+             resonance="0.75100004673004150391" osc1volume="0.47200003266334533691"
+             osc2volume="0.79400002956390380859" osc3volume="0.78800004720687866211"
+             osc1waveform="0.42741173505783081055" osc2waveform="0.76372569799423217773"
+             oscsync="0.34104433655738830566" oscmastertune="0.53200000524520874023"
+             osc1tune="0.24280525743961334229" osc2tune="0.90298163890838623047"
+             osc1finetune="0.7275612950325012207" osc2finetune="0.31650745868682861328"
+             portamento="0.50400000810623168945" keyfollow="0" filtercontour="0.82600003480911254883"
+             filterattack="0.068025760352611541748" filterdecay="0.51900005340576171875"
+             filtersustain="0.39115574955940246582" filterrelease="0.60100001096725463867"
+             ampattack="0.48700001835823059082" ampdecay="0.40064698457717895508"
+             ampsustain="0.1771294325590133667" amprelease="0.23000000417232513428"
+             voices="0.40000000596046447754" portamentomode="0.5" lfo1waveform="0.57060456275939941406"
+             lfo2waveform="0.3610000312328338623" lfo1rate="0.10000000149011611938"
+             lfo2rate="0.39808344841003417969" lfo1amount="0.90792566537857055664"
+             lfo2amount="0.16049684584140777588" lfo1destination="0" lfo2destination="0"
+             lfo1phase="0.42695394158363342285" lfo2phase="0.3755302727222442627"
+             osc1pw="0.73018586635589599609" osc2fm="0.37700000405311584473"
+             osc1phase="0.70409250259399414062" osc2phase="0.67192602157592773438"
+             transpose="0.19900001585483551025" freeadattack="0.11011078208684921265"
+             freeaddecay="0.40327158570289611816" freeadamount="0.30167546868324279785"
+             freeaddestination="0.22339549660682678223" lfo1sync="0.25534835457801818848"
+             lfo1keytrigger="0.32425916194915771484" lfo2sync="0.45472580194473266602"
+             lfo2keytrigger="0.057222206145524978638" velocityvolume="0.75300002098083496094"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0" pitchwheelpitch="0.061098057776689529419"
+             highpass="0" detune="1" vintagenoise="0.70900005102157592773"
+             ringmodulation="0.54600000381469726562" chorus1enable="0.60087895393371582031"
+             chorus2enable="0.61394083499908447266" reverbwet="0.52300000190734863281"
+             reverbdecay="0.63200002908706665039" reverbpredelay="0.3970000147819519043"
+             reverbhighcut="0.37900000810623168945" reverblowcut="0.71200001239776611328"
+             oscbitcrusher="0.34800001978874206543" filterdrive="0.96800005435943603516"
+             delaywet="0" delaytime="0.98159736394882202148" delaysync="0.060853909701108932495"
+             delayfactorl="0.91219824552536010742" delayfactorr="0.44376963376998901367"
+             delayhighshelf="0.033265177160501480103" delaylowshelf="0.88927882909774780273"
+             delayfeedback="0.4161503911018371582" envelopeeditordest1="0.044557023793458938599"
+             envelopeeditorspeed="0.52607804536819458008" envelopeeditoramount="0.67326885461807250977"
+             envelopeoneshot="0.3329264223575592041" envelopefixtempo="0.92089599370956420898"
+             tab1open="1" tab2open="0" tab3open="0" tab4open="0">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0"
+                     controlPointLeftX="0" controlPointLeftY="0" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

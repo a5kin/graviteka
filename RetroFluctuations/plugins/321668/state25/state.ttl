@@ -1,0 +1,52 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="PD Light Saw Pad" volume="0.38000002503395080566"
+             filtertype="0.90909093618392944336" cutoff="0.43200001120567321777"
+             resonance="0.088000006973743438721" osc1volume="0.55600005388259887695"
+             osc2volume="0.56800001859664916992" osc3volume="0" osc1waveform="0"
+             osc2waveform="0" oscsync="0" oscmastertune="0.5" osc1tune="0.51200002431869506836"
+             osc2tune="0.50400000810623168945" osc1finetune="0.5" osc2finetune="0.23600001633167266846"
+             portamento="0" keyfollow="0.54800003767013549805" filtercontour="0.89600002765655517578"
+             filterattack="0.16400000452995300293" filterdecay="0.46000000834465026855"
+             filtersustain="0" filterrelease="0.62000000476837158203" ampattack="0.22000001370906829834"
+             ampdecay="0.68800002336502075195" ampsustain="0" amprelease="0.54400002956390380859"
+             voices="1" portamentomode="0" lfo1waveform="0" lfo2waveform="0"
+             lfo1rate="0.52400004863739013672" lfo2rate="0" lfo1amount="0.57600003480911254883"
+             lfo2amount="0.5" lfo1destination="1" lfo2destination="0" lfo1phase="0"
+             lfo2phase="0" osc1pw="0.5" osc2fm="0.028000000864267349243" osc1phase="0.0080000003799796104431"
+             osc2phase="0.33600002527236938477" transpose="0.21200001239776611328"
+             freeadattack="0" freeaddecay="0" freeadamount="0" freeaddestination="0"
+             lfo1sync="0" lfo1keytrigger="1" lfo2sync="0" lfo2keytrigger="0"
+             velocityvolume="0.84000003337860107422" velocitycontour="0" velocitycutoff="0"
+             pitchwheelcutoff="0" pitchwheelpitch="0" highpass="0.19600000977516174316"
+             detune="1" vintagenoise="0.20800000429153442383" ringmodulation="0"
+             chorus1enable="1" chorus2enable="1" reverbwet="0.56000000238418579102"
+             reverbdecay="0.54800003767013549805" reverbpredelay="0.20800000429153442383"
+             reverbhighcut="0.64400005340576171875" reverblowcut="1" oscbitcrusher="1"
+             filterdrive="0" delaywet="0.37200000882148742676" delaytime="0.24800001084804534912"
+             delaysync="0" delayfactorl="0" delayfactorr="1" delayhighshelf="0"
+             delaylowshelf="0.2280000150203704834" delayfeedback="0.17600001394748687744"
+             envelopeeditordest1="0.71428573131561279297" envelopeeditorspeed="0.80000001192092895508"
+             envelopeeditoramount="0" envelopeoneshot="0" envelopefixtempo="0"
+             tab1open="1" tab2open="0" tab3open="0" tab4open="0">
+      <splinePoints/>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+

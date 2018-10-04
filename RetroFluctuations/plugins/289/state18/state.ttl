@@ -1,0 +1,116 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="ARP Phasing Saws TAL" volume="0.38000002503395080566"
+             filtertype="0" cutoff="0.31500002741813659668" resonance="0.05300000309944152832"
+             osc1volume="0.29800000786781311035" osc2volume="0.55000001192092895508"
+             osc3volume="0.5960000157356262207" osc1waveform="0.5" osc2waveform="0.75"
+             oscsync="0" oscmastertune="0.5" osc1tune="0.41600000858306884766"
+             osc2tune="0.84100002050399780273" osc1finetune="0.5" osc2finetune="0.50700002908706665039"
+             portamento="0" keyfollow="0" filtercontour="0.86000001430511474609"
+             filterattack="0" filterdecay="0.42400002479553222656" filtersustain="0"
+             filterrelease="0" ampattack="0" ampdecay="0.36400002241134643555"
+             ampsustain="0.54400002956390380859" amprelease="0" voices="1"
+             portamentomode="0.5" lfo1waveform="0" lfo2waveform="0" lfo1rate="0.17000000178813934326"
+             lfo2rate="0.16900001466274261475" lfo1amount="0.85600006580352783203"
+             lfo2amount="0.92600005865097045898" lfo1destination="0.57142859697341918945"
+             lfo2destination="0.14285714924335479736" lfo1phase="0.59200000762939453125"
+             lfo2phase="0" osc1pw="0.77600002288818359375" osc2fm="0.22900001704692840576"
+             osc1phase="0" osc2phase="0" transpose="0.71200001239776611328"
+             freeadattack="0" freeaddecay="0" freeadamount="0" freeaddestination="0"
+             lfo1sync="0" lfo1keytrigger="1" lfo2sync="0" lfo2keytrigger="1"
+             velocityvolume="0" velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0"
+             pitchwheelpitch="1" highpass="0" detune="0" vintagenoise="0"
+             ringmodulation="0" chorus1enable="0" chorus2enable="1" reverbwet="0"
+             reverbdecay="0.5" reverbpredelay="0" reverbhighcut="0" reverblowcut="1"
+             oscbitcrusher="1" filterdrive="0" delaywet="0.16400000452995300293"
+             delaytime="0.80800002813339233398" delaysync="1" delayfactorl="0"
+             delayfactorr="0" delayhighshelf="0.47600001096725463867" delaylowshelf="0"
+             delayfeedback="0.64800000190734863281" envelopeeditordest1="0.42857143282890319824"
+             envelopeeditorspeed="0.20000000298023223877" envelopeeditoramount="0.5890000462532043457"
+             envelopeoneshot="0" envelopefixtempo="0" tab1open="1" tab2open="0"
+             tab3open="0" tab4open="1">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0.5"
+                     controlPointLeftX="0" controlPointLeftY="0.5" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0.5"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.048148147761821746826"
+                     centerPointY="0.48500001430511474609" controlPointLeftX="0" controlPointLeftY="0.48500001430511474609"
+                     controlPointRightX="0.14814811944961547852" controlPointRightY="0.48500001430511474609"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.048148147761821746826"
+                     centerPointY="0" controlPointLeftX="0" controlPointLeftY="0"
+                     controlPointRightX="0.14814811944961547852" controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.090740740299224853516"
+                     centerPointY="0.0049999952316284179688" controlPointLeftX="0"
+                     controlPointLeftY="0.0049999952316284179688" controlPointRightX="0.19074076414108276367"
+                     controlPointRightY="0.0049999952316284179688"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.090740740299224853516"
+                     centerPointY="0.31000000238418579102" controlPointLeftX="0.012962959706783294678"
+                     controlPointLeftY="0.31000000238418579102" controlPointRightX="0.19074067473411560059"
+                     controlPointRightY="0.31000000238418579102"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.14259259402751922607"
+                     centerPointY="0.30500000715255737305" controlPointLeftX="0.042592599987983703613"
+                     controlPointLeftY="0.30500000715255737305" controlPointRightX="0.24259242415428161621"
+                     controlPointRightY="0.30500000715255737305"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.15185184776782989502"
+                     centerPointY="0.71500003337860107422" controlPointLeftX="0.051851846277713775635"
+                     controlPointLeftY="0.71500003337860107422" controlPointRightX="0.25185182690620422363"
+                     controlPointRightY="0.71500003337860107422"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.20185184478759765625"
+                     centerPointY="0" controlPointLeftX="0.10185185074806213379" controlPointLeftY="0"
+                     controlPointRightX="0.30185174942016601562" controlPointRightY="0"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.20555555820465087891"
+                     centerPointY="0.71500003337860107422" controlPointLeftX="0.10555556416511535645"
+                     controlPointLeftY="0.71500003337860107422" controlPointRightX="0.30555558204650878906"
+                     controlPointRightY="0.71500003337860107422"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.24814814329147338867"
+                     centerPointY="0.23500001430511474609" controlPointLeftX="0.14814814925193786621"
+                     controlPointLeftY="0.23500001430511474609" controlPointRightX="0.34814816713333129883"
+                     controlPointRightY="0.23500001430511474609"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.30925926566123962402"
+                     centerPointY="0.24000000953674316406" controlPointLeftX="0.20925927162170410156"
+                     controlPointLeftY="0.24000000953674316406" controlPointRightX="0.38333329558372497559"
+                     controlPointRightY="0.24000000953674316406"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.3203703761100769043"
+                     centerPointY="0.94999998807907104492" controlPointLeftX="0.22037038207054138184"
+                     controlPointLeftY="0.94999998807907104492" controlPointRightX="0.42037037014961242676"
+                     controlPointRightY="0.94999998807907104492"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.36111110448837280273"
+                     centerPointY="0.47500002384185791016" controlPointLeftX="0.26111111044883728027"
+                     controlPointLeftY="0.47500002384185791016" controlPointRightX="0.46111124753952026367"
+                     controlPointRightY="0.47500002384185791016"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.36481481790542602539"
+                     centerPointY="0.95999997854232788086" controlPointLeftX="0.26481482386589050293"
+                     controlPointLeftY="0.95999997854232788086" controlPointRightX="0.46481475234031677246"
+                     controlPointRightY="0.95999997854232788086"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.42222222685813903809"
+                     centerPointY="0.47500002384185791016" controlPointLeftX="0.32222223281860351562"
+                     controlPointLeftY="0.47500002384185791016" controlPointRightX="0.52222228050231933594"
+                     controlPointRightY="0.47500002384185791016"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.65740740299224853516"
+                     centerPointY="0.0049999952316284179688" controlPointLeftX="0.65740740299224853516"
+                     controlPointLeftY="0.29500001668930053711" controlPointRightX="0.75740742683410644531"
+                     controlPointRightY="0.0049999952316284179688"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0.5"
+                     controlPointLeftX="0.94629627466201782227" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0.5"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+
