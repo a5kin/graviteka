@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="556855" name-counter="7" event-counter="100965530" vca-counter="1">
+<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="576357" name-counter="7" event-counter="101168612" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -7704,8 +7704,8 @@
         <Automation>
           <AutomationList automation-id="parameter-4" id="183736" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-5" id="183738" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-6" id="543180" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-7" id="543182" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="562685" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="562687" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-8" id="183744" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-9" id="183746" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-10" id="183748" interpolation-style="Linear" state="Off"/>
@@ -12673,7 +12673,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="267055" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="267056" flags="GainLike" value="0.78779441118240356"/>
+        <Controllable name="gaincontrol" id="267056" flags="GainLike" value="0.79432821273803711"/>
       </Processor>
       <Processor id="267084" name="meter-Bus 1" active="1" user-latency="0" type="meter"/>
       <Processor id="267085" name="Vocal Bus" active="1" user-latency="0" own-input="1" own-output="0" output="Vocal Bus" type="main-outs" role="Main">
@@ -14307,7 +14307,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="322248" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.0887174606323242"/>
+        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.0964782238006592"/>
       </Processor>
       <Processor id="322277" name="meter-Composite Solo" active="1" user-latency="0" type="meter"/>
       <Processor id="322278" name="Composite Solo" active="1" user-latency="0" own-input="1" own-output="0" output="Composite Solo" type="main-outs" role="Main">
@@ -15475,7 +15475,7 @@
     <Protocol name="Steinberg CC121" active="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportRevision revision="10"/>
+    <ExportRevision revision="11"/>
     <ExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="66492"/>
