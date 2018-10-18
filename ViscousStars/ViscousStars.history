@@ -1,102 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1539801955" tv-usec="882646" name="capture">
-    <StatefulDiffCommand obj-id="634112" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="689550"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1539802055" tv-usec="584733" name="add meter mark">
-    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
-      <TempoMap>
-        <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="140" note-type="4" clamped="0" end-beats-per-minute="140" active="1" locked-to-meter="1"/>
-        <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
-      </TempoMap>
-      <TempoMap>
-        <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="140" note-type="4" clamped="0" end-beats-per-minute="140" active="1" locked-to-meter="1"/>
-        <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
-        <Meter pulse="1" frame="75600" movable="1" lock-style="MusicTime" bbt="2|1|0" beat="4" note-type="4" divisions-per-bar="7"/>
-      </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633105"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633105"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1539802061" tv-usec="438050" name="move meter mark">
-    <MementoCommand obj-id="53" type-name="ARDOUR::TempoMap">
-      <TempoMap>
-        <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="140" note-type="4" clamped="0" end-beats-per-minute="140" active="1" locked-to-meter="1"/>
-        <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
-        <Meter pulse="1" frame="75600" movable="1" lock-style="MusicTime" bbt="2|1|0" beat="4" note-type="4" divisions-per-bar="7"/>
-      </TempoMap>
-      <TempoMap>
-        <Tempo pulse="0" frame="0" movable="0" lock-style="AudioTime" beats-per-minute="140" note-type="4" clamped="0" end-beats-per-minute="140" active="1" locked-to-meter="1"/>
-        <Meter pulse="0" frame="0" movable="0" lock-style="AudioTime" bbt="1|1|0" beat="0" note-type="4" divisions-per-bar="4"/>
-        <Meter pulse="1" frame="75600" movable="1" lock-style="MusicTime" bbt="2|1|0" beat="4" note-type="4" divisions-per-bar="7"/>
-      </TempoMap>
-    </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633105"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633105"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1539802458" tv-usec="897055" name="capture">
-    <StatefulDiffCommand obj-id="633194" type-name="ARDOUR::MidiPlaylist">
-      <Changes>
-        <Regions>
-          <Add id="689612"/>
-        </Regions>
-      </Changes>
-    </StatefulDiffCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1539802475" tv-usec="339088" name="delete range">
-    <StatefulDiffCommand obj-id="689612" type-name="ARDOUR::MidiRegion">
-      <Changes>
-        <start from="0" to="529200"/>
-        <length from="1315072" to="785872"/>
-        <position from="1001700" to="1530900"/>
-        <beat from="53" to="81.000000000000014"/>
-        <start-beats from="0" to="28.000000000000014"/>
-        <length-beats from="69.580529100529105" to="41.580529100529091"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="633194" type-name="ARDOUR::MidiPlaylist">
-      <Changes/>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseRange" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633152"/>
-          <AudioRange start="1001700" end="1530900"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseRange" zoom="2048" left-frame="0" y-origin="252">
-        <Selection>
-          <StripableView id="633152"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1539802481" tv-usec="368091" name="region drag">
     <StatefulDiffCommand obj-id="689612" type-name="ARDOUR::MidiRegion">
       <Changes>
@@ -429,5 +332,50 @@
         </Selection>
       </SelectionMemento>
     </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1539895391" tv-usec="370" name="capture">
+    <StatefulDiffCommand obj-id="663203" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="715037"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1539895707" tv-usec="837193" name="capture">
+    <StatefulDiffCommand obj-id="115818" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="715050"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1539896666" tv-usec="389188" name="capture">
+    <StatefulDiffCommand obj-id="115865" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="715084"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1539897787" tv-usec="637867" name="capture">
+    <StatefulDiffCommand obj-id="191544" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="715106"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1539898507" tv-usec="447022" name="capture">
+    <StatefulDiffCommand obj-id="193124" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="715139"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
   </UndoTransaction>
 </UndoHistory>
