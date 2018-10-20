@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="742395" name-counter="7" event-counter="109837625" vca-counter="1">
+<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="743006" name-counter="7" event-counter="110071657" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -6871,8 +6871,8 @@
           <Connection other="Hi-Hat Bus/midi_in 1"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="191512" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="191512" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="191514" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="668510" interpolation-style="Discrete" state="Off"/>
@@ -7396,8 +7396,8 @@
           <Connection other="Crash Bus/midi_in 1"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="193092" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="193092" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="193094" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="668829" interpolation-style="Discrete" state="Off"/>
@@ -16521,7 +16521,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="34" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="146" y-off="571" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="672" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -17646,7 +17646,7 @@
         <Object id="automation 159248 15/0/14" height="64" visible="0"/>
         <Object id="automation 159248 15/0/15" height="64" visible="0"/>
         <Object id="automation 159295 15/0/0" height="64" visible="0"/>
-        <Object id="rtav 191502" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 191502" height="79" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="54" note-range-max="70"/>
         <Object id="automation 191506" height="64" visible="0"/>
         <Object id="automation 191502 12/0/0" height="64" visible="0"/>
         <Object id="rtav 191549" height="30" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
@@ -17671,7 +17671,7 @@
         <Object id="strip 192787" visible="1">
           <Object id="processor 192817"/>
         </Object>
-        <Object id="rtav 193082" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 193082" height="76" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="44" note-range-max="71"/>
         <Object id="automation 193086" height="64" visible="0"/>
         <Object id="automation 193082 12/0/0" height="64" visible="0"/>
         <Object id="rtav 193129" height="30" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
