@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="715144" name-counter="7" event-counter="108614102" vca-counter="1">
+<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="741847" name-counter="7" event-counter="109601055" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -21,7 +21,7 @@
     <Option name="native-file-data-format" value="FormatFloat"/>
     <Option name="native-file-header-format" value="WAVE"/>
     <Option name="auto-play" value="0"/>
-    <Option name="auto-return" value="1"/>
+    <Option name="auto-return" value="0"/>
     <Option name="auto-input" value="1"/>
     <Option name="punch-in" value="0"/>
     <Option name="punch-out" value="0"/>
@@ -156,7 +156,7 @@
     <Region name="Crash 1-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="4315392" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="228.32761904761904" id="715136" type="midi" first-edit="nothing" source-0="715132" master-source-0="715132"/>
   </Regions>
   <Selection>
-    <StripableAutomationControl stripable="191502" control="0" order="3"/>
+    <StripableAutomationControl stripable="663161" control="0" order="8"/>
   </Selection>
   <Locations>
     <Location id="664549" name="session" start="0" end="4351999" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
@@ -4806,7 +4806,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state22">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state23">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="cutoff" value="1"/>
           <Port symbol="resonance" value="0"/>
@@ -6740,8 +6740,8 @@
         <Automation>
           <AutomationList automation-id="parameter-4" id="668480" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-5" id="668482" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-6" id="693922" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-7" id="693924" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="719348" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="719350" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-8" id="668488" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-9" id="668490" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-10" id="668492" interpolation-style="Linear" state="Off"/>
@@ -6873,8 +6873,8 @@
           <Connection other="Hi-Hat Bus/midi_in 1"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="191512" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="191512" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="191514" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="668510" interpolation-style="Discrete" state="Off"/>
@@ -7398,8 +7398,8 @@
           <Connection other="Crash Bus/midi_in 1"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="193092" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="193092" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="193094" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="668829" interpolation-style="Discrete" state="Off"/>
@@ -15863,8 +15863,8 @@
           <Connection other="Tom Bus/midi_in 1"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="663171" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="663171" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="663173" flags="Toggle" value="0" phase-invert=""/>
       <Automation>
         <AutomationList automation-id="solo" id="673845" interpolation-style="Discrete" state="Off"/>
@@ -16160,7 +16160,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#Mixedpreset207" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state10">
+        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#Mixedpreset207" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state11">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -16523,13 +16523,13 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="34" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="672" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
       <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="0" y-off="152" x-size="506" y-size="634"/>
+      <Window name="audio-connection-manager" visible="0" x-off="0" y-off="152" x-size="548" y-size="634"/>
       <Window name="midi-connection-manager" visible="0" x-off="166" y-off="88" x-size="610" y-size="444"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-54" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -17486,10 +17486,10 @@
         <Object id="rtav 115729" height="30" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 115733" height="64" visible="0"/>
         <Object id="automation 115729 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 115776" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 115776" height="69" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 115780" height="64" visible="0"/>
         <Object id="automation 115776 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 115823" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 115823" height="57" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 115827" height="64" visible="0"/>
         <Object id="automation 115823 12/0/0" height="64" visible="0"/>
         <Object id="strip 115682" visible="1" strip-width="Wide">
@@ -17971,10 +17971,10 @@
         <Object id="automation 360459" height="64" visible="0"/>
         <Object id="automation 320702 15/0/0" height="196" visible="0"/>
         <Object id="automation 196524" height="64" visible="0"/>
-        <Object id="rtav 633105" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 633105" height="159" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="38" note-range-max="58"/>
         <Object id="automation 633109" height="64" visible="0"/>
         <Object id="automation 633105 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 633152" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 633152" height="161" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="46" note-range-max="68"/>
         <Object id="automation 633156" height="64" visible="0"/>
         <Object id="automation 633152 12/0/0" height="64" visible="0"/>
         <Object id="strip 633105" visible="1" strip-width="Wide">
@@ -17983,10 +17983,10 @@
         <Object id="strip 633152" visible="1" strip-width="Wide">
           <Object id="processor 633182"/>
         </Object>
-        <Object id="rtav 634070" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 634070" height="172" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="43" note-range-max="66"/>
         <Object id="automation 634074" height="64" visible="0"/>
         <Object id="automation 634070 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 634117" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 634117" height="177" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="47" note-range-max="68"/>
         <Object id="automation 634121" height="64" visible="0"/>
         <Object id="automation 634117 12/0/0" height="64" visible="0"/>
         <Object id="strip 634070" visible="1" strip-width="Wide">
