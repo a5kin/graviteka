@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="906237" name-counter="7" event-counter="132218149" vca-counter="1">
+<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="1" id-counter="934608" name-counter="7" event-counter="134304281" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -6903,8 +6903,8 @@
         <Automation>
           <AutomationList automation-id="parameter-4" id="668480" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-5" id="668482" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-6" id="881736" interpolation-style="Linear" state="Off"/>
-          <AutomationList automation-id="parameter-7" id="881738" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="911868" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="911870" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-8" id="668488" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-9" id="668490" interpolation-style="Linear" state="Off"/>
           <AutomationList automation-id="parameter-10" id="668492" interpolation-style="Linear" state="Off"/>
@@ -9273,7 +9273,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state117">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state131">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0"/>
           <Port symbol="amp_decay" value="0.30905300378799438"/>
@@ -9795,7 +9795,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="0" state-dir="state115">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="0" state-dir="state129">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0.02500000037252903"/>
           <Port symbol="amp_decay" value="0.375"/>
@@ -10679,8 +10679,8 @@
           <Connection other="Vocal Bus/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
-      <Controllable name="mute" id="266007" flags="Toggle,RealTime" value="1"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="266007" flags="Toggle,RealTime" value="0"/>
       <Controllable name="phase" id="266008" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="670706" interpolation-style="Discrete" state="Off"/>
@@ -10916,8 +10916,8 @@
           <Connection other="Vocal Bus/audio_in 2"/>
         </Port>
       </IO>
-      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
-      <Controllable name="mute" id="266457" flags="Toggle,RealTime" value="0"/>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="1"/>
+      <Controllable name="mute" id="266457" flags="Toggle,RealTime" value="1"/>
       <Controllable name="phase" id="266458" flags="Toggle" value="0" phase-invert="0"/>
       <Automation>
         <AutomationList automation-id="solo" id="670841" interpolation-style="Discrete" state="Off"/>
@@ -11197,6 +11197,92 @@
         <Controllable name="Active" id="267144" flags="Toggle" value="1" parameter="16" symbol="on"/>
         <Controllable name="Input Gain" id="267146" flags="" value="1" parameter="17" symbol="level_in"/>
         <Controllable name="Output Gain" id="267148" flags="" value="1.8816518783569336" parameter="18" symbol="level_out"/>
+      </Processor>
+      <Processor id="934565" name="Calf Vintage Delay" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/VintageDelay" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="934566" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="934568" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="934570" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="934572" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="934574" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="934576" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="934578" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="934580" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="934582" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="934584" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="934586" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-23" id="934588" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="934590" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-25" id="934592" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-26" id="934594" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-27" id="934596" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-28" id="934598" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-29" id="934600" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-30" id="934602" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-31" id="934604" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="on" value="1"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+          <Port symbol="subdiv" value="4"/>
+          <Port symbol="time_l" value="3"/>
+          <Port symbol="time_r" value="5"/>
+          <Port symbol="feedback" value="0.5"/>
+          <Port symbol="amount" value="0.25"/>
+          <Port symbol="mix_mode" value="1"/>
+          <Port symbol="medium" value="1"/>
+          <Port symbol="dry" value="1"/>
+          <Port symbol="width" value="1"/>
+          <Port symbol="fragmentation" value="0"/>
+          <Port symbol="pbeats" value="4"/>
+          <Port symbol="pfrag" value="4"/>
+          <Port symbol="timing" value="3"/>
+          <Port symbol="bpm" value="120"/>
+          <Port symbol="ms" value="500"/>
+          <Port symbol="hz" value="2"/>
+          <Port symbol="bpm_host" value="140"/>
+        </lv2>
+        <Controllable name="Active" id="934567" flags="Toggle" value="1" parameter="4" symbol="on"/>
+        <Controllable name="Input Gain" id="934569" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Output Gain" id="934571" flags="" value="1" parameter="6" symbol="level_out"/>
+        <Controllable name="Subdivide" id="934573" flags="" value="4" parameter="15" symbol="subdiv"/>
+        <Controllable name="Time L" id="934575" flags="" value="3" parameter="16" symbol="time_l"/>
+        <Controllable name="Time R" id="934577" flags="" value="5" parameter="17" symbol="time_r"/>
+        <Controllable name="Feedback" id="934579" flags="" value="0.5" parameter="18" symbol="feedback"/>
+        <Controllable name="Wet" id="934581" flags="" value="0.25" parameter="19" symbol="amount"/>
+        <Controllable name="Mix mode" id="934583" flags="" value="1" parameter="20" symbol="mix_mode"/>
+        <Controllable name="Medium" id="934585" flags="" value="1" parameter="21" symbol="medium"/>
+        <Controllable name="Dry" id="934587" flags="" value="1" parameter="22" symbol="dry"/>
+        <Controllable name="Stereo Width" id="934589" flags="" value="1" parameter="23" symbol="width"/>
+        <Controllable name="Fragmentation" id="934591" flags="" value="0" parameter="24" symbol="fragmentation"/>
+        <Controllable name="Pattern Beats" id="934593" flags="" value="4" parameter="25" symbol="pbeats"/>
+        <Controllable name="Pattern Fragmentation" id="934595" flags="" value="4" parameter="26" symbol="pfrag"/>
+        <Controllable name="Timing" id="934597" flags="" value="3" parameter="27" symbol="timing"/>
+        <Controllable name="BPM" id="934599" flags="" value="120" parameter="28" symbol="bpm"/>
+        <Controllable name="ms" id="934601" flags="" value="500" parameter="29" symbol="ms"/>
+        <Controllable name="Frequency" id="934603" flags="" value="2" parameter="30" symbol="hz"/>
+        <Controllable name="Host BPM" id="934605" flags="" value="120" parameter="31" symbol="bpm_host"/>
       </Processor>
       <Processor id="267082" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -16750,7 +16836,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="0" state-dir="state116">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="0" state-dir="state130">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0.02500000037252903"/>
           <Port symbol="amp_decay" value="0.375"/>
@@ -18912,7 +18998,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="19" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="306" y-off="334" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -19700,6 +19786,8 @@
       <Window name="PM-267550-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-267552-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-267553-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-267052-934565" visible="0" x-off="132" y-off="333" x-size="918" y-size="410" custom-ui="1"/>
+      <Window name="PM-934565-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="64" visible="1"/>
         <Object id="automation 58" height="64" visible="0"/>
@@ -20296,6 +20384,7 @@
           <Object id="processor 267320"/>
           <Object id="processor 268647"/>
           <Object id="processor 268658"/>
+          <Object id="processor 934565"/>
         </Object>
         <Object id="rtav 267520" height="64" visible="1"/>
         <Object id="automation 267524" height="64" visible="0"/>
