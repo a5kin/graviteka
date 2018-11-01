@@ -9,7 +9,7 @@
     <rights>Graviteka</rights>
     <encoding>
       <software>MuseScore 2.1.0</software>
-      <encoding-date>2018-10-29</encoding-date>
+      <encoding-date>2018-11-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -1512,6 +1512,15 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>135</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="135"/>
+        </direction>
       <note default-x="53.55" default-y="-5.00" dynamics="100.00">
         <pitch>
           <step>E</step>
@@ -1676,12 +1685,12 @@
         <type>quarter</type>
         </note>
       </measure>
-    <measure number="10" width="316.21">
+    <measure number="10" width="316.95">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -1700,7 +1709,7 @@
           <text>Slow</text>
           </lyric>
         </note>
-      <note default-x="139.21" default-y="-10.00" dynamics="97.78">
+      <note default-x="139.40" default-y="-10.00" dynamics="97.78">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1714,7 +1723,7 @@
           <text>ly</text>
           </lyric>
         </note>
-      <note default-x="169.94" default-y="-15.00" dynamics="91.11">
+      <note default-x="170.25" default-y="-15.00" dynamics="91.11">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1729,7 +1738,7 @@
           <text>fade</text>
           </lyric>
         </note>
-      <note default-x="219.11" default-y="-10.00" dynamics="95.56">
+      <note default-x="219.61" default-y="-10.00" dynamics="95.56">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1748,7 +1757,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="249.85" default-y="-10.00" dynamics="95.56">
+      <note default-x="250.46" default-y="-10.00" dynamics="95.56">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1763,7 +1772,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="280.58" default-y="-30.00" dynamics="117.78">
+      <note default-x="281.32" default-y="-30.00" dynamics="117.78">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -1783,7 +1792,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="11" width="131.30">
+    <measure number="11" width="132.04">
       <note default-x="12.00" default-y="-30.00" dynamics="117.78">
         <pitch>
           <step>G</step>
@@ -1811,7 +1820,7 @@
         <type>quarter</type>
         </note>
       </measure>
-    <measure number="12" width="254.52">
+    <measure number="12" width="255.25">
       <note default-x="26.95" default-y="-5.00" dynamics="105.56">
         <pitch>
           <step>E</step>
@@ -1826,7 +1835,7 @@
           <text>Slow</text>
           </lyric>
         </note>
-      <note default-x="76.48" default-y="-10.00" dynamics="98.89">
+      <note default-x="76.67" default-y="-10.00" dynamics="98.89">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1840,7 +1849,7 @@
           <text>ly</text>
           </lyric>
         </note>
-      <note default-x="107.44" default-y="-10.00" dynamics="95.56">
+      <note default-x="107.75" default-y="-10.00" dynamics="95.56">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1854,7 +1863,7 @@
           <text>fa</text>
           </lyric>
         </note>
-      <note default-x="156.97" default-y="-15.00" dynamics="87.78">
+      <note default-x="157.47" default-y="-15.00" dynamics="87.78">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1870,7 +1879,7 @@
           <text>ding</text>
           </lyric>
         </note>
-      <note default-x="187.92" default-y="-10.00" dynamics="95.56">
+      <note default-x="188.54" default-y="-10.00" dynamics="95.56">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1885,7 +1894,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="218.88" default-y="-15.00" dynamics="105.56">
+      <note default-x="219.62" default-y="-15.00" dynamics="105.56">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1906,7 +1915,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="13" width="143.42">
+    <measure number="13" width="144.15">
       <note default-x="12.00" default-y="-15.00" dynamics="105.56">
         <pitch>
           <step>C</step>
@@ -1924,7 +1933,7 @@
           <tied type="start"/>
           </notations>
         </note>
-      <note default-x="44.45" default-y="-15.00" dynamics="105.56">
+      <note default-x="44.64" default-y="-15.00" dynamics="105.56">
         <pitch>
           <step>C</step>
           <alter>1</alter>
@@ -1952,8 +1961,8 @@
         <type>quarter</type>
         </note>
       </measure>
-    <measure number="14" width="232.04">
-      <note default-x="20.78" default-y="-5.00" dynamics="112.22">
+    <measure number="14" width="229.09">
+      <note default-x="17.46" default-y="-5.00" dynamics="112.22">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1964,10 +1973,10 @@
         <stem>down</stem>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>Till</text>
+          <text>To</text>
           </lyric>
         </note>
-      <note default-x="65.63" default-y="-10.00" dynamics="94.44">
+      <note default-x="62.41" default-y="-10.00" dynamics="94.44">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1981,7 +1990,7 @@
           <text>the</text>
           </lyric>
         </note>
-      <note default-x="101.49" default-y="-10.00" dynamics="87.78">
+      <note default-x="98.27" default-y="-10.00" dynamics="87.78">
         <pitch>
           <step>D</step>
           <octave>5</octave>
@@ -1995,7 +2004,7 @@
           <text>state</text>
           </lyric>
         </note>
-      <note default-x="146.34" default-y="-20.00" dynamics="112.22">
+      <note default-x="143.22" default-y="-20.00" dynamics="112.22">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -2014,7 +2023,7 @@
           <text>of</text>
           </lyric>
         </note>
-      <note default-x="174.38" default-y="-20.00" dynamics="112.22">
+      <note default-x="171.31" default-y="-20.00" dynamics="112.22">
         <pitch>
           <step>B</step>
           <octave>4</octave>

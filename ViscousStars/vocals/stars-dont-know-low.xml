@@ -10,7 +10,7 @@
     <rights>Graviteka</rights>
     <encoding>
       <software>MuseScore 2.1.0</software>
-      <encoding-date>2018-10-28</encoding-date>
+      <encoding-date>2018-11-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -76,7 +76,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
@@ -411,7 +411,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -652,7 +652,7 @@
           <text>them</text>
           </lyric>
         </note>
-      <note default-x="854.67" default-y="-40.00" dynamics="82.22">
+      <note default-x="854.66" default-y="-40.00" dynamics="82.22">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -694,7 +694,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -878,7 +878,7 @@
         <beam number="2">continue</beam>
         <beam number="3">begin</beam>
         </note>
-      <note default-x="661.86" default-y="-40.00" dynamics="87.78">
+      <note default-x="661.85" default-y="-40.00" dynamics="87.78">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1036,7 +1036,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -1381,7 +1381,7 @@
           <tied type="start"/>
           </notations>
         </note>
-      <note default-x="501.97" default-y="-25.00" dynamics="91.11">
+      <note default-x="501.96" default-y="-25.00" dynamics="91.11">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -1439,7 +1439,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -1713,6 +1713,15 @@
           <beat-type>4</beat-type>
           </time>
         </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>135</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="135"/>
+        </direction>
       <note default-x="53.55" default-y="-20.00" dynamics="87.78">
         <pitch>
           <step>B</step>
@@ -1854,7 +1863,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -2248,7 +2257,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -2309,7 +2318,7 @@
         <type>quarter</type>
         </note>
       </measure>
-    <measure number="16" width="458.31">
+    <measure number="16" width="458.30">
       <note>
         <rest/>
         <duration>32</duration>

@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
   <LastUsedSnapshot name="ViscousStars"/>
-  <Main x="0" y="0" w="1920" h="1043" current-tab="editor"/>
-  <Editor id="41" edit-horizontal-pane-pos="0.98434239625930786" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="187" snap-to="SnapToBeatDiv4" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv8" internal-snap-mode="SnapMagnetic" pre-internal-snap-to="SnapToBeatDiv4" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="0" y-origin="1263" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="0" show-editor-list="0" editor-list-page="0" show-marker-lines="0" nudge-clock-value="220500">
+  <Main x="0" y="0" w="1920" h="1080" current-tab="editor"/>
+  <Editor id="41" edit-horizontal-pane-pos="0.98434239625930786" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="129" snap-to="SnapToBeatDiv4" snap-mode="SnapMagnetic" internal-snap-to="SnapToBeatDiv8" internal-snap-mode="SnapMagnetic" pre-internal-snap-to="SnapToBeatDiv4" pre-internal-snap-mode="SnapMagnetic" edit-point="EditAtMouse" visible-track-count="-1" playhead="0" left-frame="343646" y-origin="1091" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="0" show-editor-list="0" editor-list-page="0" show-marker-lines="0" nudge-clock-value="220500">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
       <Release/>
     </Buttons>
     <Selection>
-      <StripableView id="221316"/>
+      <Regions>
+        <Region id="970465"/>
+        <Region id="970490"/>
+        <Region id="970515"/>
+        <Region id="970540"/>
+        <Region id="970565"/>
+        <Region id="970590"/>
+        <Region id="970615"/>
+        <Region id="970640"/>
+        <Region id="970665"/>
+        <Region id="970690"/>
+        <Region id="970715"/>
+      </Regions>
     </Selection>
     <RegionList sort-type="ByEndInFile" sort-ascending="1" show-all="0" show-automatic-regions="1"/>
     <ActionScript lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</ActionScript>
