@@ -56,7 +56,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1535990883" tv-usec="502491" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3519180" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="105840" end="1058400" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -82,7 +82,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1535990917" tv-usec="926360" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3598560" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="105840" end="1058400" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -362,7 +362,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1536006442" tv-usec="412672" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3625020" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="105840" end="1058400" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -388,7 +388,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1536006556" tv-usec="733258" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3625020" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="105840" end="1905120" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -414,7 +414,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1536006567" tv-usec="517291" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3625020" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="105840" end="2116800" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -440,7 +440,7 @@
     </MementoCommand>
   </UndoTransaction>
   <UndoTransaction tv-sec="1536006577" tv-usec="40404" name="move marker">
-    <MementoCommand obj-id="537340" type-name="ARDOUR::Locations">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
         <Location id="309" name="session" start="0" end="3625020" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="1513" name="Loop" start="952560" end="2116800" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>

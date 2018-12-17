@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="DarkMotherChant" sample-rate="44100" end-is-free="0" id-counter="16474" name-counter="1" event-counter="331903" vca-counter="1">
+<Session version="3002" name="DarkMotherChant" sample-rate="44100" end-is-free="0" id-counter="25708" name-counter="1" event-counter="346797" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -708,6 +708,42 @@
         <Controllable name="Gain 230" id="11743" flags="" value="0" parameter="140" symbol="gain230"/>
         <Controllable name="Link Mode" id="11745" flags="" value="0" parameter="144" symbol="linked"/>
       </Processor>
+      <Processor id="21078" name="ZaMaximX2" active="1" user-latency="0" type="lv2" unique-id="urn:zamaudio:ZaMaximX2" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-5" id="21079" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="21081" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="21083" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/ZaMaximX2_RetroFluctuations.lv2/RetroFluctuations.ttl" last-preset-label="RetroFluctuations" parameter-changed-since-last-preset="0" state-dir="state1">
+          <Port symbol="rel" value="50.118789672851562"/>
+          <Port symbol="ceil" value="0"/>
+          <Port symbol="thresh" value="-2.4000000953674316"/>
+        </lv2>
+        <Controllable name="Release" id="21080" flags="" value="50.118789672851562" parameter="5" symbol="rel"/>
+        <Controllable name="Output Ceiling" id="21082" flags="" value="0" parameter="6" symbol="ceil"/>
+        <Controllable name="Threshold" id="21084" flags="" value="-2.4000000953674316" parameter="7" symbol="thresh"/>
+      </Processor>
       <Processor id="11748" name="Calf Multiband Limiter" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/MultibandLimiter" count="1" custom="0">
         <Automation>
           <AutomationList automation-id="parameter-4" id="11749" interpolation-style="Discrete" state="Off"/>
@@ -761,7 +797,7 @@
           <Channelmap type="midi" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Multiband_Limiter_DarkMotherChant.lv2/DarkMotherChant.ttl" last-preset-label="DarkMotherChant" parameter-changed-since-last-preset="0">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Multiband_Limiter_DarkMotherChant.lv2/DarkMotherChant.ttl" last-preset-label="DarkMotherChant" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
@@ -818,7 +854,7 @@
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
-          <AutomationList automation-id="gain" id="57" interpolation-style="Linear" state="Touch">
+          <AutomationList automation-id="gain" id="57" interpolation-style="Linear" state="Play">
             <events>0 0
 105840 1.0005816221237183
 3069360 1.0005816221237183
@@ -826,7 +862,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="58" flags="GainLike" value="1.0005816221237183"/>
+        <Controllable name="gaincontrol" id="58" flags="GainLike" value="0"/>
       </Processor>
       <Processor id="86" name="meter-Master" active="1" user-latency="0" type="meter"/>
       <Processor id="87" name="Master" active="1" user-latency="0" own-input="1" own-output="0" output="Master" type="main-outs" role="Main">
@@ -5574,7 +5610,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="10796" flags="GainLike" value="0.7381356954574585"/>
+        <Controllable name="gaincontrol" id="10796" flags="GainLike" value="0"/>
       </Processor>
       <Processor id="10824" name="meter-MIDI 1" active="1" user-latency="0" type="meter"/>
       <Processor id="10825" name="Noises" active="1" user-latency="0" own-input="1" own-output="0" output="Noises" type="main-outs" role="Main">
@@ -6513,12 +6549,12 @@
     </Processor>
   </Click>
   <LTC-In>
-    <IO name="LTC In" id="537346" direction="Input" default-type="audio" user-latency="0">
+    <IO name="LTC In" id="47" direction="Input" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-in"/>
     </IO>
   </LTC-In>
   <LTC-Out>
-    <IO name="LTC Out" id="537347" direction="Output" default-type="audio" user-latency="0">
+    <IO name="LTC Out" id="48" direction="Output" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-out"/>
     </IO>
   </LTC-Out>
@@ -6547,14 +6583,14 @@
       <Window name="about" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="inspector" visible="0" x-off="34" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="0" x-size="571" y-size="408"/>
+      <Window name="inspector" visible="0" x-off="19" y-off="0" x-size="821" y-size="864"/>
+      <Window name="audio-midi-setup" visible="0" x-off="166" y-off="0" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
       <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-connection-manager" visible="0" x-off="0" y-off="152" x-size="506" y-size="634"/>
+      <Window name="audio-connection-manager" visible="0" x-off="0" y-off="152" x-size="548" y-size="431"/>
       <Window name="midi-connection-manager" visible="0" x-off="166" y-off="88" x-size="610" y-size="444"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-54" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -6764,6 +6800,8 @@
       <Window name="PM-10824-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-10825-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-10838-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-54-21078" visible="0" x-off="161" y-off="0" x-size="581" y-size="160" custom-ui="1"/>
+      <Window name="PM-21078-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="64" visible="1"/>
         <Object id="automation 58" height="64" visible="1"/>
@@ -6777,6 +6815,7 @@
           <Object id="processor 11520"/>
           <Object id="processor 11611"/>
           <Object id="processor 11748"/>
+          <Object id="processor 21078"/>
         </Object>
         <Object id="rtav 224" height="68" visible="1"/>
         <Object id="automation 228" height="64" visible="0"/>
@@ -6912,6 +6951,31 @@
         <Object id="automation 10811" height="64" visible="0"/>
       </GUIObjectState>
     </UI>
+    <ExportRevision revision="8"/>
+    <ExportProfile>
+      <ExportTimespan format="Timecode">
+        <Range id="309"/>
+      </ExportTimespan>
+      <ExportChannelConfiguration split="0" channels="2">
+        <Channel number="1">
+          <Port name="Master/audio_out 1"/>
+        </Channel>
+        <Channel number="2">
+          <Port name="Master/audio_out 2"/>
+        </Channel>
+      </ExportChannelConfiguration>
+      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
+      <ExportFilename>
+        <Folder relative="1" path="/export"/>
+        <Field name="label" enabled="1" value="dark-mother-chant"/>
+        <Field name="session" enabled="0"/>
+        <Field name="snapshot" enabled="0"/>
+        <Field name="timespan" enabled="1"/>
+        <Field name="revision" enabled="1"/>
+        <Field name="time" enabled="0" value="T_None"/>
+        <Field name="date" enabled="0" value="D_None"/>
+      </ExportFilename>
+    </ExportProfile>
     <Videomonitor active="0"/>
   </Extra>
   <Script lua="Lua 5.3">c2NyaXB0cyA9IHt9IA==</Script>
