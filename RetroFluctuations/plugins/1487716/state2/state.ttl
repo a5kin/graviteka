@@ -1,0 +1,57 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://kunz.corrupt.ch/products/tal-noisemaker> ;
+	state:state [
+		<urn:juce:stateString> """<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="0" version="1.6999999999999999556">
+  <programs>
+    <program programname="DR 8bit  Kick II FN" volume="0.30399999022483825684"
+             filtertype="0.54545497894287109375" cutoff="0" resonance="0.13600000739097595215"
+             osc1volume="0" osc2volume="0.81200003623962402344" osc3volume="0"
+             osc1waveform="0" osc2waveform="0.25" oscsync="0" oscmastertune="0.5"
+             osc1tune="1" osc2tune="0.49200001358985900879" osc1finetune="0"
+             osc2finetune="0.37200000882148742676" portamento="0" keyfollow="0"
+             filtercontour="0.75199997425079345703" filterattack="0" filterdecay="0.56800001859664916992"
+             filtersustain="0.036000002175569534302" filterrelease="0.54799997806549072266"
+             ampattack="0" ampdecay="0.4120000004768371582" ampsustain="0.15600000321865081787"
+             amprelease="0" voices="1" portamentomode="0" lfo1waveform="0"
+             lfo2waveform="0" lfo1rate="0.15200001001358032227" lfo2rate="0.13600000739097595215"
+             lfo1amount="0.19600000977516174316" lfo2amount="0.78800004720687866211"
+             lfo1destination="0" lfo2destination="0.57142901420593261719"
+             lfo1phase="0.12400000542402267456" lfo2phase="0" osc1pw="0.17200000584125518799"
+             osc2fm="0.13600000739097595215" osc1phase="0.50400000810623168945"
+             osc2phase="0" transpose="0" freeadattack="0" freeaddecay="0.23600001633167266846"
+             freeadamount="1" freeaddestination="0.60000002384185791016" lfo1sync="0"
+             lfo1keytrigger="0" lfo2sync="0" lfo2keytrigger="1" velocityvolume="0"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0.22000001370906829834"
+             pitchwheelpitch="0" highpass="0" detune="0" vintagenoise="0"
+             ringmodulation="0.12400000542402267456" chorus1enable="1" chorus2enable="0"
+             reverbwet="0" reverbdecay="0.5" reverbpredelay="0" reverbhighcut="0"
+             reverblowcut="1" oscbitcrusher="1" filterdrive="0" delaywet="0"
+             delaytime="0.5" delaysync="0" delayfactorl="0" delayfactorr="0"
+             delayhighshelf="0" delaylowshelf="0" delayfeedback="0.5" envelopeeditordest1="0"
+             envelopeeditorspeed="0" envelopeeditoramount="0" envelopeoneshot="0"
+             envelopefixtempo="0" tab1open="1" tab2open="0" tab3open="0" tab4open="1">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0.5"
+                     controlPointLeftX="0" controlPointLeftY="0.5" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0.5"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0.5"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0.5"
+                     controlPointRightX="1" controlPointRightY="0.5"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
+"""
+	] .
+
