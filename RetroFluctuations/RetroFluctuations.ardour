@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="2365719" name-counter="15" event-counter="266659397" vca-counter="1">
+<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="2401106" name-counter="15" event-counter="270020807" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -825,7 +825,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state43"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state44"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -11622,7 +11622,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state269">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state277">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0"/>
           <Port symbol="amp_decay" value="0.30905300378799438"/>
@@ -12163,7 +12163,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="1" state-dir="state267">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="1" state-dir="state275">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0.02500000037252903"/>
           <Port symbol="amp_decay" value="0.375"/>
@@ -15612,26 +15612,26 @@
         </OutputMap-0>
         <ThruMap/>
         <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
-          <Port symbol="decay_time" value="3.0081901550292969"/>
+          <Port symbol="decay_time" value="1.521904468536377"/>
           <Port symbol="hf_damp" value="5000"/>
           <Port symbol="room_size" value="2"/>
-          <Port symbol="diffusion" value="0.5"/>
-          <Port symbol="amount" value="0.25"/>
+          <Port symbol="diffusion" value="0"/>
+          <Port symbol="amount" value="0.14438572525978088"/>
           <Port symbol="dry" value="1"/>
-          <Port symbol="predelay" value="0"/>
+          <Port symbol="predelay" value="4"/>
           <Port symbol="bass_cut" value="300"/>
           <Port symbol="treble_cut" value="5000"/>
           <Port symbol="on" value="1"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
         </lv2>
-        <Controllable name="Decay time" id="82608" flags="" value="3.0081901550292969" parameter="7" symbol="decay_time"/>
+        <Controllable name="Decay time" id="82608" flags="" value="1.521904468536377" parameter="7" symbol="decay_time"/>
         <Controllable name="High Frq Damp" id="82610" flags="" value="5000" parameter="8" symbol="hf_damp"/>
         <Controllable name="Room size" id="82612" flags="" value="2" parameter="9" symbol="room_size"/>
-        <Controllable name="Diffusion" id="82614" flags="" value="0.5" parameter="10" symbol="diffusion"/>
-        <Controllable name="Wet Amount" id="82616" flags="" value="0.25" parameter="11" symbol="amount"/>
+        <Controllable name="Diffusion" id="82614" flags="" value="0" parameter="10" symbol="diffusion"/>
+        <Controllable name="Wet Amount" id="82616" flags="" value="0.14438572525978088" parameter="11" symbol="amount"/>
         <Controllable name="Dry Amount" id="82618" flags="" value="1" parameter="12" symbol="dry"/>
-        <Controllable name="Pre Delay" id="82620" flags="" value="0" parameter="13" symbol="predelay"/>
+        <Controllable name="Pre Delay" id="82620" flags="" value="4" parameter="13" symbol="predelay"/>
         <Controllable name="Bass Cut" id="82622" flags="" value="300" parameter="14" symbol="bass_cut"/>
         <Controllable name="Treble Cut" id="82624" flags="" value="5000" parameter="15" symbol="treble_cut"/>
         <Controllable name="Active" id="82626" flags="Toggle" value="1" parameter="16" symbol="on"/>
@@ -16045,7 +16045,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="322248" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.4602689743041992"/>
+        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.5554553270339966"/>
       </Processor>
       <Processor id="322277" name="meter-Composite Solo" active="1" user-latency="0" type="meter"/>
       <Processor id="322278" name="Composite Solo" active="1" user-latency="0" own-input="1" own-output="0" output="Composite Solo" type="main-outs" role="Main">
@@ -23781,7 +23781,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state43"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state44"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -26809,7 +26809,7 @@
     <Protocol name="Steinberg CC121" active="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportRevision revision="43"/>
+    <ExportRevision revision="44"/>
     <ExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="66492"/>
@@ -26842,7 +26842,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="9" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="607" y-off="30" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -27722,8 +27722,8 @@
       <Window name="P-322245-322281" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-322245-322276" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-322245-1254056" visible="0" x-off="0" y-off="0" x-size="850" y-size="403" custom-ui="1"/>
-      <Window name="P-322245-360696" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-322245-360724" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-322245-360696" visible="0" x-off="489" y-off="68" x-size="806" y-size="333" custom-ui="1"/>
+      <Window name="P-322245-360724" visible="0" x-off="433" y-off="29" x-size="918" y-size="410" custom-ui="1"/>
       <Window name="P-322245-1132124" visible="0" x-off="0" y-off="0" x-size="867" y-size="712" custom-ui="1"/>
       <Window name="P-322245-1132205" visible="0" x-off="0" y-off="0" x-size="850" y-size="403" custom-ui="1"/>
       <Window name="P-322245-1132232" visible="0" x-off="0" y-off="0" x-size="850" y-size="403" custom-ui="1"/>
