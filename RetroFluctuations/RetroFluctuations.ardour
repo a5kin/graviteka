@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="2153441" name-counter="15" event-counter="256339844" vca-counter="1">
+<Session version="3002" name="RetroFluctuations" sample-rate="44100" end-is-free="0" id-counter="2365719" name-counter="15" event-counter="266659397" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -182,7 +182,7 @@
     <Region name="01_-_Scorpions_-_Alien_Nation.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3238547" length="935941" position="35553" beat="1.3436507936507938" sync-position="3238547" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="1941236" type="audio" first-edit="nothing" source-0="1285968" source-1="1285970" master-source-0="1285968" master-source-1="1285970" channels="2"/>
   </Regions>
   <Selection>
-    <StripableAutomationControl stripable="54" control="0" order="1"/>
+    <StripableAutomationControl stripable="54" control="0" order="5"/>
   </Selection>
   <Locations>
     <Location id="66492" name="session" start="0" end="2101762" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
@@ -449,7 +449,7 @@
           <Port symbol="hs_freq" value="6738.900390625"/>
           <Port symbol="hs_q" value="0.7070000171661377"/>
           <Port symbol="p1_active" value="1"/>
-          <Port symbol="p1_level" value="1.1809924840927124"/>
+          <Port symbol="p1_level" value="1.0511727333068848"/>
           <Port symbol="p1_freq" value="65.462203979492188"/>
           <Port symbol="p1_q" value="1.4791082143783569"/>
           <Port symbol="p2_active" value="1"/>
@@ -489,7 +489,7 @@
         <Controllable name="Freq H" id="950669" flags="" value="6738.900390625" parameter="29" symbol="hs_freq"/>
         <Controllable name="HS Q" id="950671" flags="" value="0.7070000171661377" parameter="30" symbol="hs_q"/>
         <Controllable name="F1 Active" id="950673" flags="" value="1" parameter="31" symbol="p1_active"/>
-        <Controllable name="Level 1" id="950675" flags="" value="1.1809924840927124" parameter="32" symbol="p1_level"/>
+        <Controllable name="Level 1" id="950675" flags="" value="1.0511727333068848" parameter="32" symbol="p1_level"/>
         <Controllable name="Freq 1" id="950677" flags="" value="65.462203979492188" parameter="33" symbol="p1_freq"/>
         <Controllable name="Q 1" id="950679" flags="" value="1.4791082143783569" parameter="34" symbol="p1_q"/>
         <Controllable name="F2 Active" id="950681" flags="" value="1" parameter="35" symbol="p2_active"/>
@@ -550,7 +550,7 @@
         <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="threshold" value="0.094732314348220825"/>
+          <Port symbol="threshold" value="0.11662913858890533"/>
           <Port symbol="ratio" value="2.1954338550567627"/>
           <Port symbol="attack" value="27.904186248779297"/>
           <Port symbol="release" value="51.371341705322266"/>
@@ -562,7 +562,7 @@
         </lv2>
         <Controllable name="Bypass" id="950716" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input" id="950718" flags="" value="1" parameter="5" symbol="level_in"/>
-        <Controllable name="Threshold" id="950720" flags="" value="0.094732314348220825" parameter="10" symbol="threshold"/>
+        <Controllable name="Threshold" id="950720" flags="" value="0.11662913858890533" parameter="10" symbol="threshold"/>
         <Controllable name="Ratio" id="950722" flags="" value="2.1954338550567627" parameter="11" symbol="ratio"/>
         <Controllable name="Attack" id="950724" flags="" value="27.904186248779297" parameter="12" symbol="attack"/>
         <Controllable name="Release" id="950726" flags="" value="51.371341705322266" parameter="13" symbol="release"/>
@@ -610,21 +610,21 @@
         <ThruMap/>
         <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
-          <Port symbol="level_in" value="0.84674525260925293"/>
+          <Port symbol="level_in" value="0.77916455268859863"/>
           <Port symbol="level_out" value="0.96727627515792847"/>
           <Port symbol="limit" value="0.26720148324966431"/>
           <Port symbol="attack" value="4.0204000473022461"/>
-          <Port symbol="release" value="32.134384155273438"/>
+          <Port symbol="release" value="36.812896728515625"/>
           <Port symbol="asc" value="0"/>
           <Port symbol="asc_coeff" value="0.5"/>
           <Port symbol="oversampling" value="3"/>
         </lv2>
         <Controllable name="Bypass" id="1041417" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
-        <Controllable name="Input Gain" id="1041419" flags="" value="0.84674525260925293" parameter="5" symbol="level_in"/>
+        <Controllable name="Input Gain" id="1041419" flags="" value="0.77916455268859863" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="1041421" flags="" value="0.96727627515792847" parameter="6" symbol="level_out"/>
         <Controllable name="Limit" id="1041423" flags="" value="0.26720148324966431" parameter="15" symbol="limit"/>
         <Controllable name="Lookahead" id="1041425" flags="" value="4.0204000473022461" parameter="16" symbol="attack"/>
-        <Controllable name="Release" id="1041427" flags="" value="32.134384155273438" parameter="17" symbol="release"/>
+        <Controllable name="Release" id="1041427" flags="" value="36.812896728515625" parameter="17" symbol="release"/>
         <Controllable name="ASC" id="1041429" flags="Toggle" value="0" parameter="19" symbol="asc"/>
         <Controllable name="ASC Level" id="1041431" flags="" value="0.5" parameter="21" symbol="asc_coeff"/>
         <Controllable name="Oversampling" id="1041433" flags="" value="3" parameter="22" symbol="oversampling"/>
@@ -825,13 +825,13 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state37"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state43"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="57" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="58" flags="GainLike" value="0.99854528903961182"/>
+        <Controllable name="gaincontrol" id="58" flags="GainLike" value="0.99854636192321777"/>
       </Processor>
       <Processor id="86" name="meter-Master" active="1" user-latency="0" type="meter"/>
       <Processor id="87" name="Master" active="1" user-latency="0" own-input="1" own-output="0" output="Master" type="main-outs" role="Main">
@@ -5145,7 +5145,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="121305" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="121306" flags="GainLike" value="0.68198680877685547"/>
+        <Controllable name="gaincontrol" id="121306" flags="GainLike" value="0.62818872928619385"/>
       </Processor>
       <Processor id="1222973" name="Kick/Snare AUX" active="1" user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="4" selfdestruct="0" target="1222874" allow-feedback="0">
         <Automation>
@@ -9165,7 +9165,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="192068" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="192069" flags="GainLike" value="0.68028426170349121"/>
+        <Controllable name="gaincontrol" id="192069" flags="GainLike" value="0.58574140071868896"/>
       </Processor>
       <Processor id="192097" name="meter-Hi-Hat Bus" active="1" user-latency="0" type="meter"/>
       <Processor id="192098" name="Hi-Hat Bus" active="1" user-latency="0" own-input="1" own-output="0" output="Hi-Hat Bus" type="main-outs" role="Main">
@@ -9886,7 +9886,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="194182" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="194183" flags="GainLike" value="0.63584595918655396"/>
+        <Controllable name="gaincontrol" id="194183" flags="GainLike" value="0.62535750865936279"/>
       </Processor>
       <Processor id="194211" name="meter-Crash Bus" active="1" user-latency="0" type="meter"/>
       <Processor id="194212" name="Crash Bus" active="1" user-latency="0" own-input="1" own-output="0" output="Crash Bus" type="main-outs" role="Main">
@@ -11622,7 +11622,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state251">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset023" last-preset-label="COA Killer Chipsound Pluck 1" parameter-changed-since-last-preset="0" state-dir="state269">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0"/>
           <Port symbol="amp_decay" value="0.30905300378799438"/>
@@ -12163,7 +12163,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="1" state-dir="state249">
+        <lv2 last-preset-uri="http://tytel.org/helm#preset105" last-preset-label="SF Formant 1" parameter-changed-since-last-preset="1" state-dir="state267">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="amp_attack" value="0.02500000037252903"/>
           <Port symbol="amp_decay" value="0.375"/>
@@ -16045,7 +16045,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="322248" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.2651300430297852"/>
+        <Controllable name="gaincontrol" id="322249" flags="GainLike" value="1.4602689743041992"/>
       </Processor>
       <Processor id="322277" name="meter-Composite Solo" active="1" user-latency="0" type="meter"/>
       <Processor id="322278" name="Composite Solo" active="1" user-latency="0" own-input="1" own-output="0" output="Composite Solo" type="main-outs" role="Main">
@@ -20862,6 +20862,59 @@
         <Controllable name="Input Gain" id="803136" flags="" value="1" parameter="17" symbol="level_in"/>
         <Controllable name="Output Gain" id="803138" flags="" value="1" parameter="18" symbol="level_out"/>
       </Processor>
+      <Processor id="2188797" name="Calf Limiter" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Limiter" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="2188798" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="2188800" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="2188802" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="2188804" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="2188806" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="2188808" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="2188810" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="2188812" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="2188814" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="bypass" value="0"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="0.3120826780796051"/>
+          <Port symbol="limit" value="0.16493847966194153"/>
+          <Port symbol="attack" value="4.0496001243591309"/>
+          <Port symbol="release" value="33.034671783447266"/>
+          <Port symbol="asc" value="1"/>
+          <Port symbol="asc_coeff" value="0.5"/>
+          <Port symbol="oversampling" value="2"/>
+        </lv2>
+        <Controllable name="Bypass" id="2188799" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
+        <Controllable name="Input Gain" id="2188801" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Output Gain" id="2188803" flags="" value="0.3120826780796051" parameter="6" symbol="level_out"/>
+        <Controllable name="Limit" id="2188805" flags="" value="0.16493847966194153" parameter="15" symbol="limit"/>
+        <Controllable name="Lookahead" id="2188807" flags="" value="4.0496001243591309" parameter="16" symbol="attack"/>
+        <Controllable name="Release" id="2188809" flags="" value="33.034671783447266" parameter="17" symbol="release"/>
+        <Controllable name="ASC" id="2188811" flags="Toggle" value="1" parameter="19" symbol="asc"/>
+        <Controllable name="ASC Level" id="2188813" flags="" value="0.5" parameter="21" symbol="asc_coeff"/>
+        <Controllable name="Oversampling" id="2188815" flags="" value="2" parameter="22" symbol="oversampling"/>
+      </Processor>
       <Processor id="1285611" name="Chorus AUX" active="1" user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="13" selfdestruct="0" target="1285234" allow-feedback="0">
         <Automation>
           <AutomationList automation-id="gain" id="1285624" interpolation-style="Linear" state="Off"/>
@@ -20922,7 +20975,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="802917" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="802918" flags="GainLike" value="1.0570579767227173"/>
+        <Controllable name="gaincontrol" id="802918" flags="GainLike" value="0.8363456130027771"/>
       </Processor>
       <Processor id="802946" name="meter-Drums AUX" active="1" user-latency="0" type="meter"/>
       <Processor id="802947" name="Drums Submix" active="1" user-latency="0" own-input="1" own-output="0" output="Drums Submix" type="main-outs" role="Main">
@@ -22259,7 +22312,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="861149" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="861150" flags="GainLike" value="1.0000009536743164"/>
+        <Controllable name="gaincontrol" id="861150" flags="GainLike" value="0.94368845224380493"/>
       </Processor>
       <Processor id="1222951" name="Kick/Snare AUX" active="1" user-latency="0" own-input="1" own-output="1" type="intsend" role="Aux" bitslot="3" selfdestruct="0" target="1222874" allow-feedback="0">
         <Automation>
@@ -23728,7 +23781,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state37"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state43"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -26756,7 +26809,7 @@
     <Protocol name="Steinberg CC121" active="0"/>
   </ControlProtocols>
   <Extra>
-    <ExportRevision revision="40"/>
+    <ExportRevision revision="43"/>
     <ExportProfile>
       <ExportTimespan format="Timecode">
         <Range id="66492"/>
@@ -27424,6 +27477,7 @@
       <Window name="P-802914-802945" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-802914-1386374" visible="0" x-off="0" y-off="0" x-size="948" y-size="365" custom-ui="1"/>
       <Window name="P-802914-803114" visible="0" x-off="364" y-off="142" x-size="806" y-size="333" custom-ui="1"/>
+      <Window name="P-802914-2188797" visible="0" x-off="0" y-off="0" x-size="700" y-size="375" custom-ui="1"/>
       <Window name="P-802914-1285611" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-802914-1285633" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-802914-802944" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -27434,6 +27488,7 @@
       <Window name="PM-802945-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1386374-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-803114-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-2188797-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285611-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285633-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-802944-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -29113,6 +29168,7 @@
             <Object id="control 1285647" visible="1"/>
           </Object>
           <Object id="processor 1386374"/>
+          <Object id="processor 2188797"/>
         </Object>
         <Object id="rtav 803144" height="64" visible="1"/>
         <Object id="automation 803148" height="64" visible="0"/>
