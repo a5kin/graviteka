@@ -1,531 +1,2847 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1543086215" tv-usec="721958" name="automation event move">
-    <MementoUndoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 0.5567813515663147
-4256102 1.0005816221237183
+  <UndoTransaction tv-sec="1548710133" tv-usec="818507" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>14.022486772486786 6784
+14.087142857142851 6016
+14.151957671957661 5760
+14.281798941798939 5504
+14.346402116402118 5248
+14.411216931216927 4480
+14.475714285714275 2816
+14.540529100529113 512
+14.605079365079348 0
+14.799735449735465 512
+14.864550264550275 4736
+14.931375661375654 8192
+15.384232804232795 9728
+15.448941798941803 14976
+15.513597883597868 16383
+15.838518518518526 12032
+15.90306878306879 8192
+16.877142857142871 10752
+16.942169312169312 14976
+17.00687830687832 16383
+17.461058201058194 13696
+17.525661375661372 8192
+17.850105820105824 9856
+17.914920634920634 16383
+18.369100529100535 11648
+18.433439153439167 8320
+18.498042328042317 8192
+18.886349206349223 9216
+18.951111111111118 12928
+19.015978835978842 16383
+19.405238095238104 15232
+19.469947089947084 8064
+19.599629629629646 8192
+21.346296296296288 7552
+21.411058201058211 6400
+21.475608465608445 4096
+21.540370370370368 640
+21.670317460317449 8192
+25.879682539682534 7808
+25.944550264550259 6784
+26.009153439153437 6272
+26.07380952380953 5760
+26.138624338624339 5376
+26.203121693121716 4736
+26.267936507936497 4224
+26.33269841269842 3584
+26.397566137566145 3072
+26.462116402116408 2560
+26.526772486772501 2176
+26.591428571428565 1664
+26.656190476190488 1280
+26.721005291005298 768
+26.785555555555561 384
+26.850264550264541 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>13.76089947089946 6784
+13.825555555555553 6016
+13.890370370370363 5760
+14.020211640211642 5504
+14.08481481481482 5248
+14.149629629629629 4480
+14.214126984126978 2816
+14.278941798941787 512
+14.343492063492079 0
+14.538148148148139 512
+14.602962962962977 4736
+14.669788359788356 8192
+15.122645502645497 9728
+15.187354497354505 14976
+15.252010582010598 16383
+15.5769312169312 12032
+15.641481481481492 8192
+16.615555555555545 10752
+16.680582010582015 14976
+16.745291005290994 16383
+17.199470899470896 13696
+17.264074074074074 8192
+17.588518518518526 9856
+17.653333333333336 16383
+18.107513227513238 11648
+18.171851851851841 8320
+18.236455026455019 8192
+18.624761904761897 9216
+18.68952380952382 12928
+18.754391534391544 16383
+19.143650793650806 15232
+19.208359788359786 8064
+19.33804232804232 8192
+21.08470899470899 7552
+21.149470899470884 6400
+21.214021164021176 4096
+21.278783068783071 640
+21.408730158730151 8192
+25.618095238095236 7808
+25.682962962962961 6784
+25.747566137566139 6272
+25.812222222222204 5760
+25.877037037037042 5376
+25.94153439153439 4736
+26.006349206349199 4224
+26.071111111111122 3584
+26.135978835978847 3072
+26.20052910052911 2560
+26.265185185185203 2176
+26.329841269841268 1664
+26.394603174603162 1280
+26.459417989418 768
+26.523968253968235 384
+26.588677248677243 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoRedoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2417748" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2417748" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1543086222" tv-usec="161265" name="move marker">
-    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
-      <Locations>
-        <Location id="664549" name="session" start="0" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
-        <Location id="1430999" name="xrun" start="2316944" end="2316944" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
-      </Locations>
-      <Locations>
-        <Location id="664549" name="session" start="56712" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
-        <Location id="1430999" name="xrun" start="2316944" end="2316944" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
-      </Locations>
-    </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543086225" tv-usec="385134" name="move marker">
-    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
-      <Locations>
-        <Location id="664549" name="session" start="56712" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
-        <Location id="1430999" name="xrun" start="2316944" end="2316944" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
-      </Locations>
-      <Locations>
-        <Location id="664549" name="session" start="56576" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
-        <Location id="1430999" name="xrun" start="2316944" end="2316944" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
-      </Locations>
-    </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="0" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543086236" tv-usec="725770" name="add automation event">
-    <MementoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-</events>
-      </AutomationList>
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-4385386 0.026973189786076546
-</events>
-      </AutomationList>
-    </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4222730" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="0"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4222730" y-origin="0">
-        <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543086241" tv-usec="269977" name="automation event move">
-    <MementoUndoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-4385386 0.026973189786076546
+  <UndoTransaction tv-sec="1548710176" tv-usec="60092" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>13.76089947089946 6784
+13.825555555555553 6016
+13.890370370370363 5760
+14.020211640211642 5504
+14.08481481481482 5248
+14.149629629629629 4480
+14.214126984126978 2816
+14.278941798941787 512
+14.343492063492079 0
+14.538148148148139 512
+14.602962962962977 4736
+14.669788359788356 8192
+15.122645502645497 9728
+15.187354497354505 14976
+15.252010582010598 16383
+15.5769312169312 12032
+15.641481481481492 8192
+16.615555555555545 10752
+16.680582010582015 14976
+16.745291005290994 16383
+17.199470899470896 13696
+17.264074074074074 8192
+17.588518518518526 9856
+17.653333333333336 16383
+18.107513227513238 11648
+18.171851851851841 8320
+18.236455026455019 8192
+18.624761904761897 9216
+18.68952380952382 12928
+18.754391534391544 16383
+19.143650793650806 15232
+19.208359788359786 8064
+19.33804232804232 8192
+21.08470899470899 7552
+21.149470899470884 6400
+21.214021164021176 4096
+21.278783068783071 640
+21.408730158730151 8192
+25.618095238095236 7808
+25.682962962962961 6784
+25.747566137566139 6272
+25.812222222222204 5760
+25.877037037037042 5376
+25.94153439153439 4736
+26.006349206349199 4224
+26.071111111111122 3584
+26.135978835978847 3072
+26.20052910052911 2560
+26.265185185185203 2176
+26.329841269841268 1664
+26.394603174603162 1280
+26.459417989418 768
+26.523968253968235 384
+26.588677248677243 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Off">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-4416394 0
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>13.728201058201051 6784
+13.792857142857144 6016
+13.857671957671954 5760
+13.987513227513233 5504
+14.052116402116411 5248
+14.116931216931221 4480
+14.181428571428569 2816
+14.246243386243378 512
+14.310793650793642 0
+14.505449735449758 512
+14.57026455026454 4736
+14.637089947089947 8192
+15.089947089947088 9728
+15.154656084656096 14976
+15.219312169312161 16383
+15.54423280423282 12032
+15.608783068783055 8192
+16.582857142857137 10752
+16.647883597883606 14976
+16.712592592592586 16383
+17.166772486772487 13696
+17.231375661375665 8192
+17.555820105820089 9856
+17.620634920634927 16383
+18.074814814814829 11648
+18.139153439153432 8320
+18.20375661375661 8192
+18.592063492063488 9216
+18.656825396825411 12928
+18.721693121693136 16383
+19.110952380952369 15232
+19.175661375661377 8064
+19.305343915343911 8192
+21.052010582010581 7552
+21.116772486772476 6400
+21.181322751322739 4096
+21.246084656084662 640
+21.376031746031742 8192
+25.585396825396828 7808
+25.650264550264552 6784
+25.71486772486773 6272
+25.779523809523795 5760
+25.844338624338633 5376
+25.908835978835981 4736
+25.973650793650791 4224
+26.038412698412685 3584
+26.10328042328041 3072
+26.167830687830701 2560
+26.232486772486766 2176
+26.297142857142859 1664
+26.361904761904754 1280
+26.426719576719563 768
+26.491269841269855 384
+26.555978835978834 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoRedoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4222730" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4222730" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1543086291" tv-usec="572751" name="resize notes">
-    <NoteDiffCommand midi-source="769617">
-      <ChangedNotes>
-        <Change property="Length" old="14.438885582010542" new="8.8414252645502103" id="115795285"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4357041" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="769629">
-            <note note-id="115795285"/>
-          </MIDINotes>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4357041" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="769629">
-            <note note-id="115795285"/>
-          </MIDINotes>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543086307" tv-usec="620713" name="resize notes">
-    <NoteDiffCommand midi-source="769617">
-      <ChangedNotes>
-        <Change property="Length" old="8.8414252645502103" new="10.302166005290971" id="115795285"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4341691" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="769629">
-            <note note-id="115795285"/>
-          </MIDINotes>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4341691" y-origin="0">
-        <Selection>
-          <MIDINotes region-id="769629">
-            <note note-id="115795285"/>
-          </MIDINotes>
-          <Marker id="664549" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543086314" tv-usec="364588" name="automation event move">
-    <MementoUndoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Play">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-4416394 0
+  <UndoTransaction tv-sec="1548710185" tv-usec="887326" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>13.728201058201051 6784
+13.792857142857144 6016
+13.857671957671954 5760
+13.987513227513233 5504
+14.052116402116411 5248
+14.116931216931221 4480
+14.181428571428569 2816
+14.246243386243378 512
+14.310793650793642 0
+14.505449735449758 512
+14.57026455026454 4736
+14.637089947089947 8192
+15.089947089947088 9728
+15.154656084656096 14976
+15.219312169312161 16383
+15.54423280423282 12032
+15.608783068783055 8192
+16.582857142857137 10752
+16.647883597883606 14976
+16.712592592592586 16383
+17.166772486772487 13696
+17.231375661375665 8192
+17.555820105820089 9856
+17.620634920634927 16383
+18.074814814814829 11648
+18.139153439153432 8320
+18.20375661375661 8192
+18.592063492063488 9216
+18.656825396825411 12928
+18.721693121693136 16383
+19.110952380952369 15232
+19.175661375661377 8064
+19.305343915343911 8192
+21.052010582010581 7552
+21.116772486772476 6400
+21.181322751322739 4096
+21.246084656084662 640
+21.376031746031742 8192
+25.585396825396828 7808
+25.650264550264552 6784
+25.71486772486773 6272
+25.779523809523795 5760
+25.844338624338633 5376
+25.908835978835981 4736
+25.973650793650791 4224
+26.038412698412685 3584
+26.10328042328041 3072
+26.167830687830701 2560
+26.232486772486766 2176
+26.297142857142859 1664
+26.361904761904754 1280
+26.426719576719563 768
+26.491269841269855 384
+26.555978835978834 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj-id="664633" type-name="ARDOUR::AutomationList">
-      <AutomationList automation-id="gain" id="664633" interpolation-style="Linear" state="Play">
-        <events>0 1.0005816221237183
-4256102 1.0005816221237183
-4444682 0
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Linear" state="Play">
+        <events>13.793597883597897 6784
+13.858253968253962 6016
+13.9230687830688 5760
+14.05291005291005 5504
+14.117513227513228 5248
+14.182328042328038 4480
+14.246825396825386 2816
+14.311640211640224 512
+14.376190476190487 0
+14.570846560846576 512
+14.635661375661357 4736
+14.702486772486765 8192
+15.155343915343906 9728
+15.220052910052914 14976
+15.284708994708978 16383
+15.609629629629637 12032
+15.674179894179872 8192
+16.648253968253982 10752
+16.713280423280423 14976
+16.777989417989431 16383
+17.232169312169304 13696
+17.296772486772483 8192
+17.621216931216935 9856
+17.686031746031745 16383
+18.140211640211646 11648
+18.204550264550278 8320
+18.269153439153456 8192
+18.657460317460334 9216
+18.722222222222229 12928
+18.787089947089953 16383
+19.176349206349215 15232
+19.241058201058195 8064
+19.370740740740757 8192
+21.117407407407399 7552
+21.182169312169322 6400
+21.246719576719585 4096
+21.311481481481479 640
+21.44142857142856 8192
+25.650793650793645 7808
+25.715661375661369 6784
+25.780264550264548 6272
+25.844920634920641 5760
+25.90973544973545 5376
+25.974232804232798 4736
+26.039047619047608 4224
+26.103809523809531 3584
+26.168677248677255 3072
+26.233227513227519 2560
+26.297883597883583 2176
+26.362539682539676 1664
+26.427301587301599 1280
+26.492116402116409 768
+26.556666666666672 384
+26.62137566137568 0
+27.626249999999999 8192
 </events>
       </AutomationList>
     </MementoRedoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4341691" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4341691" y-origin="0">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <Marker id="2436491" start="0"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1543086459" tv-usec="652725" name="remove marker">
+  <UndoTransaction tv-sec="1548710521" tv-usec="535572" name="add automation event">
+    <MementoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.793597883597897 6784
+13.858253968253962 6016
+13.9230687830688 5760
+14.05291005291005 5504
+14.117513227513228 5248
+14.182328042328038 4480
+14.246825396825386 2816
+14.311640211640224 512
+14.376190476190487 0
+14.570846560846576 512
+14.635661375661357 4736
+14.702486772486765 8192
+15.155343915343906 9728
+15.220052910052914 14976
+15.284708994708978 16383
+15.609629629629637 12032
+15.674179894179872 8192
+16.648253968253982 10752
+16.713280423280423 14976
+16.777989417989431 16383
+17.232169312169304 13696
+17.296772486772483 8192
+17.621216931216935 9856
+17.686031746031745 16383
+18.140211640211646 11648
+18.204550264550278 8320
+18.269153439153456 8192
+18.657460317460334 9216
+18.722222222222229 12928
+18.787089947089953 16383
+19.176349206349215 15232
+19.241058201058195 8064
+19.370740740740757 8192
+21.117407407407399 7552
+21.182169312169322 6400
+21.246719576719585 4096
+21.311481481481479 640
+21.44142857142856 8192
+25.650793650793645 7808
+25.715661375661369 6784
+25.780264550264548 6272
+25.844920634920641 5760
+25.90973544973545 5376
+25.974232804232798 4736
+26.039047619047608 4224
+26.103809523809531 3584
+26.168677248677255 3072
+26.233227513227519 2560
+26.297883597883583 2176
+26.362539682539676 1664
+26.427301587301599 1280
+26.492116402116409 768
+26.556666666666672 384
+26.62137566137568 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.793597883597897 6784
+13.858253968253962 6016
+13.9230687830688 5760
+14.05291005291005 5504
+14.117513227513228 5248
+14.182328042328038 4480
+14.246825396825386 2816
+14.311640211640224 512
+14.376190476190487 0
+14.570846560846576 512
+14.635661375661357 4736
+14.702486772486765 8192
+15.155343915343906 9728
+15.220052910052914 14976
+15.284708994708978 16383
+15.609629629629637 12032
+15.674179894179872 8192
+16.648253968253982 10752
+16.713280423280423 14976
+16.777989417989431 16383
+17.232169312169304 13696
+17.296772486772483 8192
+17.621216931216935 9856
+17.686031746031745 16383
+18.140211640211646 11648
+18.204550264550278 8320
+18.241534391534401 5053
+18.269153439153456 8192
+18.657460317460334 9216
+18.722222222222229 12928
+18.787089947089953 16383
+19.176349206349215 15232
+19.241058201058195 8064
+19.370740740740757 8192
+21.117407407407399 7552
+21.182169312169322 6400
+21.246719576719585 4096
+21.311481481481479 640
+21.44142857142856 8192
+25.650793650793645 7808
+25.715661375661369 6784
+25.780264550264548 6272
+25.844920634920641 5760
+25.90973544973545 5376
+25.974232804232798 4736
+26.039047619047608 4224
+26.103809523809531 3584
+26.168677248677255 3072
+26.233227513227519 2560
+26.297883597883583 2176
+26.362539682539676 1664
+26.427301587301599 1280
+26.492116402116409 768
+26.556666666666672 384
+26.62137566137568 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <Marker id="2436491" start="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <Marker id="2436491" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548710562" tv-usec="159997" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.793597883597897 6784
+13.858253968253962 6016
+13.9230687830688 5760
+14.05291005291005 5504
+14.117513227513228 5248
+14.182328042328038 4480
+14.246825396825386 2816
+14.311640211640224 512
+14.376190476190487 0
+14.570846560846576 512
+14.635661375661357 4736
+14.702486772486765 8192
+15.155343915343906 9728
+15.220052910052914 14976
+15.284708994708978 16383
+15.609629629629637 12032
+15.674179894179872 8192
+16.648253968253982 10752
+16.713280423280423 14976
+16.777989417989431 16383
+17.232169312169304 13696
+17.296772486772483 8192
+17.621216931216935 9856
+17.686031746031745 16383
+18.140211640211646 11648
+18.204550264550278 8320
+18.241534391534401 5053
+18.269153439153456 8192
+18.657460317460334 9216
+18.722222222222229 12928
+18.787089947089953 16383
+19.176349206349215 15232
+19.241058201058195 8064
+19.370740740740757 8192
+21.117407407407399 7552
+21.182169312169322 6400
+21.246719576719585 4096
+21.311481481481479 640
+21.44142857142856 8192
+25.650793650793645 7808
+25.715661375661369 6784
+25.780264550264548 6272
+25.844920634920641 5760
+25.90973544973545 5376
+25.974232804232798 4736
+26.039047619047608 4224
+26.103809523809531 3584
+26.168677248677255 3072
+26.233227513227519 2560
+26.297883597883583 2176
+26.362539682539676 1664
+26.427301587301599 1280
+26.492116402116409 768
+26.556666666666672 384
+26.62137566137568 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.728201058201051 6784
+13.792857142857144 6016
+13.857671957671954 5760
+13.987513227513233 5504
+14.052116402116411 5248
+14.116931216931221 4480
+14.181428571428569 2816
+14.246243386243378 512
+14.310793650793642 0
+14.505449735449758 512
+14.57026455026454 4736
+14.637089947089947 8192
+15.089947089947088 9728
+15.154656084656096 14976
+15.219312169312161 16383
+15.54423280423282 12032
+15.608783068783055 8192
+16.582857142857137 10752
+16.647883597883606 14976
+16.712592592592586 16383
+17.166772486772487 13696
+17.231375661375665 8192
+17.555820105820089 9856
+17.620634920634927 16383
+18.074814814814829 11648
+18.139153439153432 8320
+18.176137566137555 5053
+18.20375661375661 8192
+18.592063492063488 9216
+18.656825396825411 12928
+18.721693121693136 16383
+19.110952380952369 15232
+19.175661375661377 8064
+19.305343915343911 8192
+21.052010582010581 7552
+21.116772486772476 6400
+21.181322751322739 4096
+21.246084656084662 640
+21.376031746031742 8192
+25.585396825396828 7808
+25.650264550264552 6784
+25.71486772486773 6272
+25.779523809523795 5760
+25.844338624338633 5376
+25.908835978835981 4736
+25.973650793650791 4224
+26.038412698412685 3584
+26.10328042328041 3072
+26.167830687830701 2560
+26.232486772486766 2176
+26.297142857142859 1664
+26.361904761904754 1280
+26.426719576719563 768
+26.491269841269855 384
+26.555978835978834 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548710575" tv-usec="689798" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.728201058201051 6784
+13.792857142857144 6016
+13.857671957671954 5760
+13.987513227513233 5504
+14.052116402116411 5248
+14.116931216931221 4480
+14.181428571428569 2816
+14.246243386243378 512
+14.310793650793642 0
+14.505449735449758 512
+14.57026455026454 4736
+14.637089947089947 8192
+15.089947089947088 9728
+15.154656084656096 14976
+15.219312169312161 16383
+15.54423280423282 12032
+15.608783068783055 8192
+16.582857142857137 10752
+16.647883597883606 14976
+16.712592592592586 16383
+17.166772486772487 13696
+17.231375661375665 8192
+17.555820105820089 9856
+17.620634920634927 16383
+18.074814814814829 11648
+18.139153439153432 8320
+18.176137566137555 5053
+18.20375661375661 8192
+18.592063492063488 9216
+18.656825396825411 12928
+18.721693121693136 16383
+19.110952380952369 15232
+19.175661375661377 8064
+19.305343915343911 8192
+21.052010582010581 7552
+21.116772486772476 6400
+21.181322751322739 4096
+21.246084656084662 640
+21.376031746031742 8192
+25.585396825396828 7808
+25.650264550264552 6784
+25.71486772486773 6272
+25.779523809523795 5760
+25.844338624338633 5376
+25.908835978835981 4736
+25.973650793650791 4224
+26.038412698412685 3584
+26.10328042328041 3072
+26.167830687830701 2560
+26.232486772486766 2176
+26.297142857142859 1664
+26.361904761904754 1280
+26.426719576719563 768
+26.491269841269855 384
+26.555978835978834 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.581058201058198 6784
+13.645714285714291 6016
+13.710529100529101 5760
+13.84037037037038 5504
+13.904973544973529 5248
+13.969788359788367 4480
+14.034285714285716 2816
+14.099100529100525 512
+14.163650793650788 0
+14.358306878306877 512
+14.423121693121686 4736
+14.489947089947094 8192
+14.942804232804235 9728
+15.007513227513215 14976
+15.072169312169308 16383
+15.397089947089938 12032
+15.461640211640201 8192
+16.435714285714283 10752
+16.500740740740753 14976
+16.565449735449732 16383
+17.019629629629634 13696
+17.084232804232812 8192
+17.408677248677236 9856
+17.473492063492074 16383
+17.927671957671947 11648
+17.992010582010579 8320
+18.02899470899473 5053
+18.056613756613757 8192
+18.444920634920635 9216
+18.509682539682558 12928
+18.574550264550254 16383
+18.963809523809516 15232
+19.028518518518524 8064
+19.158201058201058 8192
+20.904867724867728 7552
+20.969629629629623 6400
+21.034179894179886 4096
+21.09894179894178 640
+21.228888888888889 8192
+25.438253968253974 7808
+25.503121693121699 6784
+25.567724867724877 6272
+25.63238095238097 5760
+25.697195767195751 5376
+25.761693121693099 4736
+25.826507936507937 4224
+25.891269841269832 3584
+25.956137566137556 3072
+26.02068783068782 2560
+26.085343915343913 2176
+26.150000000000006 1664
+26.2147619047619 1280
+26.27957671957671 768
+26.344126984126973 384
+26.408835978835981 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548710600" tv-usec="541893" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.581058201058198 6784
+13.645714285714291 6016
+13.710529100529101 5760
+13.84037037037038 5504
+13.904973544973529 5248
+13.969788359788367 4480
+14.034285714285716 2816
+14.099100529100525 512
+14.163650793650788 0
+14.358306878306877 512
+14.423121693121686 4736
+14.489947089947094 8192
+14.942804232804235 9728
+15.007513227513215 14976
+15.072169312169308 16383
+15.397089947089938 12032
+15.461640211640201 8192
+16.435714285714283 10752
+16.500740740740753 14976
+16.565449735449732 16383
+17.019629629629634 13696
+17.084232804232812 8192
+17.408677248677236 9856
+17.473492063492074 16383
+17.927671957671947 11648
+17.992010582010579 8320
+18.02899470899473 5053
+18.056613756613757 8192
+18.444920634920635 9216
+18.509682539682558 12928
+18.574550264550254 16383
+18.963809523809516 15232
+19.028518518518524 8064
+19.158201058201058 8192
+20.904867724867728 7552
+20.969629629629623 6400
+21.034179894179886 4096
+21.09894179894178 640
+21.228888888888889 8192
+25.438253968253974 7808
+25.503121693121699 6784
+25.567724867724877 6272
+25.63238095238097 5760
+25.697195767195751 5376
+25.761693121693099 4736
+25.826507936507937 4224
+25.891269841269832 3584
+25.956137566137556 3072
+26.02068783068782 2560
+26.085343915343913 2176
+26.150000000000006 1664
+26.2147619047619 1280
+26.27957671957671 768
+26.344126984126973 384
+26.408835978835981 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.662804232804234 6784
+13.727460317460327 6016
+13.792275132275137 5760
+13.922116402116387 5504
+13.986719576719565 5248
+14.051534391534403 4480
+14.116031746031751 2816
+14.180846560846561 512
+14.245396825396824 0
+14.440052910052913 512
+14.504867724867722 4736
+14.57169312169313 8192
+15.024550264550271 9728
+15.089259259259279 14976
+15.153915343915344 16383
+15.478835978835974 12032
+15.543386243386237 8192
+16.517460317460319 10752
+16.58248677248676 14976
+16.647195767195768 16383
+17.101375661375641 13696
+17.165978835978819 8192
+17.490423280423272 9856
+17.55523809523811 16383
+18.009417989417983 11648
+18.073756613756615 8320
+18.110740740740738 5053
+18.138359788359793 8192
+18.526666666666671 9216
+18.591428571428565 12928
+18.65629629629629 16383
+19.045555555555552 15232
+19.11026455026456 8064
+19.239947089947094 8192
+20.986613756613764 7552
+21.051375661375658 6400
+21.115925925925922 4096
+21.180687830687816 640
+21.310634920634925 8192
+25.52000000000001 7808
+25.584867724867735 6784
+25.649470899470884 6272
+25.714126984126978 5760
+25.778941798941787 5376
+25.843439153439135 4736
+25.908253968253973 4224
+25.973015873015868 3584
+26.037883597883592 3072
+26.102433862433884 2560
+26.167089947089949 2176
+26.231746031746013 1664
+26.296507936507936 1280
+26.361322751322746 768
+26.425873015873009 384
+26.490582010582017 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548710641" tv-usec="735255" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.662804232804234 6784
+13.727460317460327 6016
+13.792275132275137 5760
+13.922116402116387 5504
+13.986719576719565 5248
+14.051534391534403 4480
+14.116031746031751 2816
+14.180846560846561 512
+14.245396825396824 0
+14.440052910052913 512
+14.504867724867722 4736
+14.57169312169313 8192
+15.024550264550271 9728
+15.089259259259279 14976
+15.153915343915344 16383
+15.478835978835974 12032
+15.543386243386237 8192
+16.517460317460319 10752
+16.58248677248676 14976
+16.647195767195768 16383
+17.101375661375641 13696
+17.165978835978819 8192
+17.490423280423272 9856
+17.55523809523811 16383
+18.009417989417983 11648
+18.073756613756615 8320
+18.110740740740738 5053
+18.138359788359793 8192
+18.526666666666671 9216
+18.591428571428565 12928
+18.65629629629629 16383
+19.045555555555552 15232
+19.11026455026456 8064
+19.239947089947094 8192
+20.986613756613764 7552
+21.051375661375658 6400
+21.115925925925922 4096
+21.180687830687816 640
+21.310634920634925 8192
+25.52000000000001 7808
+25.584867724867735 6784
+25.649470899470884 6272
+25.714126984126978 5760
+25.778941798941787 5376
+25.843439153439135 4736
+25.908253968253973 4224
+25.973015873015868 3584
+26.037883597883592 3072
+26.102433862433884 2560
+26.167089947089949 2176
+26.231746031746013 1664
+26.296507936507936 1280
+26.361322751322746 768
+26.425873015873009 384
+26.490582010582017 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="309" left-frame="2336158" y-origin="384">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="1"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="2"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="3"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="4"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="5"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="6"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="7"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="8"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="9"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="10"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="11"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="12"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="13"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="15"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="16"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="17"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="18"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="20"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="21"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="22"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="24"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="25"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="26"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="27"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="28"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="29"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="31"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="32"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="33"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="34"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="35"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="36"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="37"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="38"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="39"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="40"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="41"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="42"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="43"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="44"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="45"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="46"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="47"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="48"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="49"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="50"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="51"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="52"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="53"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="54"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="14"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="19"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="23"/>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="30"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548711030" tv-usec="881385" name="Region start trim">
+    <StatefulDiffCommand obj-id="2470279" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <whole-file from="1" to="0"/>
+        <start from="0" to="113400"/>
+        <length from="548100" to="434700"/>
+        <position from="3103100" to="3216500"/>
+        <beat from="163.00000000000003" to="169"/>
+        <start-beats from="0" to="5.9999999999999716"/>
+        <length-beats from="29.000000000000004" to="23"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2913891" y-origin="3542">
+        <Selection>
+          <Regions>
+            <Region id="2470279"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2913891" y-origin="3542">
+        <Selection>
+          <Regions>
+            <Region id="2470279"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548711047" tv-usec="328473" name="region drag">
+    <StatefulDiffCommand obj-id="2470279" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="3216500" to="3122000"/>
+        <beat from="169" to="164"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2913891" y-origin="3542">
+        <Selection>
+          <Regions>
+            <Region id="2470279"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2913891" y-origin="3542">
+        <Selection>
+          <Regions>
+            <Region id="2470279"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548711073" tv-usec="849221" name="delete objects">
+    <StatefulDiffCommand obj-id="221358" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="2470279"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2863382" y-origin="3542">
+        <Selection>
+          <Regions>
+            <Region id="2470279"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2863382" y-origin="3542">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548711110" tv-usec="45216" name="insert file">
+    <StatefulDiffCommand obj-id="221358" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="2471032"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2863382" y-origin="3542">
+        <Selection>
+          <StripableView id="221316"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="293" left-frame="2863382" y-origin="3542">
+        <Selection>
+          <StripableView id="221316"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548711609" tv-usec="275957" name="move notes">
+    <NoteDiffCommand midi-source="2469236">
+      <ChangedNotes>
+        <Change property="NoteNumber" old="63" new="70" id="270118240"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118242"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118244"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118248"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118346"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118348"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118252"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118254"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118260"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118262"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118264"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118340"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118342"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118344"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118316"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118318"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118320"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118322"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118338"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118324"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118326"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118328"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118330"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118298"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118300"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118302"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118304"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118306"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118274"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118276"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118278"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118280"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118246"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118308"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118310"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118312"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118314"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118332"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118334"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118336"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118290"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118292"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118294"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118296"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118268"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118270"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118272"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118250"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118266"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118282"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118284"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118286"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118288"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118256"/>
+        <Change property="NoteNumber" old="63" new="70" id="270118258"/>
+      </ChangedNotes>
+      <AddedNotes/>
+      <RemovedNotes/>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="186487" y-origin="1110">
+        <Selection>
+          <MIDINotes region-id="2469242">
+            <note note-id="270118264"/>
+            <note note-id="270118262"/>
+            <note note-id="270118258"/>
+            <note note-id="270118246"/>
+            <note note-id="270118308"/>
+            <note note-id="270118310"/>
+            <note note-id="270118312"/>
+            <note note-id="270118314"/>
+            <note note-id="270118268"/>
+            <note note-id="270118324"/>
+            <note note-id="270118326"/>
+            <note note-id="270118328"/>
+            <note note-id="270118330"/>
+            <note note-id="270118244"/>
+            <note note-id="270118284"/>
+            <note note-id="270118286"/>
+            <note note-id="270118288"/>
+            <note note-id="270118240"/>
+            <note note-id="270118270"/>
+            <note note-id="270118272"/>
+            <note note-id="270118290"/>
+            <note note-id="270118292"/>
+            <note note-id="270118254"/>
+            <note note-id="270118256"/>
+            <note note-id="270118316"/>
+            <note note-id="270118318"/>
+            <note note-id="270118320"/>
+            <note note-id="270118322"/>
+            <note note-id="270118248"/>
+            <note note-id="270118260"/>
+            <note note-id="270118242"/>
+            <note note-id="270118266"/>
+            <note note-id="270118276"/>
+            <note note-id="270118278"/>
+            <note note-id="270118280"/>
+            <note note-id="270118342"/>
+            <note note-id="270118344"/>
+            <note note-id="270118346"/>
+            <note note-id="270118348"/>
+            <note note-id="270118332"/>
+            <note note-id="270118334"/>
+            <note note-id="270118336"/>
+            <note note-id="270118338"/>
+            <note note-id="270118340"/>
+            <note note-id="270118274"/>
+            <note note-id="270118250"/>
+            <note note-id="270118252"/>
+            <note note-id="270118282"/>
+            <note note-id="270118300"/>
+            <note note-id="270118302"/>
+            <note note-id="270118304"/>
+            <note note-id="270118306"/>
+            <note note-id="270118294"/>
+            <note note-id="270118296"/>
+            <note note-id="270118298"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="186487" y-origin="1110">
+        <Selection>
+          <MIDINotes region-id="2469242">
+            <note note-id="270118264"/>
+            <note note-id="270118262"/>
+            <note note-id="270118258"/>
+            <note note-id="270118246"/>
+            <note note-id="270118308"/>
+            <note note-id="270118310"/>
+            <note note-id="270118312"/>
+            <note note-id="270118314"/>
+            <note note-id="270118268"/>
+            <note note-id="270118324"/>
+            <note note-id="270118326"/>
+            <note note-id="270118328"/>
+            <note note-id="270118330"/>
+            <note note-id="270118244"/>
+            <note note-id="270118284"/>
+            <note note-id="270118286"/>
+            <note note-id="270118288"/>
+            <note note-id="270118240"/>
+            <note note-id="270118270"/>
+            <note note-id="270118272"/>
+            <note note-id="270118290"/>
+            <note note-id="270118292"/>
+            <note note-id="270118254"/>
+            <note note-id="270118256"/>
+            <note note-id="270118316"/>
+            <note note-id="270118318"/>
+            <note note-id="270118320"/>
+            <note note-id="270118322"/>
+            <note note-id="270118248"/>
+            <note note-id="270118260"/>
+            <note note-id="270118242"/>
+            <note note-id="270118266"/>
+            <note note-id="270118276"/>
+            <note note-id="270118278"/>
+            <note note-id="270118280"/>
+            <note note-id="270118342"/>
+            <note note-id="270118344"/>
+            <note note-id="270118346"/>
+            <note note-id="270118348"/>
+            <note note-id="270118332"/>
+            <note note-id="270118334"/>
+            <note note-id="270118336"/>
+            <note note-id="270118338"/>
+            <note note-id="270118340"/>
+            <note note-id="270118274"/>
+            <note note-id="270118250"/>
+            <note note-id="270118252"/>
+            <note note-id="270118282"/>
+            <note note-id="270118300"/>
+            <note note-id="270118302"/>
+            <note note-id="270118304"/>
+            <note note-id="270118306"/>
+            <note note-id="270118294"/>
+            <note note-id="270118296"/>
+            <note note-id="270118298"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712050" tv-usec="86550" name="add automation event">
+    <MementoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.3499999999999943 7043
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712057" tv-usec="628948" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.3499999999999943 7043
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.3344973544973584 7198
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712086" tv-usec="239596" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.3344973544973584 7198
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.1639682539682497 8435
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712111" tv-usec="619476" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.1639682539682497 8435
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.1174603174603135 8171
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712134" tv-usec="565054" name="automation event move">
+    <MementoUndoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>3.1174603174603135 8171
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoUndoCommand>
+    <MementoRedoCommand source-id="2470229" parameter="midi-pitch-bender-3" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-3" id="2470237" interpolation-style="Discrete" state="Play">
+        <events>2.9004232804232828 8171
+13.695502645502643 6784
+13.760158730158736 6016
+13.824973544973545 5760
+13.954814814814824 5504
+14.019417989418002 5248
+14.084232804232812 4480
+14.14873015873016 2816
+14.21354497354497 512
+14.278095238095233 0
+14.472751322751321 512
+14.537566137566131 4736
+14.604391534391539 8192
+15.05724867724868 9728
+15.121957671957659 14976
+15.186613756613752 16383
+15.511534391534383 12032
+15.576084656084646 8192
+16.550158730158728 10752
+16.615185185185169 14976
+16.679894179894177 16383
+17.134074074074078 13696
+17.198677248677257 8192
+17.523121693121681 9856
+17.58793650793649 16383
+18.042116402116392 11648
+18.106455026455023 8320
+18.143439153439147 5053
+18.171058201058202 8192
+18.55936507936508 9216
+18.624126984126974 12928
+18.688994708994699 16383
+19.078253968253961 15232
+19.142962962962969 8064
+19.272645502645503 8192
+21.019312169312173 7552
+21.084074074074067 6400
+21.14862433862433 4096
+21.213386243386253 640
+21.343333333333334 8192
+25.552698412698419 7808
+25.617566137566143 6784
+25.682169312169322 6272
+25.746825396825386 5760
+25.811640211640224 5376
+25.876137566137572 4736
+25.940952380952382 4224
+26.005714285714305 3584
+26.070582010582001 3072
+26.135132275132264 2560
+26.199788359788357 2176
+26.26444444444445 1664
+26.329206349206345 1280
+26.394021164021183 768
+26.458571428571418 384
+26.523280423280426 0
+27.626249999999999 8192
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="2183476" y-origin="534">
+        <Selection>
+          <ControlPoint type="track" route-id="320702" automation-list-id="2470237" parameter="midi-pitch-bender-3" view-index="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1548712200" tv-usec="621959" name="move marker">
     <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
-        <Location id="664549" name="session" start="56576" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
-        <Location id="1430999" name="xrun" start="2316944" end="2316944" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2436491" name="session" start="0" end="4463900" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
       </Locations>
       <Locations>
-        <Location id="664549" name="session" start="56576" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2436491" name="session" start="56549" end="4463900" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
       </Locations>
     </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2267933" y-origin="0">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="0" y-origin="534">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <Marker id="2436491" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2267933" y-origin="0">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="0" y-origin="534">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="1"/>
+          <Marker id="2436491" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1543086471" tv-usec="116376" name="move marker">
+  <UndoTransaction tv-sec="1548712205" tv-usec="779561" name="move marker">
     <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
-        <Location id="664549" name="session" start="56576" end="4530032" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2436491" name="session" start="56549" end="4463900" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
       </Locations>
       <Locations>
-        <Location id="664549" name="session" start="56576" end="4463800" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
-        <Location id="689798" name="Loop" start="3099600" end="4158000" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2436491" name="session" start="56700" end="4463900" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
       </Locations>
     </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4370855" y-origin="0">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="0" y-origin="534">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="0"/>
+          <Marker id="2436491" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="4370855" y-origin="0">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="293" left-frame="0" y-origin="534">
         <Selection>
-          <ControlPoint type="track" route-id="54" automation-list-id="664633" parameter="gain" view-index="2"/>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543091474" tv-usec="185704" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.22666666666666657" new="0.1511483134920848" id="171045317"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2211427" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045317"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2211427" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045317"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543091485" tv-usec="360937" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="StartTime" old="9.6494270833333342" new="9.6351322751322783" id="171045325"/>
-        <Change property="Length" old="0.492552083333333" new="0.50684689153438889" id="171045325"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2211427" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045325"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2211427" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045325"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543091610" tv-usec="256924" name="move notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="StartTime" old="11.273854166666666" new="11.259470899470898" id="171045340"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2242121" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045340"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2242121" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045340"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092169" tv-usec="221267" name="move notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="StartTime" old="8.2247395833333332" new="8.3830687830687811" id="171045310"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2339303" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045310"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="136" left-frame="2339303" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045310"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092354" tv-usec="235280" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.50684689153438889" new="0.11915343915343612" id="171045325"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2360055" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045325"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2360055" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045325"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092358" tv-usec="324582" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.28552083333333478" new="0.38546874999999226" id="171045323"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2360055" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045323"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2360055" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045323"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092377" tv-usec="821649" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.44255208333333407" new="0.35877976190476701" id="171045315"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2348544" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045315"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2348544" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045315"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092493" tv-usec="788166" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.35877976190476701" new="0.49163690476191491" id="171045315"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2335175" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045315"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2335175" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045315"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1543092496" tv-usec="436999" name="resize notes">
-    <NoteDiffCommand midi-source="1431070">
-      <ChangedNotes>
-        <Change property="Length" old="0.38546874999999226" new="0.51832589285715436" id="171045323"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2335175" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045323"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="81" left-frame="2335175" y-origin="549">
-        <Selection>
-          <MIDINotes region-id="1431131">
-            <note note-id="171045323"/>
-          </MIDINotes>
-          <Marker id="664549" start="0"/>
+          <Marker id="2436491" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
