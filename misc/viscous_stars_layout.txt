@@ -5,3 +5,28 @@
 18   : 6/4, 140bpm
 30   : 7/4
 40.25: end
+
+Vocal Tracks (Trim -10 dB)
+
+Vocals Bus (Trim 6.0 dB):
+  Calf Compressor
+  Calf Saturator
+  AUX send -10.5 dB
+
+Vocals AUX:
+  Calf Tape Simulator
+  L/C/R Delay
+  Calf Reverb
+
+Vocals Submix:
+  Calf Equalizer 12 Band
+  Calf Deesser
+  Calf Compressor
+  Calf Compressor
+
+Master Bus:
+  Calf Multiband Enhancer
+  Calf Equalizer 8 Band
+  Calf Compressor
+  Calf Limiter
+

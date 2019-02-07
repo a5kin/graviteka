@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="0" id-counter="2797625" name-counter="18" event-counter="312702395" vca-counter="1">
+<Session version="3002" name="ViscousStars" sample-rate="44100" end-is-free="0" id-counter="2834583" name-counter="18" event-counter="312725772" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -20,7 +20,7 @@
     <Option name="use-monitor-fades" value="1"/>
     <Option name="native-file-data-format" value="FormatFloat"/>
     <Option name="native-file-header-format" value="WAVE"/>
-    <Option name="auto-play" value="0"/>
+    <Option name="auto-play" value="1"/>
     <Option name="auto-return" value="1"/>
     <Option name="auto-input" value="1"/>
     <Option name="punch-in" value="0"/>
@@ -318,7 +318,7 @@
           <Channelmap type="midi" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Multiband_Enhancer_VS_Master_Enhancer.lv2/VS_Master_Enhancer.ttl" last-preset-label="VS Master Enhancer" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
@@ -433,7 +433,7 @@
           <Channelmap type="midi" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Equalizer_8_Band_VS_Master_Bus.lv2/VS_Master_Bus.ttl" last-preset-label="VS Master Bus" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="0.84674525260925293"/>
@@ -552,7 +552,7 @@
           <Channelmap type="midi" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Master.lv2/VS_Master.ttl" last-preset-label="VS Master" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="threshold" value="0.11662913858890533"/>
@@ -613,7 +613,7 @@
           <Channelmap type="midi" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Limiter_VS_Master.lv2/VS_Master.ttl" last-preset-label="VS Master" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="0.77916455268859863"/>
           <Port symbol="level_out" value="0.96727627515792847"/>
@@ -830,7 +830,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state56"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state57"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -12635,10 +12635,10 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocal_Bus.lv2/VS_Vocal_Bus.ttl" last-preset-label="VS Vocal Bus" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="threshold" value="0.038473263382911682"/>
+          <Port symbol="threshold" value="0.038473259657621384"/>
           <Port symbol="ratio" value="2"/>
           <Port symbol="attack" value="10.09653377532959"/>
           <Port symbol="release" value="2.6665935516357422"/>
@@ -12650,7 +12650,7 @@
         </lv2>
         <Controllable name="Bypass" id="1041390" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input" id="1041392" flags="" value="1" parameter="5" symbol="level_in"/>
-        <Controllable name="Threshold" id="1041394" flags="" value="0.038473263382911682" parameter="10" symbol="threshold"/>
+        <Controllable name="Threshold" id="1041394" flags="" value="0.038473259657621384" parameter="10" symbol="threshold"/>
         <Controllable name="Ratio" id="1041396" flags="" value="2" parameter="11" symbol="ratio"/>
         <Controllable name="Attack" id="1041398" flags="" value="10.09653377532959" parameter="12" symbol="attack"/>
         <Controllable name="Release" id="1041400" flags="" value="2.6665935516357422" parameter="13" symbol="release"/>
@@ -12698,7 +12698,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Saturator_VS_Vocal_Bus.lv2/VS_Vocal_Bus.ttl" last-preset-label="VS Vocal Bus" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="0.92018771171569824"/>
@@ -19247,7 +19247,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Tape_Simulator_VS_Vocal_AUX.lv2/VS_Vocal_AUX.ttl" last-preset-label="VS Vocal AUX" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="0.5"/>
           <Port symbol="level_out" value="1"/>
@@ -19303,7 +19303,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <ladspa last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <ladspa last-preset-uri="http://plugin.org.uk/genid#499277.0" last-preset-label="VS Vocals AUX" parameter-changed-since-last-preset="0">
           <Port number="0" value="20"/>
           <Port number="1" value="27.577346801757812"/>
           <Port number="2" value="23.000001907348633"/>
@@ -19363,7 +19363,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Reverb_VS_Vocals_AUX.lv2/VS_Vocals_AUX.ttl" last-preset-label="VS Vocals AUX" parameter-changed-since-last-preset="0">
           <Port symbol="decay_time" value="2.8801617622375488"/>
           <Port symbol="hf_damp" value="8185.212890625"/>
           <Port symbol="room_size" value="2"/>
@@ -19682,7 +19682,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Equalizer_12_Band_VS_Vocals_Submix.lv2/VS_Vocals_Submix.ttl" last-preset-label="VS Vocals Submix" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1.3491027355194092"/>
@@ -19831,11 +19831,11 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Deesser_VS_Vocals_Submix.lv2/VS_Vocals_Submix.ttl" last-preset-label="VS Vocals Submix" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="detection" value="0"/>
           <Port symbol="mode" value="0"/>
-          <Port symbol="threshold" value="0.052921582013368607"/>
+          <Port symbol="threshold" value="0.052921578288078308"/>
           <Port symbol="ratio" value="2.1092114448547363"/>
           <Port symbol="laxity" value="15"/>
           <Port symbol="makeup" value="1"/>
@@ -19849,7 +19849,7 @@
         <Controllable name="Bypass" id="1870734" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Detection" id="1870736" flags="" value="0" parameter="9" symbol="detection"/>
         <Controllable name="Mode" id="1870738" flags="" value="0" parameter="10" symbol="mode"/>
-        <Controllable name="Threshold" id="1870740" flags="" value="0.052921582013368607" parameter="11" symbol="threshold"/>
+        <Controllable name="Threshold" id="1870740" flags="" value="0.052921578288078308" parameter="11" symbol="threshold"/>
         <Controllable name="Ratio" id="1870742" flags="" value="2.1092114448547363" parameter="12" symbol="ratio"/>
         <Controllable name="Laxity" id="1870744" flags="" value="15" parameter="13" symbol="laxity"/>
         <Controllable name="Makeup" id="1870746" flags="" value="1" parameter="14" symbol="makeup"/>
@@ -19894,7 +19894,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocals_Submix.lv2/VS_Vocals_Submix.ttl" last-preset-label="VS Vocals Submix" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="threshold" value="0.125"/>
@@ -19953,7 +19953,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocals_Submix_2.lv2/VS_Vocals_Submix_2.ttl" last-preset-label="VS Vocals Submix 2" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="threshold" value="0.125"/>
@@ -21784,7 +21784,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state56"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state57"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -29178,7 +29178,7 @@
       <Window name="P-803144-803180" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-803144-803175" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-803144-803434" visible="0" x-off="301" y-off="137" x-size="932" y-size="343" custom-ui="1"/>
-      <Window name="P-803144-803406" visible="0" x-off="471" y-off="131" x-size="592" y-size="354" custom-ui="1"/>
+      <Window name="P-803144-803406" visible="0" x-off="471" y-off="131" x-size="633" y-size="354" custom-ui="1"/>
       <Window name="P-803144-803211" visible="0" x-off="364" y-off="142" x-size="806" y-size="333" custom-ui="1"/>
       <Window name="P-803144-803174" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-803144-803176" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
