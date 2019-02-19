@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="DarkMotherChant" sample-rate="44100" end-is-free="0" id-counter="78523" name-counter="1" event-counter="779422" vca-counter="1">
+<Session version="3002" name="DarkMotherChant" sample-rate="44100" end-is-free="0" id-counter="115531" name-counter="1" event-counter="1001316" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -193,7 +193,7 @@
     <Region name="Noises-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3576064" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="135.14981103552529" id="11277" type="midi" first-edit="nothing" source-0="11268" master-source-0="11268"/>
   </Regions>
   <Selection>
-    <StripableAutomationControl stripable="1727" control="0" order="5"/>
+    <StripableAutomationControl stripable="30395" control="0" order="1"/>
   </Selection>
   <Locations>
     <Location id="309" name="session" start="0" end="3625020" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
@@ -257,7 +257,7 @@
         <Automation>
           <AutomationList automation-id="trim" id="59" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="trimcontrol" id="60" flags="GainLike" value="0.79432803392410278"/>
+        <Controllable name="trimcontrol" id="60" flags="GainLike" value="0.9999997615814209"/>
       </Processor>
       <Processor id="31014" name="Calf Multiband Enhancer" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/MultibandEnhancer" count="1" custom="0">
         <Automation>
@@ -427,16 +427,16 @@
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="0.84674525260925293"/>
           <Port symbol="hp_active" value="1"/>
-          <Port symbol="hp_freq" value="47.751029968261719"/>
+          <Port symbol="hp_freq" value="37.587699890136719"/>
           <Port symbol="hp_mode" value="2"/>
           <Port symbol="hp_q" value="0.72443598508834839"/>
           <Port symbol="lp_active" value="1"/>
           <Port symbol="lp_freq" value="20000"/>
           <Port symbol="lp_mode" value="1"/>
           <Port symbol="lp_q" value="0.72443598508834839"/>
-          <Port symbol="ls_active" value="0"/>
-          <Port symbol="ls_level" value="0.90030455589294434"/>
-          <Port symbol="ls_freq" value="209.65364074707031"/>
+          <Port symbol="ls_active" value="1"/>
+          <Port symbol="ls_level" value="4.1124558448791504"/>
+          <Port symbol="ls_freq" value="57.442974090576172"/>
           <Port symbol="ls_q" value="0.7070000171661377"/>
           <Port symbol="hs_active" value="1"/>
           <Port symbol="hs_level" value="1.1809924840927124"/>
@@ -467,16 +467,16 @@
         <Controllable name="Input Gain" id="31067" flags="" value="1" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="31069" flags="" value="0.84674525260925293" parameter="6" symbol="level_out"/>
         <Controllable name="HP Active" id="31071" flags="" value="1" parameter="15" symbol="hp_active"/>
-        <Controllable name="HP Freq" id="31073" flags="" value="47.751029968261719" parameter="16" symbol="hp_freq"/>
+        <Controllable name="HP Freq" id="31073" flags="" value="37.587699890136719" parameter="16" symbol="hp_freq"/>
         <Controllable name="HP Mode" id="31075" flags="" value="2" parameter="17" symbol="hp_mode"/>
         <Controllable name="HP Q" id="31077" flags="" value="0.72443598508834839" parameter="18" symbol="hp_q"/>
         <Controllable name="LP Active" id="31079" flags="" value="1" parameter="19" symbol="lp_active"/>
         <Controllable name="LP Freq" id="31081" flags="" value="20000" parameter="20" symbol="lp_freq"/>
         <Controllable name="LP Mode" id="31083" flags="" value="1" parameter="21" symbol="lp_mode"/>
         <Controllable name="LP Q" id="31085" flags="" value="0.72443598508834839" parameter="22" symbol="lp_q"/>
-        <Controllable name="LS Active" id="31087" flags="" value="0" parameter="23" symbol="ls_active"/>
-        <Controllable name="Level L" id="31089" flags="" value="0.90030455589294434" parameter="24" symbol="ls_level"/>
-        <Controllable name="Freq L" id="31091" flags="" value="209.65364074707031" parameter="25" symbol="ls_freq"/>
+        <Controllable name="LS Active" id="31087" flags="" value="1" parameter="23" symbol="ls_active"/>
+        <Controllable name="Level L" id="31089" flags="" value="4.1124558448791504" parameter="24" symbol="ls_level"/>
+        <Controllable name="Freq L" id="31091" flags="" value="57.442974090576172" parameter="25" symbol="ls_freq"/>
         <Controllable name="LS Q" id="31093" flags="" value="0.7070000171661377" parameter="26" symbol="ls_q"/>
         <Controllable name="HS Active" id="31095" flags="" value="1" parameter="27" symbol="hs_active"/>
         <Controllable name="Level H" id="31097" flags="" value="1.1809924840927124" parameter="28" symbol="hs_level"/>
@@ -503,7 +503,7 @@
         <Controllable name="Analyzer Active" id="31139" flags="Toggle" value="1" parameter="49" symbol="analyzer"/>
         <Controllable name="Analyzer Mode" id="31141" flags="" value="1" parameter="50" symbol="analyzer_mode"/>
       </Processor>
-      <Processor id="31144" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
+      <Processor id="31144" name="Calf Compressor" active="0" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
         <Automation>
           <AutomationList automation-id="parameter-4" id="31145" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-5" id="31147" interpolation-style="Linear" state="Off"/>
@@ -566,7 +566,7 @@
         <Controllable name="Stereo Link" id="31164" flags="" value="0" parameter="17" symbol="stereo_link"/>
         <Controllable name="Mix" id="31166" flags="" value="1" parameter="19" symbol="mix"/>
       </Processor>
-      <Processor id="31169" name="Calf Limiter" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Limiter" count="1" custom="0">
+      <Processor id="31169" name="Calf Limiter" active="0" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Limiter" count="1" custom="0">
         <Automation>
           <AutomationList automation-id="parameter-4" id="31170" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-5" id="31172" interpolation-style="Linear" state="Off"/>
@@ -606,7 +606,7 @@
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1.0511727333068848"/>
           <Port symbol="level_out" value="0.96727627515792847"/>
-          <Port symbol="limit" value="0.26720148324966431"/>
+          <Port symbol="limit" value="0.42337265610694885"/>
           <Port symbol="attack" value="4.0204000473022461"/>
           <Port symbol="release" value="36.30780029296875"/>
           <Port symbol="asc" value="0"/>
@@ -616,7 +616,7 @@
         <Controllable name="Bypass" id="31171" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input Gain" id="31173" flags="" value="1.0511727333068848" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="31175" flags="" value="0.96727627515792847" parameter="6" symbol="level_out"/>
-        <Controllable name="Limit" id="31177" flags="" value="0.26720148324966431" parameter="15" symbol="limit"/>
+        <Controllable name="Limit" id="31177" flags="" value="0.42337265610694885" parameter="15" symbol="limit"/>
         <Controllable name="Lookahead" id="31179" flags="" value="4.0204000473022461" parameter="16" symbol="attack"/>
         <Controllable name="Release" id="31181" flags="" value="36.30780029296875" parameter="17" symbol="release"/>
         <Controllable name="ASC" id="31183" flags="Toggle" value="0" parameter="19" symbol="asc"/>
@@ -759,7 +759,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state10"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state17"/>
       </Processor>
       <Processor id="31286" name="LUFS Meter" active="1" user-latency="0" type="lv2" unique-id="http://www.klangfreund.com/lufsmeter" count="1" custom="0">
         <Automation>
@@ -2550,13 +2550,13 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocal_Bus.lv2/VS_Vocal_Bus.ttl" last-preset-label="VS Vocal Bus" parameter-changed-since-last-preset="1">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocal_Bus.lv2/VS_Vocal_Bus.ttl" last-preset-label="VS Vocal Bus" parameter-changed-since-last-preset="0">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="threshold" value="0.050765782594680786"/>
+          <Port symbol="threshold" value="0.038473259657621384"/>
           <Port symbol="ratio" value="2"/>
           <Port symbol="attack" value="10.09653377532959"/>
-          <Port symbol="release" value="83.707084655761719"/>
+          <Port symbol="release" value="2.6665935516357422"/>
           <Port symbol="makeup" value="1.0338307619094849"/>
           <Port symbol="knee" value="1.9861850738525391"/>
           <Port symbol="detection" value="1"/>
@@ -2565,10 +2565,10 @@
         </lv2>
         <Controllable name="Bypass" id="30534" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input" id="30536" flags="" value="1" parameter="5" symbol="level_in"/>
-        <Controllable name="Threshold" id="30538" flags="" value="0.050765782594680786" parameter="10" symbol="threshold"/>
+        <Controllable name="Threshold" id="30538" flags="" value="0.038473259657621384" parameter="10" symbol="threshold"/>
         <Controllable name="Ratio" id="30540" flags="" value="2" parameter="11" symbol="ratio"/>
         <Controllable name="Attack" id="30542" flags="" value="10.09653377532959" parameter="12" symbol="attack"/>
-        <Controllable name="Release" id="30544" flags="" value="83.707084655761719" parameter="13" symbol="release"/>
+        <Controllable name="Release" id="30544" flags="" value="2.6665935516357422" parameter="13" symbol="release"/>
         <Controllable name="Makeup Gain" id="30546" flags="" value="1.0338307619094849" parameter="14" symbol="makeup"/>
         <Controllable name="Knee" id="30548" flags="" value="1.9861850738525391" parameter="15" symbol="knee"/>
         <Controllable name="Detection" id="30550" flags="" value="1" parameter="16" symbol="detection"/>
@@ -3347,9 +3347,9 @@
           <Port symbol="hs_freq" value="4505.9462890625"/>
           <Port symbol="hs_q" value="0.7070000171661377"/>
           <Port symbol="p1_active" value="1"/>
-          <Port symbol="p1_level" value="3.2715103626251221"/>
+          <Port symbol="p1_level" value="1.3947439193725586"/>
           <Port symbol="p1_freq" value="132.76304626464844"/>
-          <Port symbol="p1_q" value="1"/>
+          <Port symbol="p1_q" value="0.16218101978302002"/>
           <Port symbol="p2_active" value="1"/>
           <Port symbol="p2_level" value="0.47943055629730225"/>
           <Port symbol="p2_freq" value="674.17193603515625"/>
@@ -3387,9 +3387,9 @@
         <Controllable name="Freq H" id="41681" flags="" value="4505.9462890625" parameter="29" symbol="hs_freq"/>
         <Controllable name="HS Q" id="41683" flags="" value="0.7070000171661377" parameter="30" symbol="hs_q"/>
         <Controllable name="F1 Active" id="41685" flags="" value="1" parameter="31" symbol="p1_active"/>
-        <Controllable name="Level 1" id="41687" flags="" value="3.2715103626251221" parameter="32" symbol="p1_level"/>
+        <Controllable name="Level 1" id="41687" flags="" value="1.3947439193725586" parameter="32" symbol="p1_level"/>
         <Controllable name="Freq 1" id="41689" flags="" value="132.76304626464844" parameter="33" symbol="p1_freq"/>
-        <Controllable name="Q 1" id="41691" flags="" value="1" parameter="34" symbol="p1_q"/>
+        <Controllable name="Q 1" id="41691" flags="" value="0.16218101978302002" parameter="34" symbol="p1_q"/>
         <Controllable name="F2 Active" id="41693" flags="" value="1" parameter="35" symbol="p2_active"/>
         <Controllable name="Level 2" id="41695" flags="" value="0.47943055629730225" parameter="36" symbol="p2_level"/>
         <Controllable name="Freq 2" id="41697" flags="" value="674.17193603515625" parameter="37" symbol="p2_freq"/>
@@ -3476,7 +3476,7 @@
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="1731" flags="GainLike" value="0.50954025983810425"/>
+        <Controllable name="gaincontrol" id="1731" flags="GainLike" value="0.59577667713165283"/>
       </Processor>
       <Processor id="1759" name="meter-MIDI" active="1" user-latency="0" type="meter"/>
       <Processor id="1760" name="Pads" active="1" user-latency="0" own-input="1" own-output="0" output="Pads" type="main-outs" role="Main">
@@ -6098,7 +6098,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <ladspa last-preset-uri="http://plugin.org.uk/genid#499277.0" last-preset-label="VS Vocals AUX" parameter-changed-since-last-preset="0">
+        <ladspa last-preset-uri="http://plugin.org.uk/genid#499277.0" last-preset-label="VS Vocals AUX" parameter-changed-since-last-preset="1">
           <Port number="0" value="20"/>
           <Port number="1" value="27.577346801757812"/>
           <Port number="2" value="23.000001907348633"/>
@@ -6162,28 +6162,28 @@
           <Port symbol="decay_time" value="2.8801617622375488"/>
           <Port symbol="hf_damp" value="8185.212890625"/>
           <Port symbol="room_size" value="2"/>
-          <Port symbol="diffusion" value="0.5"/>
-          <Port symbol="amount" value="0.20306308567523956"/>
-          <Port symbol="dry" value="0.96192747354507446"/>
-          <Port symbol="predelay" value="0"/>
+          <Port symbol="diffusion" value="0.52999997138977051"/>
+          <Port symbol="amount" value="0.46976137161254883"/>
+          <Port symbol="dry" value="0.86453711986541748"/>
+          <Port symbol="predelay" value="52"/>
           <Port symbol="bass_cut" value="325.85922241210938"/>
           <Port symbol="treble_cut" value="6998.9033203125"/>
           <Port symbol="on" value="1"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="level_out" value="1"/>
+          <Port symbol="level_out" value="0.84674525260925293"/>
         </lv2>
         <Controllable name="Decay time" id="30667" flags="" value="2.8801617622375488" parameter="7" symbol="decay_time"/>
         <Controllable name="High Frq Damp" id="30669" flags="" value="8185.212890625" parameter="8" symbol="hf_damp"/>
         <Controllable name="Room size" id="30671" flags="" value="2" parameter="9" symbol="room_size"/>
-        <Controllable name="Diffusion" id="30673" flags="" value="0.5" parameter="10" symbol="diffusion"/>
-        <Controllable name="Wet Amount" id="30675" flags="" value="0.20306308567523956" parameter="11" symbol="amount"/>
-        <Controllable name="Dry Amount" id="30677" flags="" value="0.96192747354507446" parameter="12" symbol="dry"/>
-        <Controllable name="Pre Delay" id="30679" flags="" value="0" parameter="13" symbol="predelay"/>
+        <Controllable name="Diffusion" id="30673" flags="" value="0.52999997138977051" parameter="10" symbol="diffusion"/>
+        <Controllable name="Wet Amount" id="30675" flags="" value="0.46976137161254883" parameter="11" symbol="amount"/>
+        <Controllable name="Dry Amount" id="30677" flags="" value="0.86453711986541748" parameter="12" symbol="dry"/>
+        <Controllable name="Pre Delay" id="30679" flags="" value="52" parameter="13" symbol="predelay"/>
         <Controllable name="Bass Cut" id="30681" flags="" value="325.85922241210938" parameter="14" symbol="bass_cut"/>
         <Controllable name="Treble Cut" id="30683" flags="" value="6998.9033203125" parameter="15" symbol="treble_cut"/>
         <Controllable name="Active" id="30685" flags="Toggle" value="1" parameter="16" symbol="on"/>
         <Controllable name="Input Gain" id="30687" flags="" value="1" parameter="17" symbol="level_in"/>
-        <Controllable name="Output Gain" id="30689" flags="" value="1" parameter="18" symbol="level_out"/>
+        <Controllable name="Output Gain" id="30689" flags="" value="0.84674525260925293" parameter="18" symbol="level_out"/>
       </Processor>
       <Processor id="31203" name="Tal-Reverb-II" active="1" user-latency="0" type="lv2" unique-id="urn:juce:TalReverb2" count="1" custom="0">
         <Automation>
@@ -6221,36 +6221,36 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state14">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state34">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="dry" value="0"/>
-          <Port symbol="wet" value="0.42100003361701965"/>
+          <Port symbol="wet" value="0.41300001740455627"/>
           <Port symbol="room_size" value="0.8320000171661377"/>
-          <Port symbol="pre_delay" value="0.29600000381469727"/>
-          <Port symbol="low_shelf_frequency" value="0.024000000208616257"/>
+          <Port symbol="pre_delay" value="0.44800001382827759"/>
+          <Port symbol="low_shelf_frequency" value="0.11100000888109207"/>
           <Port symbol="high_shelf_frequency" value="1"/>
           <Port symbol="peak_frequency" value="0.49200001358985901"/>
-          <Port symbol="low_shelf_gain" value="1"/>
+          <Port symbol="low_shelf_gain" value="0.39100003242492676"/>
           <Port symbol="high_shelf_gain" value="1"/>
-          <Port symbol="peak_gain" value="1"/>
+          <Port symbol="peak_gain" value="0.971000075340271"/>
           <Port symbol="stereo" value="1"/>
-          <Port symbol="stereo_input" value="0"/>
+          <Port symbol="stereo_input" value="1"/>
         </lv2>
         <Controllable name="hidden" id="31205" flags="Toggle" value="0" parameter="0" symbol="lv2_freewheel"/>
         <Controllable name="unused" id="31207" flags="" value="0" parameter="5" symbol="unused"/>
         <Controllable name="dry" id="31209" flags="" value="0" parameter="6" symbol="dry"/>
-        <Controllable name="wet" id="31211" flags="" value="0.42100003361701965" parameter="7" symbol="wet"/>
+        <Controllable name="wet" id="31211" flags="" value="0.41300001740455627" parameter="7" symbol="wet"/>
         <Controllable name="room size" id="31213" flags="" value="0.8320000171661377" parameter="8" symbol="room_size"/>
-        <Controllable name="pre delay" id="31215" flags="" value="0.29600000381469727" parameter="9" symbol="pre_delay"/>
-        <Controllable name="low shelf frequency" id="31217" flags="" value="0.024000000208616257" parameter="10" symbol="low_shelf_frequency"/>
+        <Controllable name="pre delay" id="31215" flags="" value="0.44800001382827759" parameter="9" symbol="pre_delay"/>
+        <Controllable name="low shelf frequency" id="31217" flags="" value="0.11100000888109207" parameter="10" symbol="low_shelf_frequency"/>
         <Controllable name="high shelf frequency" id="31219" flags="" value="1" parameter="11" symbol="high_shelf_frequency"/>
         <Controllable name="peak frequency" id="31221" flags="" value="0.49200001358985901" parameter="12" symbol="peak_frequency"/>
-        <Controllable name="low shelf gain" id="31223" flags="" value="1" parameter="13" symbol="low_shelf_gain"/>
+        <Controllable name="low shelf gain" id="31223" flags="" value="0.39100003242492676" parameter="13" symbol="low_shelf_gain"/>
         <Controllable name="high shelf gain" id="31225" flags="" value="1" parameter="14" symbol="high_shelf_gain"/>
-        <Controllable name="peak gain" id="31227" flags="" value="1" parameter="15" symbol="peak_gain"/>
+        <Controllable name="peak gain" id="31227" flags="" value="0.971000075340271" parameter="15" symbol="peak_gain"/>
         <Controllable name="stereo" id="31229" flags="" value="1" parameter="16" symbol="stereo"/>
-        <Controllable name="stereo input" id="31231" flags="" value="0" parameter="17" symbol="stereo_input"/>
+        <Controllable name="stereo input" id="31231" flags="" value="1" parameter="17" symbol="stereo_input"/>
       </Processor>
       <Processor id="30425" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -6618,7 +6618,7 @@
         <Controllable name="Peak Q" id="30836" flags="" value="1.1220184564590454" parameter="19" symbol="f2_q"/>
         <Controllable name="S/C-Listen" id="30838" flags="Toggle" value="0" parameter="20" symbol="sc_listen"/>
       </Processor>
-      <Processor id="67873" name="Calf Multiband Enhancer" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/MultibandEnhancer" count="1" custom="0">
+      <Processor id="67873" name="Calf Multiband Enhancer" active="0" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/MultibandEnhancer" count="1" custom="0">
         <Automation>
           <AutomationList automation-id="parameter-4" id="31015" interpolation-style="Discrete" state="Off"/>
           <AutomationList automation-id="parameter-5" id="31017" interpolation-style="Linear" state="Off"/>
@@ -6669,21 +6669,21 @@
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
           <Port symbol="freq0" value="100"/>
-          <Port symbol="freq1" value="798.82843017578125"/>
+          <Port symbol="freq1" value="729.97430419921875"/>
           <Port symbol="freq2" value="5007.33349609375"/>
           <Port symbol="mode" value="1"/>
           <Port symbol="base0" value="-1"/>
-          <Port symbol="base1" value="0"/>
-          <Port symbol="base2" value="0"/>
+          <Port symbol="base1" value="-0.42399990558624268"/>
+          <Port symbol="base2" value="0.18399989604949951"/>
           <Port symbol="base3" value="0.1119999885559082"/>
-          <Port symbol="drive0" value="1.1999999284744263"/>
-          <Port symbol="drive1" value="2.4000000953674316"/>
-          <Port symbol="drive2" value="1.3999999761581421"/>
-          <Port symbol="drive3" value="1.3999999761581421"/>
-          <Port symbol="blend0" value="3.2800006866455078"/>
-          <Port symbol="blend1" value="-4.2400002479553223"/>
-          <Port symbol="blend2" value="-3.4399991035461426"/>
-          <Port symbol="blend3" value="-2.7999992370605469"/>
+          <Port symbol="drive0" value="1"/>
+          <Port symbol="drive1" value="1.3999999761581421"/>
+          <Port symbol="drive2" value="2"/>
+          <Port symbol="drive3" value="0.69999998807907104"/>
+          <Port symbol="blend0" value="3.0399990081787109"/>
+          <Port symbol="blend1" value="-3.599998950958252"/>
+          <Port symbol="blend2" value="-2.9599995613098145"/>
+          <Port symbol="blend3" value="-3.2799997329711914"/>
           <Port symbol="solo0" value="0"/>
           <Port symbol="solo1" value="0"/>
           <Port symbol="solo2" value="0"/>
@@ -6693,21 +6693,21 @@
         <Controllable name="Input Gain" id="31018" flags="" value="1" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="31020" flags="" value="1" parameter="6" symbol="level_out"/>
         <Controllable name="Split 1/2" id="31022" flags="" value="100" parameter="15" symbol="freq0"/>
-        <Controllable name="Split 2/3" id="31024" flags="" value="798.82843017578125" parameter="16" symbol="freq1"/>
+        <Controllable name="Split 2/3" id="31024" flags="" value="729.97430419921875" parameter="16" symbol="freq1"/>
         <Controllable name="Split 3/4" id="31026" flags="" value="5007.33349609375" parameter="17" symbol="freq2"/>
         <Controllable name="Filter Mode" id="31028" flags="" value="1" parameter="18" symbol="mode"/>
         <Controllable name="Base 1" id="31030" flags="" value="-1" parameter="19" symbol="base0"/>
-        <Controllable name="Base 2" id="31032" flags="" value="0" parameter="20" symbol="base1"/>
-        <Controllable name="Base 3" id="31034" flags="" value="0" parameter="21" symbol="base2"/>
+        <Controllable name="Base 2" id="31032" flags="" value="-0.42399990558624268" parameter="20" symbol="base1"/>
+        <Controllable name="Base 3" id="31034" flags="" value="0.18399989604949951" parameter="21" symbol="base2"/>
         <Controllable name="Base 4" id="31036" flags="" value="0.1119999885559082" parameter="22" symbol="base3"/>
-        <Controllable name="Harmonics 1" id="31038" flags="" value="1.1999999284744263" parameter="23" symbol="drive0"/>
-        <Controllable name="Harmonics 2" id="31040" flags="" value="2.4000000953674316" parameter="24" symbol="drive1"/>
-        <Controllable name="Harmonics 3" id="31042" flags="" value="1.3999999761581421" parameter="25" symbol="drive2"/>
-        <Controllable name="Harmonics 4" id="31044" flags="" value="1.3999999761581421" parameter="26" symbol="drive3"/>
-        <Controllable name="Blend Harmonics 1" id="31046" flags="" value="3.2800006866455078" parameter="27" symbol="blend0"/>
-        <Controllable name="Blend Harmonics 2" id="31048" flags="" value="-4.2400002479553223" parameter="28" symbol="blend1"/>
-        <Controllable name="Blend Harmonics 3" id="31050" flags="" value="-3.4399991035461426" parameter="29" symbol="blend2"/>
-        <Controllable name="Blend Harmonics 4" id="31052" flags="" value="-2.7999992370605469" parameter="30" symbol="blend3"/>
+        <Controllable name="Harmonics 1" id="31038" flags="" value="1" parameter="23" symbol="drive0"/>
+        <Controllable name="Harmonics 2" id="31040" flags="" value="1.3999999761581421" parameter="24" symbol="drive1"/>
+        <Controllable name="Harmonics 3" id="31042" flags="" value="2" parameter="25" symbol="drive2"/>
+        <Controllable name="Harmonics 4" id="31044" flags="" value="0.69999998807907104" parameter="26" symbol="drive3"/>
+        <Controllable name="Blend Harmonics 1" id="31046" flags="" value="3.0399990081787109" parameter="27" symbol="blend0"/>
+        <Controllable name="Blend Harmonics 2" id="31048" flags="" value="-3.599998950958252" parameter="28" symbol="blend1"/>
+        <Controllable name="Blend Harmonics 3" id="31050" flags="" value="-2.9599995613098145" parameter="29" symbol="blend2"/>
+        <Controllable name="Blend Harmonics 4" id="31052" flags="" value="-3.2799997329711914" parameter="30" symbol="blend3"/>
         <Controllable name="Solo 1" id="31054" flags="Toggle" value="0" parameter="31" symbol="solo0"/>
         <Controllable name="Solo 2" id="31056" flags="Toggle" value="0" parameter="32" symbol="solo1"/>
         <Controllable name="Solo 3" id="31058" flags="Toggle" value="0" parameter="33" symbol="solo2"/>
@@ -6750,11 +6750,11 @@
         <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocals_Submix.lv2/VS_Vocals_Submix.ttl" last-preset-label="VS Vocals Submix" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="threshold" value="0.088388346135616302"/>
+          <Port symbol="threshold" value="0.11662913858890533"/>
           <Port symbol="ratio" value="3.0069658756256104"/>
           <Port symbol="attack" value="10.50961971282959"/>
           <Port symbol="release" value="40.243934631347656"/>
-          <Port symbol="makeup" value="1.0867348909378052"/>
+          <Port symbol="makeup" value="1.0424658060073853"/>
           <Port symbol="knee" value="2.8284299373626709"/>
           <Port symbol="detection" value="0"/>
           <Port symbol="stereo_link" value="0"/>
@@ -6762,11 +6762,11 @@
         </lv2>
         <Controllable name="Bypass" id="30843" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input" id="30845" flags="" value="1" parameter="5" symbol="level_in"/>
-        <Controllable name="Threshold" id="30847" flags="" value="0.088388346135616302" parameter="10" symbol="threshold"/>
+        <Controllable name="Threshold" id="30847" flags="" value="0.11662913858890533" parameter="10" symbol="threshold"/>
         <Controllable name="Ratio" id="30849" flags="" value="3.0069658756256104" parameter="11" symbol="ratio"/>
         <Controllable name="Attack" id="30851" flags="" value="10.50961971282959" parameter="12" symbol="attack"/>
         <Controllable name="Release" id="30853" flags="" value="40.243934631347656" parameter="13" symbol="release"/>
-        <Controllable name="Makeup Gain" id="30855" flags="" value="1.0867348909378052" parameter="14" symbol="makeup"/>
+        <Controllable name="Makeup Gain" id="30855" flags="" value="1.0424658060073853" parameter="14" symbol="makeup"/>
         <Controllable name="Knee" id="30857" flags="" value="2.8284299373626709" parameter="15" symbol="knee"/>
         <Controllable name="Detection" id="30859" flags="" value="0" parameter="16" symbol="detection"/>
         <Controllable name="Stereo Link" id="30861" flags="" value="0" parameter="17" symbol="stereo_link"/>
@@ -6809,11 +6809,11 @@
         <lv2 last-preset-uri="file:///home/a5kin/.lv2/Calf_Compressor_VS_Vocals_Submix_2.lv2/VS_Vocals_Submix_2.ttl" last-preset-label="VS Vocals Submix 2" parameter-changed-since-last-preset="1">
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
-          <Port symbol="threshold" value="0.10153158009052277"/>
+          <Port symbol="threshold" value="0.10881884396076202"/>
           <Port symbol="ratio" value="3.0069658756256104"/>
           <Port symbol="attack" value="10.50961971282959"/>
           <Port symbol="release" value="40.243934631347656"/>
-          <Port symbol="makeup" value="1.0867348909378052"/>
+          <Port symbol="makeup" value="1.0424658060073853"/>
           <Port symbol="knee" value="2.8284299373626709"/>
           <Port symbol="detection" value="0"/>
           <Port symbol="stereo_link" value="0"/>
@@ -6821,11 +6821,11 @@
         </lv2>
         <Controllable name="Bypass" id="30868" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input" id="30870" flags="" value="1" parameter="5" symbol="level_in"/>
-        <Controllable name="Threshold" id="30872" flags="" value="0.10153158009052277" parameter="10" symbol="threshold"/>
+        <Controllable name="Threshold" id="30872" flags="" value="0.10881884396076202" parameter="10" symbol="threshold"/>
         <Controllable name="Ratio" id="30874" flags="" value="3.0069658756256104" parameter="11" symbol="ratio"/>
         <Controllable name="Attack" id="30876" flags="" value="10.50961971282959" parameter="12" symbol="attack"/>
         <Controllable name="Release" id="30878" flags="" value="40.243934631347656" parameter="13" symbol="release"/>
-        <Controllable name="Makeup Gain" id="30880" flags="" value="1.0867348909378052" parameter="14" symbol="makeup"/>
+        <Controllable name="Makeup Gain" id="30880" flags="" value="1.0424658060073853" parameter="14" symbol="makeup"/>
         <Controllable name="Knee" id="30882" flags="" value="2.8284299373626709" parameter="15" symbol="knee"/>
         <Controllable name="Detection" id="30884" flags="" value="0" parameter="16" symbol="detection"/>
         <Controllable name="Stereo Link" id="30886" flags="" value="0" parameter="17" symbol="stereo_link"/>
@@ -7810,14 +7810,14 @@
           <Port name="Master/audio_out 2"/>
         </Channel>
       </ExportChannelConfiguration>
-      <ExportFormat id="e61c1d0f-95bd-48fb-b812-def99dbabe28"/>
+      <ExportFormat id="212d215d-7f6e-45d6-9bbf-99813da06706"/>
       <ExportFilename>
         <Folder relative="1" path="/export"/>
-        <Field name="label" enabled="1" value="dark-mother-chant"/>
+        <Field name="label" enabled="1" value="dark-mother-chant-final-mix5"/>
         <Field name="session" enabled="0"/>
         <Field name="snapshot" enabled="0"/>
-        <Field name="timespan" enabled="1"/>
-        <Field name="revision" enabled="1"/>
+        <Field name="timespan" enabled="0"/>
+        <Field name="revision" enabled="0"/>
         <Field name="time" enabled="0" value="T_None"/>
         <Field name="date" enabled="0" value="D_None"/>
       </ExportFilename>
@@ -7830,7 +7830,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="664" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="0" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="304" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="108" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -7932,7 +7932,7 @@
       <Window name="P-30437-30468" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-30437-30896" visible="0" x-off="0" y-off="0" x-size="1143" y-size="712" custom-ui="1"/>
       <Window name="P-30437-30812" visible="0" x-off="0" y-off="0" x-size="979" y-size="386" custom-ui="1"/>
-      <Window name="P-30437-67873" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-30437-67873" visible="0" x-off="0" y-off="46" x-size="1018" y-size="533" custom-ui="1"/>
       <Window name="P-30437-30841" visible="0" x-off="0" y-off="0" x-size="850" y-size="403" custom-ui="1"/>
       <Window name="P-30437-30866" visible="0" x-off="0" y-off="0" x-size="850" y-size="403" custom-ui="1"/>
       <Window name="P-30437-30467" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -8303,6 +8303,7 @@
           <Object id="processor 30866"/>
           <Object id="processor 30896"/>
           <Object id="processor 67873"/>
+          <Object id="processor 115474"/>
         </Object>
       </GUIObjectState>
     </UI>
