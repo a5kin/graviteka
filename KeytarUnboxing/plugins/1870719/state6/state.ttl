@@ -1,0 +1,19 @@
+@prefix atom: <http://lv2plug.in/ns/ext/atom#> .
+@prefix lv2: <http://lv2plug.in/ns/lv2core#> .
+@prefix pset: <http://lv2plug.in/ns/ext/presets#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix state: <http://lv2plug.in/ns/ext/state#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<>
+	a pset:Preset ;
+	lv2:appliesTo <http://www.klangfreund.com/lufsmeter> ;
+	state:state [
+		<urn:juce:stateBinary> """VkMyIfwAAAA8TVlQTFVHSU5TRVRUSU5HUyB1aVdpZHRoPSI2MDAiIHVpSGVpZ2h0PSIzMDAiIGxv
+dWRuZXNzQmFyV2lkdGg9Ii01MCIgbG91ZG5lc3NCYXJNaW5WYWx1ZT0iLTQxIiBsb3VkbmVzc0Jh
+ck1heFZhbHVlPSItMTQiIHNob3dJbnRlZ3JhdGVkTG91ZG5lc3NIaXN0b3J5PSIxIiBzaG93TG91
+ZG5lc3NSYW5nZUhpc3Rvcnk9IjEiIHNob3dTaG9ydFRlcm1Mb3VkbmVzc0hpc3Rvcnk9IjEiIHNo
+b3dNb21lbnRhcnlMb3VkbmVzc0hpc3Rvcnk9IjEiLz4A"""^^xsd:base64Binary
+	] .
+
