@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="3561499" name-counter="18" event-counter="347191755" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="3600843" name-counter="18" event-counter="351389461" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -170,6 +170,42 @@
       <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
     </Source>
     <Source name="MIDI 6-4.mid" type="midi" flags="Writable,CanRename" id="3524030" captured-for="MIDI 6" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI-5.mid" type="midi" flags="Writable,CanRename" id="3562814" captured-for="MIDI" origin=""/>
+    <Source name="MIDI 6-5.mid" type="midi" flags="Writable,CanRename" id="3562861" captured-for="MIDI 6" origin=""/>
+    <Source name="MIDI-6.mid" type="midi" flags="Writable,CanRename" id="3600234" captured-for="MIDI" origin=""/>
+    <Source name="MIDI 6-6.mid" type="midi" flags="Writable,CanRename" id="3600249" captured-for="MIDI 6" origin=""/>
+    <Source name="MIDI-7.mid" type="midi" flags="Writable,CanRename" id="3600267" captured-for="MIDI" origin=""/>
+    <Source name="MIDI 6-7.mid" type="midi" flags="Writable,CanRename" id="3600282" captured-for="MIDI 6" origin=""/>
+    <Source name="MIDI-8.mid" type="midi" flags="Writable,CanRename" id="3600301" captured-for="MIDI" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="MIDI 6-8.mid" type="midi" flags="Writable,CanRename" id="3600310" captured-for="MIDI 6" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="MIDI-9.mid" type="midi" flags="Writable,CanRename" id="3600336" captured-for="MIDI" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI 6-9.mid" type="midi" flags="Writable,CanRename" id="3600347" captured-for="MIDI 6" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI-10.mid" type="midi" flags="Writable,CanRename" id="3600556" captured-for="MIDI" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI 6-10.mid" type="midi" flags="Writable,CanRename" id="3600571" captured-for="MIDI 6" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI-11.mid" type="midi" flags="Writable,CanRename" id="3600603" captured-for="MIDI" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI 6-11.mid" type="midi" flags="Writable,CanRename" id="3600618" captured-for="MIDI 6" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI-12.mid" type="midi" flags="Writable,CanRename" id="3600647" captured-for="MIDI" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+    </Source>
+    <Source name="MIDI 6-12.mid" type="midi" flags="Writable,CanRename" id="3600660" captured-for="MIDI 6" origin="">
       <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
     </Source>
   </Sources>
@@ -400,13 +436,56 @@
     <Region name="Solo 2-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1402112" position="2540133" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="66.237339380196516" id="3406025" type="midi" first-edit="nothing" source-0="3405991" master-source-0="3405991"/>
     <Region name="Solo 2-17.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1402112" position="2540133" beat="119.99872448979593" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="66.237339380196516" id="3406028" type="midi" first-edit="nothing" source-0="3405991" master-source-0="3405991"/>
     <Region name="MIDI-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561474" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    <Region name="MIDI-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561477" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
     <Region name="MIDI 6-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561483" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+    <Region name="MIDI 6-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561486" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+    <Region name="MIDI-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3600195" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    <Region name="MIDI-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3600209" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    <Region name="MIDI-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="116992" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.3661629629629637" id="3600227" type="midi" first-edit="nothing" source-0="3562814" master-source-0="3562814"/>
+    <Region name="MIDI-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="116992" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.3661629629629619" id="3600230" type="midi" first-edit="nothing" source-0="3562814" master-source-0="3562814"/>
+    <Region name="MIDI 6-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="116992" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.3661629629629637" id="3600236" type="midi" first-edit="nothing" source-0="3562861" master-source-0="3562861"/>
+    <Region name="MIDI 6-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="116992" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.3661629629629619" id="3600239" type="midi" first-edit="nothing" source-0="3562861" master-source-0="3562861"/>
+    <Region name="MIDI-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="138240" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.7039999999999988" id="3600260" type="midi" first-edit="nothing" source-0="3600234" master-source-0="3600234"/>
+    <Region name="MIDI-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="138240" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.7039999999999988" id="3600263" type="midi" first-edit="nothing" source-0="3600234" master-source-0="3600234"/>
+    <Region name="MIDI 6-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="138240" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.7039999999999988" id="3600269" type="midi" first-edit="nothing" source-0="3600249" master-source-0="3600249"/>
+    <Region name="MIDI 6-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="138240" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.7039999999999988" id="3600272" type="midi" first-edit="nothing" source-0="3600249" master-source-0="3600249"/>
+    <Region name="MIDI-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="622080" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="39.167999999999999" id="3600294" type="midi" first-edit="nothing" source-0="3600267" master-source-0="3600267"/>
+    <Region name="MIDI-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="622080" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="39.167999999999999" id="3600297" type="midi" first-edit="nothing" source-0="3600267" master-source-0="3600267"/>
+    <Region name="MIDI 6-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="622080" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="39.167999999999999" id="3600303" type="midi" first-edit="nothing" source-0="3600282" master-source-0="3600282"/>
+    <Region name="MIDI 6-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="622080" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="39.167999999999999" id="3600306" type="midi" first-edit="nothing" source-0="3600282" master-source-0="3600282"/>
+    <Region name="MIDI-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1107712" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="69.744829629629635" id="3600329" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
+    <Region name="MIDI 6-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1107712" position="61380" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="69.744829629629635" id="3600340" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
+    <Region name="MIDI-8.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="674" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.042437037037037051" id="3600363" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
+    <Region name="MIDI-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="572501" length="476471" position="1111765" beat="70" sync-position="572501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="36.046359259259262" length-beats="30" id="3600366" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
+    <Region name="MIDI 6-8.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="674" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.042437037037037051" id="3600375" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
+    <Region name="MIDI 6-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="572501" length="476312" position="1111924" beat="70.010011111111112" sync-position="572501" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="36.046359259259262" length-beats="29.989988888888888" id="3600378" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
+    <Region name="MIDI-4.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1033" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.065059259259257374" id="3600447" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    <Region name="MIDI 6-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1221" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.076896296296297351" id="3600459" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+    <Region name="MIDI 6-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="571764" length="558475" position="1588235" beat="100" sync-position="571764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="35.999955555555552" length-beats="35.163240740740719" id="3600462" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+    <Region name="MIDI-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45568" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="2.8690962962962963" id="3600549" type="midi" first-edit="nothing" source-0="3600336" master-source-0="3600336"/>
+    <Region name="MIDI 6-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45568" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="2.8690962962962963" id="3600560" type="midi" first-edit="nothing" source-0="3600347" master-source-0="3600347"/>
+    <Region name="MIDI-8.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="571827" position="61568" beat="3.8765037037037033" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="36.003922222222229" id="3600578" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
+    <Region name="MIDI 6-8.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="560942" position="61944" beat="3.9001777777777775" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="35.318570370370374" id="3600585" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
+    <Region name="MIDI-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="231424" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="14.57114074074074" id="3600596" type="midi" first-edit="nothing" source-0="3600556" master-source-0="3600556"/>
+    <Region name="MIDI-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="231424" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="14.571140740740741" id="3600599" type="midi" first-edit="nothing" source-0="3600556" master-source-0="3600556"/>
+    <Region name="MIDI 6-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="231424" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="14.57114074074074" id="3600608" type="midi" first-edit="nothing" source-0="3600571" master-source-0="3600571"/>
+    <Region name="MIDI 6-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="231424" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="14.571140740740741" id="3600611" type="midi" first-edit="nothing" source-0="3600571" master-source-0="3600571"/>
+    <Region name="MIDI-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="344832" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="21.711644444444442" id="3600640" type="midi" first-edit="nothing" source-0="3600603" master-source-0="3600603"/>
+    <Region name="MIDI-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="344832" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="21.711644444444445" id="3600643" type="midi" first-edit="nothing" source-0="3600603" master-source-0="3600603"/>
+    <Region name="MIDI 6-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="344832" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="21.711644444444442" id="3600650" type="midi" first-edit="nothing" source-0="3600618" master-source-0="3600618"/>
+    <Region name="MIDI 6-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="344832" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="21.711644444444445" id="3600653" type="midi" first-edit="nothing" source-0="3600618" master-source-0="3600618"/>
+    <Region name="MIDI-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="580608" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="36.556799999999996" id="3600673" type="midi" first-edit="nothing" source-0="3600647" master-source-0="3600647"/>
+    <Region name="MIDI-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="580608" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="36.556799999999996" id="3600676" type="midi" first-edit="nothing" source-0="3600647" master-source-0="3600647"/>
+    <Region name="MIDI 6-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="580608" position="59559" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="36.556799999999996" id="3600682" type="midi" first-edit="nothing" source-0="3600660" master-source-0="3600660"/>
+    <Region name="MIDI 6-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="580608" position="59559" beat="3.7500111111111107" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="36.556799999999996" id="3600685" type="midi" first-edit="nothing" source-0="3600660" master-source-0="3600660"/>
+    <Region name="MIDI 6-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="560942" position="938627" beat="59.098737037037026" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="35.318570370370374" id="3600752" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="115361" control="0" order="1"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="2797625" name="session" start="0" end="5755059" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+    <Location id="3600292" name="xrun" start="452292" end="452292" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+    <Location id="3600634" name="xrun" start="216231" end="216231" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+    <Location id="3600840" name="mark1" start="1588235" end="1588235" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -990,7 +1069,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state76"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state77"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -1145,7 +1224,7 @@
       <Controllable name="midicc-0-0" id="483" flags="" value="0"/>
       <Controllable name="midicc-0-32" id="484" flags="" value="0"/>
       <Controllable name="midi-pgm-change-0" id="485" flags="" value="51"/>
-      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="9472"/>
+      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="8320"/>
       <Controllable name="midi-pitch-bender-1" id="82444" flags="" value="8192"/>
     </Route>
     <Route id="21044" name="Right Lead 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -1220,7 +1299,7 @@
       <Controllable name="rec-safe" id="21082" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="21080" flags="Toggle,RealTime" value="1"/>
       <Diskstream flags="Recordable" playlist="MIDI 6.1" name="MIDI 6" id="21085" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="9472"/>
+      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8320"/>
       <Controllable name="midi-pitch-bender-1" id="82454" flags="" value="8192"/>
     </Route>
     <Route id="80231" name="Left Lead Meat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -22328,7 +22407,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state76"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state77"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -27647,13 +27726,23 @@
   </Routes>
   <Playlists>
     <Playlist id="254" name="MIDI.1" type="midi" orig-track-id="212" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="MIDI-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561477" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+      <Region name="MIDI-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45568" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="2.8690962962962963" id="3600552" type="midi" first-edit="nothing" source-0="3600336" master-source-0="3600336"/>
+      <Region name="MIDI-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="571827" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="36.003922222222229" id="3600332" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
+      <Region name="MIDI-8.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="571827" position="1048235" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="36.003922222222229" id="3600746" type="midi" first-edit="nothing" source-0="3600301" master-source-0="3600301"/>
     </Playlist>
     <Playlist id="21086" name="MIDI 6.1" type="midi" orig-track-id="21044" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="MIDI 6-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1130240" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="71.163259259259249" id="3561486" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+      <Region name="MIDI 6-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="45568" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="2.8690962962962963" id="3600563" type="midi" first-edit="nothing" source-0="3600347" master-source-0="3600347"/>
+      <Region name="MIDI 6-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="560942" position="61380" beat="3.8646666666666669" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.318570370370374" id="3600343" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
+      <Region name="MIDI 6-8.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="560942" position="1048235" beat="66" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="35.318570370370374" id="3600762" type="midi" first-edit="nothing" source-0="3600310" master-source-0="3600310"/>
     </Playlist>
-    <Playlist id="115239" name="Left Wing Perfo 2.1" type="midi" orig-track-id="115197" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="115403" name="Right Wing Perfo 2.1" type="midi" orig-track-id="115361" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="115239" name="Left Wing Perfo 2.1" type="midi" orig-track-id="115197" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="MIDI-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="555882" position="540000" beat="34" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35" id="3600218" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+      <Region name="MIDI-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="571764" length="558475" position="1588235" beat="100" sync-position="571764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="35.999955555555552" length-beats="35.163240740740719" id="3600450" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    </Playlist>
+    <Playlist id="115403" name="Right Wing Perfo 2.1" type="midi" orig-track-id="115361" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="MIDI 6-4.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="555882" position="540000" beat="34" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35" id="3600202" type="midi" first-edit="nothing" source-0="3524030" master-source-0="3524030"/>
+      <Region name="MIDI-4.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="571764" length="558475" position="1588235" beat="99.999981481481484" sync-position="571764" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="35.999955555555552" length-beats="35.163240740740719" id="3600835" type="midi" first-edit="nothing" source-0="3523983" master-source-0="3523983"/>
+    </Playlist>
     <Playlist id="115724" name="Kick 1" type="midi" orig-track-id="115682" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="115771" name="Snare 1" type="midi" orig-track-id="115729" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="115818" name="Kick 2" type="midi" orig-track-id="115776" shared-with-ids="" frozen="0" combine-ops="0"/>
@@ -27776,7 +27865,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="345" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -27918,11 +28007,11 @@
       <Window name="PM-109-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-111-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-112-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-212-242" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-212-244" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-212-242" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-212-245" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-242-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-244-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-242-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-245-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-115197-115227" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-115197-115229" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -27930,11 +28019,11 @@
       <Window name="PM-115227-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115229-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115230-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-21044-21074" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-21044-21076" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21044-21074" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-21044-21077" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-21074-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-21076-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21074-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-21077-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-115361-115391" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-115361-115393" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -29117,7 +29206,7 @@
           <Object id="processor 242"/>
           <Object id="processor 289"/>
         </Object>
-        <Object id="rtav 212" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="44" note-range-max="66"/>
+        <Object id="rtav 212" height="214" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="44" note-range-max="66"/>
         <Object id="automation 216" height="64" visible="0"/>
         <Object id="automation 212 12/0/0" height="64" visible="0"/>
         <Object id="automation 231" height="64" visible="0"/>
@@ -29166,7 +29255,7 @@
           <Object id="processor 20724"/>
         </Object>
         <Object id="automation 20638" height="64" visible="0"/>
-        <Object id="rtav 21044" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="46" note-range-max="69"/>
+        <Object id="rtav 21044" height="214" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="46" note-range-max="69"/>
         <Object id="automation 21048" height="64" visible="0"/>
         <Object id="automation 21044 12/0/0" height="64" visible="0"/>
         <Object id="strip 21044" visible="1" strip-width="Wide">
@@ -29299,13 +29388,13 @@
           <Object id="processor 1353181"/>
           <Object id="processor 1764588"/>
         </Object>
-        <Object id="rtav 115197" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 115197" height="214" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 115201" height="64" visible="0"/>
         <Object id="automation 115197 12/0/0" height="64" visible="0"/>
         <Object id="strip 115197" visible="1" strip-width="Wide">
           <Object id="processor 115227"/>
         </Object>
-        <Object id="rtav 115361" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 115361" height="214" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
         <Object id="automation 115365" height="64" visible="0"/>
         <Object id="automation 115361 12/0/0" height="64" visible="0"/>
         <Object id="strip 115361" visible="1" strip-width="Wide">
