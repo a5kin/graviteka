@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="4159869" name-counter="18" event-counter="370388685" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="4200748" name-counter="18" event-counter="371446816" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -525,6 +525,22 @@
     <Source name="Ballad Right 1-15.mid" type="midi" flags="Writable,CanRename" id="4130255" captured-for="Ballad Right 1" origin=""/>
     <Source name="Ballad Right 2-19.mid" type="midi" flags="Writable,CanRename" id="4130300" captured-for="Ballad Right 2" origin=""/>
     <Source name="Ballad Right 2-20.mid" type="midi" flags="Writable,CanRename" id="4159581" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 1-16.mid" type="midi" flags="Writable,CanRename" id="4171219" captured-for="Ballad Right 1" origin=""/>
+    <Source name="Ballad Right 2-21.mid" type="midi" flags="Writable,CanRename" id="4171264" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Left 1-4.mid" type="midi" flags="Writable,CanRename" id="4171309" captured-for="Ballad Left 1" origin=""/>
+    <Source name="Ballad Left 2-5.mid" type="midi" flags="Writable,CanRename" id="4171354" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Ballad Right 2-22.mid" type="midi" flags="Writable,CanRename" id="4200546" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 2-23.mid" type="midi" flags="Writable,CanRename" id="4200557" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 2-24.mid" type="midi" flags="Writable,CanRename" id="4200568" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 2-25.mid" type="midi" flags="Writable,CanRename" id="4200579" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 2-26.mid" type="midi" flags="Writable,CanRename" id="4200590" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Right 2-27.mid" type="midi" flags="Writable,CanRename" id="4200601" captured-for="Ballad Right 2" origin=""/>
+    <Source name="Ballad Left 2-6.mid" type="midi" flags="Writable,CanRename" id="4200612" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Ballad Left 2-7.mid" type="midi" flags="Writable,CanRename" id="4200623" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Ballad Left 2-8.mid" type="midi" flags="Writable,CanRename" id="4200657" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Ballad Left 2-9.mid" type="midi" flags="Writable,CanRename" id="4200681" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Ballad Right 1-17.mid" type="midi" flags="Writable,CanRename" id="4200714" captured-for="Ballad Right 1" origin=""/>
+    <Source name="Ballad Right 1-18.mid" type="midi" flags="Writable,CanRename" id="4200725" captured-for="Ballad Right 1" origin=""/>
   </Sources>
   <Regions>
     <Region name="Ballad Right 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5054720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="219.68737717309148" id="2908067" type="midi" first-edit="nothing" source-0="2879831" master-source-0="2879831"/>
@@ -1131,10 +1147,42 @@
     <Region name="Ballad Right 2-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="280832" position="633315" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="17.682014814814814" id="4159574" type="midi" first-edit="nothing" source-0="4130300" master-source-0="4130300"/>
     <Region name="Ballad Right 2-19.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="280832" position="633315" beat="39.875388888888885" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="17.682014814814814" id="4159577" type="midi" first-edit="nothing" source-0="4130300" master-source-0="4130300"/>
     <Region name="Ballad Right 2-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="280832" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="17.682014814814814" id="4159585" type="midi" first-edit="nothing" source-0="4159581" master-source-0="4159581"/>
+    <Region name="Ballad Right 2-20.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="129538" length="111176" position="762353" beat="48" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="8.1560925925925929" length-beats="7" id="4159588" type="midi" first-edit="nothing" source-0="4159581" master-source-0="4159581"/>
     <Region name="Ballad Right 1-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="228608" position="804841" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="14.393837037037038" id="4159663" type="midi" first-edit="nothing" source-0="4130255" master-source-0="4130255"/>
     <Region name="Ballad Right 1-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="68688" length="159920" position="873529" beat="55" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="4.3248259259259285" length-beats="10" id="4159666" type="midi" first-edit="nothing" source-0="4130255" master-source-0="4130255"/>
+    <Region name="Ballad Right 1-15.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="68688" length="158824" position="873529" beat="55" sync-position="68688" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="4.3248259259259285" length-beats="10" id="4159840" type="midi" first-edit="nothing" source-0="4130255" master-source-0="4130255"/>
+    <Region name="Ballad Right 2-21" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="263168" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="16.569837037037036" id="4200539" type="midi" first-edit="nothing" source-0="4171264" master-source-0="4171264"/>
+    <Region name="Ballad Right 2-21.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="263168" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="16.56983703703704" id="4200542" type="midi" first-edit="nothing" source-0="4171264" master-source-0="4171264"/>
+    <Region name="Ballad Right 2-22" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="261120" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="16.440888888888889" id="4200550" type="midi" first-edit="nothing" source-0="4200546" master-source-0="4200546"/>
+    <Region name="Ballad Right 2-22.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="261120" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="16.440888888888892" id="4200553" type="midi" first-edit="nothing" source-0="4200546" master-source-0="4200546"/>
+    <Region name="Ballad Right 2-23" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="401664" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="25.289955555555554" id="4200561" type="midi" first-edit="nothing" source-0="4200557" master-source-0="4200557"/>
+    <Region name="Ballad Right 2-23.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="401664" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="25.289955555555551" id="4200564" type="midi" first-edit="nothing" source-0="4200557" master-source-0="4200557"/>
+    <Region name="Ballad Right 2-24" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="307712" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="19.374459259259257" id="4200572" type="midi" first-edit="nothing" source-0="4200568" master-source-0="4200568"/>
+    <Region name="Ballad Right 2-24.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="307712" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="19.374459259259254" id="4200575" type="midi" first-edit="nothing" source-0="4200568" master-source-0="4200568"/>
+    <Region name="Ballad Right 2-25" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="385536" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="24.274488888888893" id="4200583" type="midi" first-edit="nothing" source-0="4200579" master-source-0="4200579"/>
+    <Region name="Ballad Right 2-25.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="385536" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="24.274488888888897" id="4200586" type="midi" first-edit="nothing" source-0="4200579" master-source-0="4200579"/>
+    <Region name="Ballad Right 2-26" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="396544" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="24.967585185185186" id="4200594" type="midi" first-edit="nothing" source-0="4200590" master-source-0="4200590"/>
+    <Region name="Ballad Right 2-26.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="396544" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="24.967585185185186" id="4200597" type="midi" first-edit="nothing" source-0="4200590" master-source-0="4200590"/>
+    <Region name="Ballad Left 2-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="309760" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="19.503407407407408" id="4200605" type="midi" first-edit="nothing" source-0="4171354" master-source-0="4171354"/>
+    <Region name="Ballad Left 2-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="309760" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="19.503407407407408" id="4200608" type="midi" first-edit="nothing" source-0="4171354" master-source-0="4171354"/>
+    <Region name="Ballad Left 2-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="397312" position="635294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="25.015940740740739" id="4200616" type="midi" first-edit="nothing" source-0="4200612" master-source-0="4200612"/>
+    <Region name="Ballad Left 2-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="397312" position="635294" beat="39.999992592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="25.015940740740731" id="4200619" type="midi" first-edit="nothing" source-0="4200612" master-source-0="4200612"/>
+    <Region name="Ballad Left 2-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="382976" position="636315" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="24.113303703703703" id="4200646" type="midi" first-edit="nothing" source-0="4200623" master-source-0="4200623"/>
+    <Region name="Ballad Left 2-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="382976" position="636315" beat="40.064277777777775" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="24.113303703703693" id="4200649" type="midi" first-edit="nothing" source-0="4200623" master-source-0="4200623"/>
+    <Region name="Ballad Left 2-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="380928" position="636315" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="23.984355555555553" id="4200674" type="midi" first-edit="nothing" source-0="4200657" master-source-0="4200657"/>
+    <Region name="Ballad Left 2-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="380928" position="636315" beat="40.064277777777775" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="23.984355555555553" id="4200677" type="midi" first-edit="nothing" source-0="4200657" master-source-0="4200657"/>
+    <Region name="Ballad Right 2-27" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="372224" position="636315" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="23.436325925925924" id="4200685" type="midi" first-edit="nothing" source-0="4200601" master-source-0="4200601"/>
+    <Region name="Ballad Left 2-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="373760" position="636315" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="23.533037037037033" id="4200696" type="midi" first-edit="nothing" source-0="4200681" master-source-0="4200681"/>
+    <Region name="Ballad Right 1-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="337664" position="889042" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="21.260325925925926" id="4200707" type="midi" first-edit="nothing" source-0="4171219" master-source-0="4171219"/>
+    <Region name="Ballad Right 1-16.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="337664" position="889042" beat="55.97671851851851" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="21.260325925925926" id="4200710" type="midi" first-edit="nothing" source-0="4171219" master-source-0="4171219"/>
+    <Region name="Ballad Right 1-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="334336" position="889042" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="21.050785185185184" id="4200718" type="midi" first-edit="nothing" source-0="4200714" master-source-0="4200714"/>
+    <Region name="Ballad Right 1-17.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="334336" position="889042" beat="55.97671851851851" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="21.050785185185191" id="4200721" type="midi" first-edit="nothing" source-0="4200714" master-source-0="4200714"/>
+    <Region name="Ballad Right 1-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="330496" position="889042" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="20.809007407407407" id="4200729" type="midi" first-edit="nothing" source-0="4200725" master-source-0="4200725"/>
+    <Region name="Ballad Left 1-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="334848" position="889042" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="21.083022222222223" id="4200740" type="midi" first-edit="nothing" source-0="4171309" master-source-0="4171309"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="634070" control="0" order="0"/>
+  </Selection>
   <Locations>
     <Location id="2797625" name="session" start="0" end="5755059" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -1721,7 +1769,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state91"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state92"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -16188,15 +16236,13 @@
       </Processor>
       <Slavable/>
     </Route>
-    <Route id="633105" name="Ballad Right 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="633105" name="Ballad Right 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="11" flags="MidiTrack,OrderSet" color="2309481983"/>
       <Controllable name="solo" id="633113" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="633119" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="633121" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Ballad Right 1" id="633133" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Ballad Right 1/midi_in 1">
-          <Connection other="system:midi_capture_2"/>
-        </Port>
+        <Port type="midi" name="Ballad Right 1/midi_in 1"/>
       </IO>
       <IO name="Ballad Right 1" id="633134" direction="Output" default-type="midi" user-latency="0">
         <Port type="midi" name="Ballad Right 1/midi_out 1">
@@ -16231,13 +16277,13 @@
           <AutomationList automation-id="pan-lfe" id="633131" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="633137" name="meter-Ballad Right 1" active="1" user-latency="0" type="meter"/>
       <Processor id="633135" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="2806126" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="633109" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="633137" name="meter-Ballad Right 1" active="1" user-latency="0" type="meter"/>
       <Processor id="633138" name="Ballad Right 1" active="1" user-latency="0" own-input="1" own-output="0" output="Ballad Right 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -16256,12 +16302,12 @@
         </Pannable>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="633145" flags="RealTime" value="1" monitoring="MonitorInput"/>
+      <Controllable name="monitor" id="633145" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="633143" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="633141" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="633141" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Ballad Right 1.1" name="Ballad Right 1" id="633146" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="633152" name="Ballad Right 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="633152" name="Ballad Right 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="12" flags="MidiTrack,OrderSet" color="3853742847"/>
       <Controllable name="solo" id="633160" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="633166" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -16304,13 +16350,13 @@
           <AutomationList automation-id="pan-lfe" id="633178" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
+      <Processor id="633184" name="meter-Ballad Right 2" active="1" user-latency="0" type="meter"/>
       <Processor id="633182" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="2806171" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="633156" flags="GainLike" value="1"/>
       </Processor>
-      <Processor id="633184" name="meter-Ballad Right 2" active="1" user-latency="0" type="meter"/>
       <Processor id="633185" name="Ballad Right 2" active="1" user-latency="0" own-input="1" own-output="0" output="Ballad Right 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -16331,7 +16377,7 @@
       <Slavable/>
       <Controllable name="monitor" id="633192" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="633190" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="633188" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="633188" flags="Toggle,RealTime" value="1"/>
       <Diskstream flags="Recordable" playlist="Ballad Right 2.1" name="Ballad Right 2" id="633193" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="634070" name="Ballad Left 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -23059,7 +23105,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state91"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state92"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -28459,19 +28505,21 @@
     <Playlist id="633147" name="Ballad Right 1.1" type="midi" orig-track-id="633105" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ballad Right 1-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="51618" length="238235" position="79412" beat="5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="3.2500074074074075" length-beats="15" id="4118448" type="midi" first-edit="nothing" source-0="4118429" master-source-0="4118429"/>
       <Region name="Ballad Right 1-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="317647" position="444706" beat="28.000007407407406" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="19.999992592592594" id="4118907" type="midi" first-edit="nothing" source-0="4118900" master-source-0="4118900"/>
+      <Region name="Ballad Right 1-18.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="330496" position="889042" beat="55.97671851851851" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="20.809007407407407" id="4200732" type="midi" first-edit="nothing" source-0="4200725" master-source-0="4200725"/>
       <Region name="Ballad Right 1-5.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="55588" length="436764" position="1421471" beat="89.5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="3.5" length-beats="27.5" id="4077919" type="midi" first-edit="nothing" source-0="4077884" master-source-0="4077884"/>
     </Playlist>
     <Playlist id="633194" name="Ballad Right 2.1" type="midi" orig-track-id="633152" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ballad Right 2-18.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="111177" length="272823" position="301765" beat="19" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="7.0000148148148131" length-beats="17.25" id="4118767" type="midi" first-edit="nothing" source-0="4118760" master-source-0="4118760"/>
-      <Region name="Ballad Right 2-20.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="129538" length="111176" position="762353" beat="48" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="8.1560925925925929" length-beats="7" id="4159588" type="midi" first-edit="nothing" source-0="4159581" master-source-0="4159581"/>
-      <Region name="Ballad Right 1-15.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="68688" length="158824" position="873529" beat="55" sync-position="68688" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="4.3248259259259285" length-beats="10" id="4159840" type="midi" first-edit="nothing" source-0="4130255" master-source-0="4130255"/>
+      <Region name="Ballad Right 2-27.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="372224" position="636315" beat="40.064277777777775" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="23.436325925925921" id="4200688" type="midi" first-edit="nothing" source-0="4200601" master-source-0="4200601"/>
     </Playlist>
     <Playlist id="634112" name="Ballad Left 1.1" type="midi" orig-track-id="634070" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ballad Left 1-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="48527" length="243057" position="79412" beat="5" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="3.0553888888888889" length-beats="15.25" id="4118785" type="midi" first-edit="nothing" source-0="4089104" master-source-0="4089104"/>
       <Region name="Ballad Left 1-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="325120" position="444706" beat="28.000007407407406" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="20.470518518518521" id="4118929" type="midi" first-edit="nothing" source-0="4118922" master-source-0="4118922"/>
+      <Region name="Ballad Left 1-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="334848" position="889042" beat="55.97671851851851" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="21.083022222222226" id="4200743" type="midi" first-edit="nothing" source-0="4171309" master-source-0="4171309"/>
     </Playlist>
     <Playlist id="634159" name="Ballad Left 2.1" type="midi" orig-track-id="634117" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ballad Left 2-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="111343" length="271121" position="301765" beat="19" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="7.010466666666666" length-beats="17" id="4118829" type="midi" first-edit="nothing" source-0="4118822" master-source-0="4118822"/>
+      <Region name="Ballad Left 2-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="373760" position="636315" beat="40.064277777777775" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="23.53303703703704" id="4200699" type="midi" first-edit="nothing" source-0="4200681" master-source-0="4200681"/>
     </Playlist>
     <Playlist id="635097" name="Ballad Solo 1.1" type="midi" orig-track-id="635055" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="635144" name="Ballad Solo 2.1" type="midi" orig-track-id="635102" shared-with-ids="" frozen="0" combine-ops="0"/>
@@ -28563,7 +28611,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="393" y-off="220" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="380" y-off="7" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -28765,11 +28813,11 @@
       <Window name="PM-320779-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-320781-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-320782-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-633105-633135" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-633105-633137" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-633105-633135" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-633105-633138" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-633135-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-633137-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-633135-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-633138-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-633152-633182" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-633152-633184" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -30721,10 +30769,10 @@
         <Object id="automation 360459" height="64" visible="0"/>
         <Object id="automation 320702 15/0/0" height="196" visible="0"/>
         <Object id="automation 196524" height="64" visible="0"/>
-        <Object id="rtav 633105" height="299" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 633105" height="299" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="43" note-range-max="72"/>
         <Object id="automation 633109" height="64" visible="0"/>
         <Object id="automation 633105 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 633152" height="340" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 633152" height="340" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="45" note-range-max="74"/>
         <Object id="automation 633156" height="64" visible="0"/>
         <Object id="automation 633152 12/0/0" height="64" visible="0"/>
         <Object id="strip 633105" visible="1" strip-width="Wide">
@@ -30733,10 +30781,10 @@
         <Object id="strip 633152" visible="1" strip-width="Wide">
           <Object id="processor 633182"/>
         </Object>
-        <Object id="rtav 634070" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 634070" height="249" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="58" note-range-max="87"/>
         <Object id="automation 634074" height="64" visible="0"/>
         <Object id="automation 634070 12/0/0" height="64" visible="0"/>
-        <Object id="rtav 634117" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 634117" height="245" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="29" note-range-max="57"/>
         <Object id="automation 634121" height="64" visible="0"/>
         <Object id="automation 634117 12/0/0" height="64" visible="0"/>
         <Object id="strip 634070" visible="1" strip-width="Wide">
