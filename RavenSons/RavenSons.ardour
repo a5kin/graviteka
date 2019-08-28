@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="4367232" name-counter="18" event-counter="381369923" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="4409492" name-counter="18" event-counter="386974680" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -575,6 +575,19 @@
     <Source name="Ballad Right 2-42.mid" type="midi" flags="Writable,CanRename" id="4365626" captured-for="Ballad Right 2" origin=""/>
     <Source name="Ballad Right 2-43.mid" type="midi" flags="Writable,CanRename" id="4365651" captured-for="Ballad Right 2" origin=""/>
     <Source name="Ballad Left 2-19.mid" type="midi" flags="Writable,CanRename" id="4365688" captured-for="Ballad Left 2" origin=""/>
+    <Source name="Drums Map-9.mid" type="midi" flags="Writable,CanRename" id="4386120" captured-for="Drums Map" origin=""/>
+    <Source name="Drums Map 1-10.mid" type="midi" flags="Writable,CanRename" id="4386184" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map-10.mid" type="midi" flags="Writable,CanRename" id="4409217" captured-for="Drums Map" origin=""/>
+    <Source name="Hat 1-1.mid" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="4409327" origin=""/>
+    <Source name="Drums Map 1-11.mid" type="midi" flags="Writable,CanRename" id="4409361" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map 1-12.mid" type="midi" flags="Writable,CanRename" id="4409372" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map 1-13.mid" type="midi" flags="Writable,CanRename" id="4409383" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map 1-14.mid" type="midi" flags="Writable,CanRename" id="4409394" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map 1-15.mid" type="midi" flags="Writable,CanRename" id="4409405" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map 1-16.mid" type="midi" flags="Writable,CanRename" id="4409416" captured-for="Drums Map 1" origin=""/>
+    <Source name="Drums Map-11.mid" type="midi" flags="Writable,CanRename" id="4409441" captured-for="Drums Map" origin=""/>
+    <Source name="Drums Map-12.mid" type="midi" flags="Writable,CanRename" id="4409452" captured-for="Drums Map" origin=""/>
+    <Source name="Crash 1-1.mid" type="midi" flags="Writable,CanRename,Removable,RemovableIfEmpty,Empty" id="4409484" origin=""/>
   </Sources>
   <Regions>
     <Region name="Ballad Right 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5054720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="219.68737717309148" id="2908067" type="midi" first-edit="nothing" source-0="2879831" master-source-0="2879831"/>
@@ -1500,10 +1513,29 @@
     <Region name="Ballad Right 1-18.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="330496" position="2830659" beat="178.22669999999999" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="20.809007407407407" id="4367135" type="midi" first-edit="nothing" source-0="4200725" master-source-0="4200725"/>
     <Region name="Ballad Right 2-30.24" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="399104" position="3018742" beat="190.06896296296296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="25.128770370370361" id="4367138" type="midi" first-edit="nothing" source-0="4241712" master-source-0="4241712"/>
     <Region name="Ballad Right 1-22.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="333568" position="3255882" beat="205" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="0" length-beats="21.002429629629631" id="4367141" type="midi" first-edit="nothing" source-0="4241899" master-source-0="4241899"/>
+    <Region name="Drums Map-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1999360" position="1840368" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="125.88562962962961" id="4409210" type="midi" first-edit="nothing" source-0="4386120" master-source-0="4386120"/>
+    <Region name="Hat 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15882" position="2590240" beat="163.08918518518516" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.99997777777777763" id="4409329" type="midi" first-edit="nothing" source-0="4409327" master-source-0="4409327"/>
+    <Region name="Drums Map 1-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1452032" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="91.424237037037031" id="4409354" type="midi" first-edit="nothing" source-0="4386184" master-source-0="4386184"/>
+    <Region name="Drums Map 1-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1452032" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="91.424237037037074" id="4409357" type="midi" first-edit="nothing" source-0="4386184" master-source-0="4386184"/>
+    <Region name="Drums Map 1-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="953856" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="60.057599999999994" id="4409365" type="midi" first-edit="nothing" source-0="4409361" master-source-0="4409361"/>
+    <Region name="Drums Map 1-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="953856" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="60.057600000000008" id="4409368" type="midi" first-edit="nothing" source-0="4409361" master-source-0="4409361"/>
+    <Region name="Drums Map 1-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1504768" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="94.744651851851856" id="4409376" type="midi" first-edit="nothing" source-0="4409372" master-source-0="4409372"/>
+    <Region name="Drums Map 1-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1504768" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="94.74465185185187" id="4409379" type="midi" first-edit="nothing" source-0="4409372" master-source-0="4409372"/>
+    <Region name="Drums Map 1-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1732608" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="109.09013333333334" id="4409387" type="midi" first-edit="nothing" source-0="4409383" master-source-0="4409383"/>
+    <Region name="Drums Map 1-13.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1732608" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="109.09013333333337" id="4409390" type="midi" first-edit="nothing" source-0="4409383" master-source-0="4409383"/>
+    <Region name="Drums Map 1-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1066752" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="67.165866666666659" id="4409398" type="midi" first-edit="nothing" source-0="4409394" master-source-0="4409394"/>
+    <Region name="Drums Map 1-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1066752" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="67.165866666666659" id="4409401" type="midi" first-edit="nothing" source-0="4409394" master-source-0="4409394"/>
+    <Region name="Drums Map 1-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1474560" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="92.842666666666673" id="4409409" type="midi" first-edit="nothing" source-0="4409405" master-source-0="4409405"/>
+    <Region name="Drums Map 1-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1474560" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="92.842666666666673" id="4409412" type="midi" first-edit="nothing" source-0="4409405" master-source-0="4409405"/>
+    <Region name="Drums Map 1-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1040128" position="3108971" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="65.489540740740736" id="4409420" type="midi" first-edit="nothing" source-0="4409416" master-source-0="4409416"/>
+    <Region name="Drums Map-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="735744" position="3875294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="46.324622222222224" id="4409434" type="midi" first-edit="nothing" source-0="4409217" master-source-0="4409217"/>
+    <Region name="Drums Map-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="735744" position="3875294" beat="243.99999259259255" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="46.324622222222274" id="4409437" type="midi" first-edit="nothing" source-0="4409217" master-source-0="4409217"/>
+    <Region name="Drums Map-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="395520" position="3875294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="24.903111111111112" id="4409445" type="midi" first-edit="nothing" source-0="4409441" master-source-0="4409441"/>
+    <Region name="Drums Map-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="395520" position="3875294" beat="243.99999259259255" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="24.903111111111116" id="4409448" type="midi" first-edit="nothing" source-0="4409441" master-source-0="4409441"/>
+    <Region name="Drums Map-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1000960" position="3875294" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="63.023407407407404" id="4409456" type="midi" first-edit="nothing" source-0="4409452" master-source-0="4409452"/>
+    <Region name="Crash 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15882" position="4604251" beat="289.89728518518518" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.99997777777777763" id="4409486" type="midi" first-edit="nothing" source-0="4409484" master-source-0="4409484"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="212" control="0" order="3"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="2797625" name="session" start="0" end="5755059" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -2090,7 +2122,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state96"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state97"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -7000,7 +7032,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state46">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state47">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="cutoff" value="1"/>
           <Port symbol="resonance" value="0"/>
@@ -16628,15 +16660,13 @@
       <Controllable name="rec-enable" id="633141" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Ballad Right 1.1" name="Ballad Right 1" id="633146" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="633152" name="Ballad Right 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="633152" name="Ballad Right 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="12" flags="MidiTrack,OrderSet" color="3853742847"/>
       <Controllable name="solo" id="633160" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="633166" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="633168" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Ballad Right 2" id="633180" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Ballad Right 2/midi_in 1">
-          <Connection other="system:midi_capture_3"/>
-        </Port>
+        <Port type="midi" name="Ballad Right 2/midi_in 1"/>
       </IO>
       <IO name="Ballad Right 2" id="633181" direction="Output" default-type="midi" user-latency="0">
         <Port type="midi" name="Ballad Right 2/midi_out 1">
@@ -16671,13 +16701,13 @@
           <AutomationList automation-id="pan-lfe" id="633178" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="633184" name="meter-Ballad Right 2" active="1" user-latency="0" type="meter"/>
       <Processor id="633182" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="2806171" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="633156" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="633184" name="meter-Ballad Right 2" active="1" user-latency="0" type="meter"/>
       <Processor id="633185" name="Ballad Right 2" active="1" user-latency="0" own-input="1" own-output="0" output="Ballad Right 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -16698,7 +16728,7 @@
       <Slavable/>
       <Controllable name="monitor" id="633192" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="633190" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="633188" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="633188" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Ballad Right 2.1" name="Ballad Right 2" id="633193" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="634070" name="Ballad Left 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -23426,7 +23456,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state96"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state97"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -26395,7 +26425,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state13">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state14">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -26815,7 +26845,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state18">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state19">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -28642,7 +28672,7 @@
       <Controllable name="rec-enable" id="2833468" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Drums Map.1" name="Drums Map" id="2833473" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="2982423" name="Drums Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="2982423" name="Drums Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="28" flags="MidiTrack,OrderSet" color="3706030591"/>
       <Controllable name="solo" id="2982390" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2982465" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -28686,13 +28716,13 @@
           <AutomationList automation-id="pan-lfe" id="2982435" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
+      <Processor id="2982436" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="2982437" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="2982438" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="2982439" flags="GainLike" value="1"/>
       </Processor>
-      <Processor id="2982436" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="2982440" name="Drums Map 1" active="1" user-latency="0" own-input="1" own-output="0" output="Drums Map 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -28739,7 +28769,7 @@
       <Slavable/>
       <Controllable name="monitor" id="2982483" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="2982484" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="2982485" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="2982485" flags="Toggle,RealTime" value="1"/>
       <Diskstream flags="Recordable" playlist="Drums Map 1.1" name="Drums Map 1" id="2982478" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
   </Routes>
@@ -28855,8 +28885,13 @@
     <Playlist id="1285787" name="Reference 1.1" type="audio" orig-track-id="1285745" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="1285837" name="Reference 2.1" type="audio" orig-track-id="1285795" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="1285887" name="Reference 3.1" type="audio" orig-track-id="1285845" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="2833474" name="Drums Map.1" type="midi" orig-track-id="2833432" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="2982479" name="Drums Map 1.1" type="midi" orig-track-id="2982423" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="2833474" name="Drums Map.1" type="midi" orig-track-id="2833432" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Drums Map-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1447279" position="1840368" beat="115.8750222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="91.124977777777801" id="4409213" type="midi" first-edit="nothing" source-0="4386120" master-source-0="4386120"/>
+      <Region name="Drums Map-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="885441" position="3875294" beat="243.99999259259255" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="55.750007407407452" id="4409459" type="midi" first-edit="nothing" source-0="4409452" master-source-0="4409452"/>
+    </Playlist>
+    <Playlist id="2982479" name="Drums Map 1.1" type="midi" orig-track-id="2982423" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Drums Map 1-16.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="913235" position="3108971" beat="195.75002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="57.499974074074089" id="4409423" type="midi" first-edit="nothing" source-0="4409416" master-source-0="4409416"/>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists/>
   <RouteGroups/>
@@ -28937,7 +28972,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="1055" y-off="144" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1052" y-off="0" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -31620,7 +31655,7 @@
           <Object id="processor 2612190"/>
           <Object id="processor 2649108"/>
         </Object>
-        <Object id="rtav 2833432" height="314" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 2833432" height="314" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="32" note-range-max="58"/>
         <Object id="automation 2833436" height="64" visible="0"/>
         <Object id="automation 2833432 12/0/0" height="64" visible="0"/>
         <Object id="strip 2833432" visible="1" strip-width="Wide">
