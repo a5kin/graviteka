@@ -1,509 +1,1377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1567861153" tv-usec="438124" name="move notes">
-    <NoteDiffCommand midi-source="4706098">
-      <ChangedNotes>
-        <Change property="StartTime" old="11.055792592592525" new="11.073548148147893" id="403459490"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459490"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459490"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567861155" tv-usec="726220" name="move notes">
-    <NoteDiffCommand midi-source="4706098">
-      <ChangedNotes>
-        <Change property="StartTime" old="12.035811111110888" new="12.071322222222079" id="403459492"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459492"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459492"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567861158" tv-usec="101068" name="move notes">
-    <NoteDiffCommand midi-source="4706098">
-      <ChangedNotes>
-        <Change property="StartTime" old="12.526040740740655" new="12.579307407407214" id="403459494"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459494"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459494"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567861167" tv-usec="99386" name="move notes">
-    <NoteDiffCommand midi-source="4706098">
-      <ChangedNotes>
-        <Change property="StartTime" old="14.181651851851711" new="14.119507407407127" id="403459498"/>
-        <Change property="StartTime" old="14.188074074074052" new="14.125929629629468" id="403459499"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459499"/>
-            <note note-id="403459498"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459499"/>
-            <note note-id="403459498"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567861174" tv-usec="613694" name="move notes">
-    <NoteDiffCommand midi-source="4706098">
-      <ChangedNotes>
-        <Change property="StartTime" old="15.726196296296166" new="15.655174074073898" id="403459503"/>
-        <Change property="StartTime" old="15.675133333333292" new="15.604111111111024" id="403459502"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459502"/>
-            <note note-id="403459503"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="12543206" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706105">
-            <note note-id="403459502"/>
-            <note note-id="403459503"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567861361" tv-usec="749838" name="move notes">
-    <NoteDiffCommand midi-source="4706045">
-      <ChangedNotes>
-        <Change property="StartTime" old="55.36345925925923" new="55.487748148148057" id="402582518"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="11945999" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706052">
-            <note note-id="402582518"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="141" left-frame="11945999" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4706052">
-            <note note-id="402582518"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863061" tv-usec="806018" name="move notes">
-    <NoteDiffCommand midi-source="4579053">
-      <ChangedNotes>
-        <Change property="StartTime" old="18.221354166666668" new="18.231744444444455" id="395955305"/>
-        <Change property="NoteNumber" old="38" new="35" id="395955305"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955305"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955305"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863070" tv-usec="637361" name="move notes">
-    <NoteDiffCommand midi-source="4579053">
-      <ChangedNotes>
-        <Change property="NoteNumber" old="35" new="36" id="395955305"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955305"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955305"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863093" tv-usec="958263" name="move notes">
-    <NoteDiffCommand midi-source="4579053">
-      <ChangedNotes>
-        <Change property="StartTime" old="18.399270833333333" new="18.472011111111101" id="395955307"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955307"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955307"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863097" tv-usec="134537" name="move notes">
-    <NoteDiffCommand midi-source="4579053">
-      <ChangedNotes>
-        <Change property="StartTime" old="19.271979166666668" new="19.261566666666752" id="395955311"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955311"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955311"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863101" tv-usec="613791" name="move notes">
-    <NoteDiffCommand midi-source="4579053">
-      <ChangedNotes>
-        <Change property="StartTime" old="19.782239583333332" new="19.761492592592642" id="395955313"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955313"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="165" left-frame="5175775" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579060">
-            <note note-id="395955313"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863253" tv-usec="482485" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="13.53359375" new="13.566440740740722" id="397416180"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416180"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416180"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863255" tv-usec="585109" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="13.778854166666667" new="13.80078888888878" id="397416182"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416182"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416182"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863258" tv-usec="563331" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="9.5973958333333336" new="9.5864259259259903" id="397416170"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416170"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416170"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863262" tv-usec="62434" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="9.8550000000000004" new="9.8440703703703143" id="397416172"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416172"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416172"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863264" tv-usec="503292" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="10.101354166666667" new="10.090381481481515" id="397416174"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416174"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="174" left-frame="6229175" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397416174"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863305" tv-usec="226341" name="delete MIDI">
-    <NoteDiffCommand midi-source="4579179">
-      <ChangedNotes/>
-      <AddedNotes/>
-      <RemovedNotes>
-        <note id="396787183" note="36" channel="9" time="38.099895833333335" length="0.13890624999999801" velocity="65"/>
-      </RemovedNotes>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="465" left-frame="5267008" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579186">
-            <note note-id="396787183"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="465" left-frame="5267008" y-origin="3423">
-        <Selection/>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863380" tv-usec="684842" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="22.712251851851793" new="22.581918518518396" id="397417820"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="207" left-frame="6436535" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417820"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="207" left-frame="6436535" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417820"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567863383" tv-usec="523091" name="move notes">
-    <NoteDiffCommand midi-source="4579064">
-      <ChangedNotes>
-        <Change property="StartTime" old="23.358177083333334" new="23.084488888888831" id="397417822"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="207" left-frame="6436535" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417822"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="207" left-frame="6436535" y-origin="3423">
-        <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417822"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1567864056" tv-usec="610907" name="move marker">
+  <UndoTransaction tv-sec="1568838217" tv-usec="701472" name="add marker">
     <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
       <Locations>
-        <Location id="2797625" name="session" start="0" end="5755059" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
       </Locations>
       <Locations>
         <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
         <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="mark1" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
       </Locations>
     </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="686" left-frame="12157768" y-origin="3423">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
         <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417822"/>
-          </MIDINotes>
-          <Marker id="2797625" start="0"/>
+          <Marker id="4795076" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="686" left-frame="12157768" y-origin="3423">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
         <Selection>
-          <MIDINotes region-id="4579455">
-            <note note-id="397417822"/>
-          </MIDINotes>
-          <Marker id="2797625" start="0"/>
+          <Marker id="4795085" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568838224" tv-usec="817057" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="mark1" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795085" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795085" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840268" tv-usec="63152" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="mark1" start="9656415" end="9656415" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795085" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840271" tv-usec="733196" name="move marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="mark1" start="9656415" end="9656415" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="mark1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840288" tv-usec="228869" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="mark1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9122037" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840305" tv-usec="49664" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="mark1" start="10132558" end="10132558" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795094" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840307" tv-usec="486844" name="move marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="mark1" start="10132558" end="10132558" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="mark1" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840311" tv-usec="726545" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="mark1" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="507" left-frame="9631135" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840332" tv-usec="426799" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="mark1" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="566" left-frame="9948278" y-origin="3295">
+        <Selection>
+          <Marker id="4795107" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="566" left-frame="9948278" y-origin="3295">
+        <Selection>
+          <Marker id="4795120" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840363" tv-usec="257429" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="mark1" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795120" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795120" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840381" tv-usec="692864" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="mark1" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795120" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795131" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840387" tv-usec="455448" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="mark1" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795131" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10123540" y-origin="3295">
+        <Selection>
+          <Marker id="4795131" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840416" tv-usec="89835" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="mark1" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10666022" y-origin="3295">
+        <Selection>
+          <Marker id="4795131" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10666022" y-origin="3295">
+        <Selection>
+          <Marker id="4795140" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840426" tv-usec="62046" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="mark1" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10666022" y-origin="3295">
+        <Selection>
+          <Marker id="4795140" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="10666022" y-origin="3295">
+        <Selection>
+          <Marker id="4795140" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840453" tv-usec="902403" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="mark1" start="11879255" end="11879255" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795140" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840456" tv-usec="993836" name="move marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="mark1" start="11879255" end="11879255" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="mark1" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840461" tv-usec="562475" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="mark1" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11492263" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840493" tv-usec="21079" name="add marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795162" name="mark1" start="12642423" end="12642423" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4795149" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4795162" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840496" tv-usec="561069" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795162" name="mark1" start="12642423" end="12642423" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795162" name="coda" start="12642423" end="12642423" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4795162" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4795162" start="1"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1568840506" tv-usec="114267" name="rename marker">
+    <MementoCommand obj-id="34" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795162" name="coda" start="12642423" end="12642423" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4037272" name="coda drums solo" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794823" name="intro" start="70807" end="70807" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794832" name="accents" start="1905882" end="1905882" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794855" name="riff1" start="2350588" end="2350588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794864" name="riff2" start="2795294" end="2795294" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794876" name="verse1" start="3303529" end="3303529" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794885" name="verse1-fill" start="3780000" end="3780000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794894" name="verse2" start="4034118" end="4034118" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794903" name="verse2-fill" start="4510588" end="4510588" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794912" name="chorus1" start="4764706" end="4764706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794977" name="riff1-straight" start="5336102" end="5336102" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4794986" name="verse3" start="5844706" end="5844706" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795004" name="verse3-fill" start="6321176" end="6321176" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795019" name="chorus2" start="6575150" end="6575150" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795028" name="interlude riff" start="7051765" end="7051765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795041" name="solo riff" start="7337647" end="7337647" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795054" name="solo interlude riff" start="8131765" end="8131765" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795067" name="solo riff" start="8385616" end="8385616" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795076" name="solo interlude riff 2" start="9179917" end="9179917" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795085" name="drum solo" start="9401901" end="9401901" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795094" name="riff1" start="9656471" end="9656471" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795107" name="verse4" start="10132941" end="10132941" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795120" name="verse4-fill" start="10609366" end="10609366" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795131" name="chorus3" start="10863220" end="10863220" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795140" name="outro chorus" start="11371398" end="11371398" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795149" name="outro" start="11880000" end="11880000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+        <Location id="4795162" name="coda" start="12642423" end="12642423" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4037272" start="1"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseRange" zoom="536" left-frame="11884519" y-origin="3295">
+        <Selection>
+          <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
