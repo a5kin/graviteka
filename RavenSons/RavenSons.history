@@ -1,540 +1,1174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1568933441" tv-usec="395915" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962174" tv-usec="191251" name="move notes">
+    <NoteDiffCommand midi-source="3796903">
       <ChangedNotes>
-        <Change property="StartTime" old="17.100677083333334" new="17.18605555555548" id="364473489"/>
+        <Change property="StartTime" old="6.9488020833333337" new="7.039448148148125" id="358315779"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11099988" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3480233" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473489"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315779"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11099988" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3480233" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473489"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315779"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933448" tv-usec="7506" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962177" tv-usec="187514" name="move notes">
+    <NoteDiffCommand midi-source="3796956">
       <ChangedNotes>
-        <Change property="StartTime" old="20.249375000000001" new="20.192474074073985" id="364473515"/>
+        <Change property="StartTime" old="6.9322395833333337" new="6.992666666666671" id="358356868"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11183446" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3480233" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473515"/>
+          <MIDINotes region-id="3796971">
+            <note note-id="358356868"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11183446" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3480233" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473515"/>
+          <MIDINotes region-id="3796971">
+            <note note-id="358356868"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933457" tv-usec="488182" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962195" tv-usec="647245" name="resize notes">
+    <NoteDiffCommand midi-source="3796747">
       <ChangedNotes>
-        <Change property="StartTime" old="22.260833333333334" new="22.203888888888923" id="364473521"/>
+        <Change property="Length" old="1.9200520833333314" new="2.226927083333365" id="358276571"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11183446" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473521"/>
+          <MIDINotes region-id="3796870">
+            <note note-id="358276571"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11183446" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364473521"/>
+          <MIDINotes region-id="3796870">
+            <note note-id="358276571"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933464" tv-usec="846520" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962200" tv-usec="88038" name="resize notes">
+    <NoteDiffCommand midi-source="3796734">
       <ChangedNotes>
-        <Change property="StartTime" old="26.238489583333333" new="26.210033333333243" id="364474758"/>
+        <Change property="Length" old="2.0012499999999989" new="2.1015451388889268" id="358283130"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11342017" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="270">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364474758"/>
+          <MIDINotes region-id="3796883">
+            <note note-id="358283130"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="452" left-frame="11342017" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="270">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364474758"/>
+          <MIDINotes region-id="3796883">
+            <note note-id="358283130"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933482" tv-usec="557396" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962206" tv-usec="511044" name="resize notes">
+    <NoteDiffCommand midi-source="3796956">
       <ChangedNotes>
-        <Change property="StartTime" old="53.061666666666667" new="53.152325925925936" id="364479084"/>
+        <Change property="StartTime" old="6.5348958333333336" new="6.5884444444444341" id="358356867"/>
+        <Change property="Length" old="1.0566145833333334" new="1.0030659722222328" id="358356867"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="270">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479084"/>
+          <MIDINotes region-id="3796971">
+            <note note-id="358356867"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="270">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479084"/>
+          <MIDINotes region-id="3796971">
+            <note note-id="358356867"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933484" tv-usec="135569" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962213" tv-usec="33501" name="resize notes">
+    <NoteDiffCommand midi-source="3796903">
       <ChangedNotes>
-        <Change property="StartTime" old="53.564374999999998" new="53.655022222222172" id="364479085"/>
+        <Change property="StartTime" old="6.5041145833333331" new="6.5279999999999916" id="358315778"/>
+        <Change property="Length" old="1.0483854166666671" new="1.0245000000000086" id="358315778"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479085"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315778"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479085"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315778"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933486" tv-usec="877047" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962218" tv-usec="593187" name="resize notes">
+    <NoteDiffCommand midi-source="3796903">
       <ChangedNotes>
-        <Change property="StartTime" old="54.092500000000001" new="54.152933333333323" id="364479087"/>
+        <Change property="StartTime" old="6.5279999999999916" new="6.5582222222222128" id="358315778"/>
+        <Change property="Length" old="1.0245000000000086" new="0.99427777777778736" id="358315778"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479087"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315778"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3672187" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479087"/>
+          <MIDINotes region-id="3796916">
+            <note note-id="358315778"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933489" tv-usec="116944" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962371" tv-usec="278667" name="move notes">
+    <NoteDiffCommand midi-source="3796811">
       <ChangedNotes>
-        <Change property="StartTime" old="55.077500000000001" new="55.137925925925757" id="364479100"/>
+        <Change property="StartTime" old="22.04265625" new="22.012418518518537" id="358195698"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3279927" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479100"/>
+          <MIDINotes region-id="3796824">
+            <note note-id="358195698"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3279927" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479100"/>
+          <MIDINotes region-id="3796824">
+            <note note-id="358195698"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933493" tv-usec="686926" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962380" tv-usec="495457" name="move notes">
+    <NoteDiffCommand midi-source="3796775">
       <ChangedNotes>
-        <Change property="StartTime" old="55.454218750000003" new="55.605300000000064" id="364479101"/>
+        <Change property="StartTime" old="21.993541666666665" new="22.023751851851877" id="358182249"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3279927" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479101"/>
+          <MIDINotes region-id="3796788">
+            <note note-id="358182249"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="3279927" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479101"/>
+          <MIDINotes region-id="3796788">
+            <note note-id="358182249"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933495" tv-usec="701912" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962670" tv-usec="304298" name="resize notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="StartTime" old="56.082968749999999" new="56.143444444444334" id="364479104"/>
+        <Change property="Length" old="0.37776041666666771" new="0.60001296296294271" id="357220472"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="1961277" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479104"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220472"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="1961277" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479104"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220472"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933498" tv-usec="596914" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962679" tv-usec="737984" name="resize notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="StartTime" old="57.063593750000003" new="57.124029629629497" id="364479107"/>
+        <Change property="StartTime" old="46.65984375" new="46.957966666666664" id="357220473"/>
+        <Change property="Length" old="0.80682291666666828" new="0.50870000000000459" id="357220473"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="1961277" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479107"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220473"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="1961277" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479107"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220473"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933502" tv-usec="847152" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962733" tv-usec="930543" name="move notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="StartTime" old="57.541093750000002" new="57.631762962963009" id="364479108"/>
+        <Change property="StartTime" old="35.900364583333335" new="35.990825925925925" id="357220169"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479108"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220169"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364479108"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220169"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933505" tv-usec="869863" name="move notes">
-    <NoteDiffCommand midi-source="4036932">
-      <ChangedNotes>
-        <Change property="StartTime" old="58.094374999999999" new="58.154796296296226" id="364480491"/>
-      </ChangedNotes>
+  <UndoTransaction tv-sec="1568962740" tv-usec="347754" name="move notes">
+    <NoteDiffCommand midi-source="3758717">
+      <ChangedNotes/>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364480491"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220163"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="11709235" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364480491"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220163"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933553" tv-usec="366383" name="resize notes">
-    <NoteDiffCommand midi-source="4037292">
+  <UndoTransaction tv-sec="1568962744" tv-usec="875263" name="move notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="Length" old="14.250937499999992" new="13.537152777777621" id="364456804"/>
+        <Change property="StartTime" old="42.939791666666665" new="43.000114814814808" id="357220464"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037301">
-            <note note-id="364456804"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220464"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037301">
-            <note note-id="364456804"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220464"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933556" tv-usec="603952" name="resize notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962747" tv-usec="162042" name="move notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="Length" old="14.758958333333339" new="13.8684513888889" id="364482216"/>
+        <Change property="StartTime" old="43.94953125" new="43.979692592592578" id="357220467"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364482216"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220467"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364482216"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220467"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933591" tv-usec="620451" name="resize notes">
-    <NoteDiffCommand midi-source="4036932">
+  <UndoTransaction tv-sec="1568962751" tv-usec="742043" name="move notes">
+    <NoteDiffCommand midi-source="3758717">
       <ChangedNotes>
-        <Change property="Length" old="13.8684513888889" new="13.596451388888966" id="364482216"/>
+        <Change property="StartTime" old="49.935781249999998" new="49.996118518518536" id="357220735"/>
       </ChangedNotes>
       <AddedNotes/>
       <RemovedNotes/>
     </NoteDiffCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364482216"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220735"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseDraw" zoom="479" left-frame="2245037" y-origin="64">
         <Selection>
-          <MIDINotes region-id="4037317">
-            <note note-id="364482216"/>
+          <MIDINotes region-id="3796608">
+            <note note-id="357220735"/>
           </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933595" tv-usec="91109" name="resize notes">
-    <NoteDiffCommand midi-source="4037292">
-      <ChangedNotes>
-        <Change property="Length" old="13.537152777777621" new="13.4464861111109" id="364456804"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1568963507" tv-usec="710719" name="remove control point">
+    <MementoCommand source-id="3796721" parameter="midi-pitch-bender-0" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.511458333333334 14976
+18.536770833333332 16383
+18.68796875 15872
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.511458333333334 14976
+18.68796875 15872
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037301">
-            <note note-id="364456804"/>
-          </MIDINotes>
+          <ControlPoint type="track" route-id="115361" automation-list-id="4840542" parameter="midi-pitch-bender-0" view-index="7"/>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037301">
-            <note note-id="364456804"/>
-          </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933643" tv-usec="307380" name="resize notes">
-    <NoteDiffCommand midi-source="4037428">
-      <ChangedNotes>
-        <Change property="Length" old="0.52791666666666703" new="0.72907291666671004" id="364721673"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1568963510" tv-usec="746439" name="remove control point">
+    <MementoCommand source-id="3796721" parameter="midi-pitch-bender-0" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.511458333333334 14976
+18.68796875 15872
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.511458333333334 14976
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721673"/>
-          </MIDINotes>
+          <ControlPoint type="track" route-id="115361" automation-list-id="4840542" parameter="midi-pitch-bender-0" view-index="7"/>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721673"/>
-          </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933671" tv-usec="919543" name="move notes">
-    <NoteDiffCommand midi-source="4037428">
-      <ChangedNotes>
-        <Change property="StartTime" old="4.5955208333333335" new="4.6559851851852532" id="364721671"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1568963525" tv-usec="74697" name="remove control point">
+    <MementoCommand source-id="3796721" parameter="midi-pitch-bender-0" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.511458333333334 14976
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721671"/>
-          </MIDINotes>
+          <ControlPoint type="track" route-id="115361" automation-list-id="4840542" parameter="midi-pitch-bender-0" view-index="6"/>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721671"/>
-          </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1568933673" tv-usec="355029" name="move notes">
-    <NoteDiffCommand midi-source="4037428">
-      <ChangedNotes>
-        <Change property="StartTime" old="4.0930208333333331" new="4.1836999999999653" id="364721670"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1568963527" tv-usec="616584" name="remove control point">
+    <MementoCommand source-id="3796721" parameter="midi-pitch-bender-0" type-name="ARDOUR::AutomationList">
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.714114583333334 14464
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+      <AutomationList automation-id="midi-pitch-bender-0" id="4840542" interpolation-style="Discrete" state="Play">
+        <events>18.356874999999999 8576
+18.382604166666667 9344
+18.408489583333335 10752
+18.434479166666666 11904
+18.459791666666668 13312
+18.485624999999999 13696
+18.739687499999999 13312
+18.765625 12800
+18.791302083333335 10496
+18.816822916666666 9856
+18.842031250000002 8192
+27.314010416666665 8320
+27.3396875 8576
+27.364947916666665 8960
+27.390260416666667 9088
+27.44109375 9216
+27.466354166666665 9344
+27.517239583333332 9472
+27.5428125 9600
+27.568177083333332 9728
+27.593697916666667 9856
+27.619375000000002 9984
+27.645677083333332 10496
+27.671041666666667 13696
+27.696406249999999 14848
+27.747291666666666 15616
+27.772604166666667 16383
+27.949635416666666 15872
+27.974427083333332 15360
+27.999791666666667 14464
+28.026041666666668 14080
+28.051718749999999 10880
+28.077864583333334 10368
+28.103124999999999 8192
+34.439427083333335 8960
+34.46510416666667 9600
+34.490677083333331 10880
+34.516822916666669 11264
+34.54270833333333 13184
+34.568385416666665 14080
+34.59401041666667 14848
+34.619583333333331 15616
+34.64484375 16383
+34.745624999999997 16000
+34.796354166666667 15104
+34.822083333333332 14208
+34.84796875 12672
+34.873958333333334 11648
+34.899531250000003 10496
+34.899583333333332 9088
+34.925104166666664 8192
+43.245312499999997 8320
+43.295885416666664 8576
+43.371562500000003 8960
+43.4221875 9088
+43.472812500000003 9216
+43.548541666666665 9344
+43.598958333333336 9472
+43.649895833333332 9600
+43.67546875 9728
+43.700885416666665 9856
+43.7265625 9984
+43.752239583333335 10368
+43.77760416666667 10496
+43.803125000000001 13184
+43.82838541666667 13312
+43.879375000000003 13440
+43.905000000000001 13696
+43.955989583333334 13952
+43.981979166666669 14080
+44.007656249999997 14208
+44.007708333333333 14464
+44.033124999999998 14592
+44.058802083333333 14848
+44.084218749999998 14976
+44.110260416666669 15104
+44.135572916666668 13696
+44.1871875 11008
+44.239062500000003 8192
+</events>
+      </AutomationList>
+    </MementoCommand>
     <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721670"/>
-          </MIDINotes>
+          <ControlPoint type="track" route-id="115361" automation-list-id="4840542" parameter="midi-pitch-bender-0" view-index="6"/>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="480" left-frame="12118182" y-origin="64">
+      <SelectionMemento mouse-mode="MouseContent" zoom="228" left-frame="2704051" y-origin="456">
         <Selection>
-          <MIDINotes region-id="4037437">
-            <note note-id="364721670"/>
-          </MIDINotes>
           <Marker id="4037272" start="1"/>
         </Selection>
       </SelectionMemento>
