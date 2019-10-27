@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="5646463" name-counter="18" event-counter="487806271" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="5870333" name-counter="18" event-counter="500139693" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -924,6 +924,37 @@
       <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
     </Source>
     <Source name="Tom 2-1.mid" type="midi" flags="Writable,CanRename,Empty" id="5597604" origin=""/>
+    <Source name="Cymbals Map 1-1.mid" type="midi" flags="Writable,CanRename" id="5844978" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 2-2.mid" type="midi" flags="Writable,CanRename" id="5869943" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 1-2.mid" type="midi" flags="Writable,CanRename" id="5869957" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-3.mid" type="midi" flags="Writable,CanRename" id="5869968" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-4.mid" type="midi" flags="Writable,CanRename" id="5869979" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-5.mid" type="midi" flags="Writable,CanRename" id="5869990" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-6.mid" type="midi" flags="Writable,CanRename" id="5870001" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 2-3.mid" type="midi" flags="Writable,CanRename" id="5870015" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-4.mid" type="midi" flags="Writable,CanRename" id="5870026" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 1-7.mid" type="midi" flags="Writable,CanRename" id="5870040" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-8.mid" type="midi" flags="Writable,CanRename" id="5870051" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-9.mid" type="midi" flags="Writable,CanRename" id="5870062" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-10.mid" type="midi" flags="Writable,CanRename" id="5870073" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 2-5.mid" type="midi" flags="Writable,CanRename" id="5870087" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 1-11.mid" type="midi" flags="Writable,CanRename" id="5870101" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-12.mid" type="midi" flags="Writable,CanRename" id="5870112" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 2-6.mid" type="midi" flags="Writable,CanRename" id="5870126" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-7.mid" type="midi" flags="Writable,CanRename" id="5870142" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 1-13.mid" type="midi" flags="Writable,CanRename" id="5870153" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-14.mid" type="midi" flags="Writable,CanRename" id="5870164" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 2-8.mid" type="midi" flags="Writable,CanRename" id="5870181" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-9.mid" type="midi" flags="Writable,CanRename" id="5870192" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-10.mid" type="midi" flags="Writable,CanRename" id="5870207" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-11.mid" type="midi" flags="Writable,CanRename" id="5870224" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 2-12.mid" type="midi" flags="Writable,CanRename" id="5870235" captured-for="Cymbals Map 2" origin=""/>
+    <Source name="Cymbals Map 1-15.mid" type="midi" flags="Writable,CanRename" id="5870249" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-16.mid" type="midi" flags="Writable,CanRename" id="5870260" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-17.mid" type="midi" flags="Writable,CanRename" id="5870271" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-18.mid" type="midi" flags="Writable,CanRename" id="5870282" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-19.mid" type="midi" flags="Writable,CanRename" id="5870293" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Cymbals Map 1-20.mid" type="midi" flags="Writable,CanRename" id="5870321" captured-for="Cymbals Map 1" origin=""/>
   </Sources>
   <Regions>
     <Region name="Ballad Right 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5054720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="219.68737717309148" id="2908067" type="midi" first-edit="nothing" source-0="2879831" master-source-0="2879831"/>
@@ -2156,10 +2187,59 @@
     <Region name="Bass 2-58" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1446656" position="11239137" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="91.085748148148141" id="5551752" type="midi" first-edit="nothing" source-0="5515415" master-source-0="5515415"/>
     <Region name="Bass 1-68" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="508672" position="12382561" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="32.027496296296292" id="5552217" type="midi" first-edit="nothing" source-0="5552209" master-source-0="5552209"/>
     <Region name="Tom 2-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="15882" position="39840" beat="2.5084444444444443" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="0.99997777777777763" id="5597606" type="midi" first-edit="nothing" source-0="5597604" master-source-0="5597604"/>
+    <Region name="Cymbals Map 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="107008" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="6.7375407407407399" id="5869950" type="midi" first-edit="nothing" source-0="5844978" master-source-0="5844978"/>
+    <Region name="Cymbals Map 1-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="107008" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="6.7375407407407399" id="5869953" type="midi" first-edit="nothing" source-0="5844978" master-source-0="5844978"/>
+    <Region name="Cymbals Map 1-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="122880" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.7368888888888874" id="5869961" type="midi" first-edit="nothing" source-0="5869957" master-source-0="5869957"/>
+    <Region name="Cymbals Map 1-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="122880" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="7.7368888888888874" id="5869964" type="midi" first-edit="nothing" source-0="5869957" master-source-0="5869957"/>
+    <Region name="Cymbals Map 1-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="999936" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="62.95893333333332" id="5869972" type="midi" first-edit="nothing" source-0="5869968" master-source-0="5869968"/>
+    <Region name="Cymbals Map 1-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="999936" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="62.95893333333332" id="5869975" type="midi" first-edit="nothing" source-0="5869968" master-source-0="5869968"/>
+    <Region name="Cymbals Map 1-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="302080" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="19.01985185185185" id="5869983" type="midi" first-edit="nothing" source-0="5869979" master-source-0="5869979"/>
+    <Region name="Cymbals Map 1-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="302080" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="19.01985185185185" id="5869986" type="midi" first-edit="nothing" source-0="5869979" master-source-0="5869979"/>
+    <Region name="Cymbals Map 1-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2911744" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="183.33202962962963" id="5869994" type="midi" first-edit="nothing" source-0="5869990" master-source-0="5869990"/>
+    <Region name="Cymbals Map 2-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="471808" position="2660860" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="29.706429629629628" id="5870008" type="midi" first-edit="nothing" source-0="5869943" master-source-0="5869943"/>
+    <Region name="Cymbals Map 2-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="471808" position="2660860" beat="167.53562962962963" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="29.706429629629639" id="5870011" type="midi" first-edit="nothing" source-0="5869943" master-source-0="5869943"/>
+    <Region name="Cymbals Map 2-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="792832" position="2660860" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="49.91905185185184" id="5870019" type="midi" first-edit="nothing" source-0="5870015" master-source-0="5870015"/>
+    <Region name="Cymbals Map 1-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1293312" position="3173812" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="81.43075555555555" id="5870033" type="midi" first-edit="nothing" source-0="5870001" master-source-0="5870001"/>
+    <Region name="Cymbals Map 1-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1293312" position="3173812" beat="199.83260740740741" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="81.43075555555555" id="5870036" type="midi" first-edit="nothing" source-0="5870001" master-source-0="5870001"/>
+    <Region name="Cymbals Map 1-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="469248" position="3173812" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="29.545244444444446" id="5870044" type="midi" first-edit="nothing" source-0="5870040" master-source-0="5870040"/>
+    <Region name="Cymbals Map 1-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="469248" position="3173812" beat="199.83260740740741" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="29.54524444444445" id="5870047" type="midi" first-edit="nothing" source-0="5870040" master-source-0="5870040"/>
+    <Region name="Cymbals Map 1-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="684544" position="3173812" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="43.100918518518512" id="5870055" type="midi" first-edit="nothing" source-0="5870051" master-source-0="5870051"/>
+    <Region name="Cymbals Map 1-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="684544" position="3173812" beat="199.83260740740741" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="43.100918518518512" id="5870058" type="midi" first-edit="nothing" source-0="5870051" master-source-0="5870051"/>
+    <Region name="Cymbals Map 1-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1646592" position="3173812" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="103.67431111111109" id="5870066" type="midi" first-edit="nothing" source-0="5870062" master-source-0="5870062"/>
+    <Region name="Cymbals Map 2-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1332992" position="4639037" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="83.929125925925916" id="5870080" type="midi" first-edit="nothing" source-0="5870026" master-source-0="5870026"/>
+    <Region name="Cymbals Map 1-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="289024" position="5763210" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="18.197807407407407" id="5870094" type="midi" first-edit="nothing" source-0="5870073" master-source-0="5870073"/>
+    <Region name="Cymbals Map 1-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="289024" position="5763210" beat="362.86877777777778" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="18.197807407407424" id="5870097" type="midi" first-edit="nothing" source-0="5870073" master-source-0="5870073"/>
+    <Region name="Cymbals Map 1-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="871168" position="5763210" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="54.851318518518511" id="5870105" type="midi" first-edit="nothing" source-0="5870101" master-source-0="5870101"/>
+    <Region name="Cymbals Map 2-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="585984" position="6527603" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="36.895288888888892" id="5870119" type="midi" first-edit="nothing" source-0="5870087" master-source-0="5870087"/>
+    <Region name="Cymbals Map 2-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="585984" position="6527603" beat="410.99722592592587" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="36.895288888888899" id="5870122" type="midi" first-edit="nothing" source-0="5870087" master-source-0="5870087"/>
+    <Region name="Cymbals Map 2-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="566016" position="6527603" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="35.638044444444446" id="5870135" type="midi" first-edit="nothing" source-0="5870126" master-source-0="5870126"/>
+    <Region name="Cymbals Map 1-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2797312" position="6987202" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="176.12705185185186" id="5870146" type="midi" first-edit="nothing" source-0="5870112" master-source-0="5870112"/>
+    <Region name="Cymbals Map 1-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2797312" position="6987202" beat="439.93494074074079" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="176.12705185185177" id="5870149" type="midi" first-edit="nothing" source-0="5870112" master-source-0="5870112"/>
+    <Region name="Cymbals Map 1-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3209984" position="6987202" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="202.11010370370369" id="5870157" type="midi" first-edit="nothing" source-0="5870153" master-source-0="5870153"/>
+    <Region name="Cymbals Map 2-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="321280" position="10037325" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="20.22874074074074" id="5870174" type="midi" first-edit="nothing" source-0="5870142" master-source-0="5870142"/>
+    <Region name="Cymbals Map 2-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="321280" position="10037325" beat="631.97972222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="20.228740740740704" id="5870177" type="midi" first-edit="nothing" source-0="5870142" master-source-0="5870142"/>
+    <Region name="Cymbals Map 2-8" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2046208" position="10037325" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="128.83531851851851" id="5870185" type="midi" first-edit="nothing" source-0="5870181" master-source-0="5870181"/>
+    <Region name="Cymbals Map 2-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2046208" position="10037325" beat="631.97972222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="128.83531851851853" id="5870188" type="midi" first-edit="nothing" source-0="5870181" master-source-0="5870181"/>
+    <Region name="Cymbals Map 2-9" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1995520" position="10037325" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="125.64385185185185" id="5870196" type="midi" first-edit="nothing" source-0="5870192" master-source-0="5870192"/>
+    <Region name="Cymbals Map 2-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1995520" position="10037325" beat="631.97972222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="125.64385185185188" id="5870199" type="midi" first-edit="nothing" source-0="5870192" master-source-0="5870192"/>
+    <Region name="Cymbals Map 2-10" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="285696" position="10037325" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="17.988266666666668" id="5870213" type="midi" first-edit="nothing" source-0="5870207" master-source-0="5870207"/>
+    <Region name="Cymbals Map 2-10.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="285696" position="10037325" beat="631.97972222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="17.988266666666618" id="5870216" type="midi" first-edit="nothing" source-0="5870207" master-source-0="5870207"/>
+    <Region name="Cymbals Map 2-11" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="965376" position="10037325" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="60.782933333333332" id="5870228" type="midi" first-edit="nothing" source-0="5870224" master-source-0="5870224"/>
+    <Region name="Cymbals Map 1-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="878592" position="10793610" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="55.318755555555555" id="5870242" type="midi" first-edit="nothing" source-0="5870164" master-source-0="5870164"/>
+    <Region name="Cymbals Map 1-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="878592" position="10793610" beat="679.59766666666667" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="55.318755555555526" id="5870245" type="midi" first-edit="nothing" source-0="5870164" master-source-0="5870164"/>
+    <Region name="Cymbals Map 1-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="359680" position="10793610" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="22.646518518518519" id="5870253" type="midi" first-edit="nothing" source-0="5870249" master-source-0="5870249"/>
+    <Region name="Cymbals Map 1-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="359680" position="10793610" beat="679.59766666666667" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="22.646518518518519" id="5870256" type="midi" first-edit="nothing" source-0="5870249" master-source-0="5870249"/>
+    <Region name="Cymbals Map 1-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="244480" position="10793610" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="15.393185185185187" id="5870264" type="midi" first-edit="nothing" source-0="5870260" master-source-0="5870260"/>
+    <Region name="Cymbals Map 1-16.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="244480" position="10793610" beat="679.59766666666667" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="15.393185185185075" id="5870267" type="midi" first-edit="nothing" source-0="5870260" master-source-0="5870260"/>
+    <Region name="Cymbals Map 1-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="256512" position="10793610" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="16.150755555555556" id="5870275" type="midi" first-edit="nothing" source-0="5870271" master-source-0="5870271"/>
+    <Region name="Cymbals Map 1-17.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="256512" position="10793610" beat="679.59766666666667" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="16.150755555555634" id="5870278" type="midi" first-edit="nothing" source-0="5870271" master-source-0="5870271"/>
+    <Region name="Cymbals Map 1-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1290752" position="10793610" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="81.26957037037036" id="5870286" type="midi" first-edit="nothing" source-0="5870282" master-source-0="5870282"/>
+    <Region name="Cymbals Map 2-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1277952" position="11269412" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="80.463644444444441" id="5870300" type="midi" first-edit="nothing" source-0="5870235" master-source-0="5870235"/>
+    <Region name="Cymbals Map 1-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="323328" position="12320751" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="20.357688888888887" id="5870314" type="midi" first-edit="nothing" source-0="5870293" master-source-0="5870293"/>
+    <Region name="Cymbals Map 1-19.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="323328" position="12320751" beat="775.75098888888886" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="20.357688888888902" id="5870317" type="midi" first-edit="nothing" source-0="5870293" master-source-0="5870293"/>
+    <Region name="Cymbals Map 1-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="527360" position="12320751" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="33.204148148148143" id="5870325" type="midi" first-edit="nothing" source-0="5870321" master-source-0="5870321"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="4750827" control="0" order="27"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda drums solo" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -2772,7 +2852,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state125"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state130"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -2925,7 +3005,7 @@
       <Controllable name="midicc-0-0" id="483" flags="" value="0"/>
       <Controllable name="midicc-0-32" id="484" flags="" value="0"/>
       <Controllable name="midi-pgm-change-0" id="485" flags="" value="1"/>
-      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="8320"/>
       <Controllable name="midi-pitch-bender-1" id="82444" flags="" value="8192"/>
     </Route>
     <Route id="21044" name="Right Lead 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -2998,11 +3078,11 @@
       <Controllable name="rec-safe" id="21082" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="21080" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="MIDI 6.1" name="MIDI 6" id="21085" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8320"/>
       <Controllable name="midi-pitch-bender-1" id="82454" flags="" value="8192"/>
     </Route>
     <Route id="80231" name="Left Lead Meat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="28" flags="MidiBus,OrderSet" color="2061857535"/>
+      <PresentationInfo order="29" flags="MidiBus,OrderSet" color="2061857535"/>
       <Controllable name="solo" id="80239" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="80245" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="80247" flags="Toggle" value="0" solo-safe="0"/>
@@ -3389,7 +3469,7 @@
       <Slavable/>
     </Route>
     <Route id="80272" name="Right Lead Meat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="29" flags="MidiBus,OrderSet" color="1927538175"/>
+      <PresentationInfo order="30" flags="MidiBus,OrderSet" color="1927538175"/>
       <Controllable name="solo" id="80280" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="80286" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="80288" flags="Toggle" value="0" solo-safe="0"/>
@@ -3776,7 +3856,7 @@
       <Slavable/>
     </Route>
     <Route id="80313" name="Left Lead Bones" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="30" flags="MidiBus,OrderSet" color="3131958783"/>
+      <PresentationInfo order="31" flags="MidiBus,OrderSet" color="3131958783"/>
       <Controllable name="solo" id="80321" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="80327" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="80329" flags="Toggle" value="0" solo-safe="0"/>
@@ -4163,7 +4243,7 @@
       <Slavable/>
     </Route>
     <Route id="80354" name="Right Lead Bones" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="31" flags="MidiBus,OrderSet" color="2238899711"/>
+      <PresentationInfo order="32" flags="MidiBus,OrderSet" color="2238899711"/>
       <Controllable name="solo" id="80362" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="80368" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="80370" flags="Toggle" value="0" solo-safe="0"/>
@@ -4550,7 +4630,7 @@
       <Slavable/>
     </Route>
     <Route id="82528" name="Comp. Lead Right" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="32" flags="AudioBus,OrderSet" color="1921639935"/>
+      <PresentationInfo order="33" flags="AudioBus,OrderSet" color="1921639935"/>
       <Controllable name="solo" id="82536" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="82542" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="82544" flags="Toggle" value="0" solo-safe="0"/>
@@ -5735,7 +5815,7 @@
       <Diskstream flags="Recordable" playlist="Snare" name="Snare" id="115770" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="121044" name="Kick Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="34" flags="MidiBus,OrderSet" color="1927660031"/>
+      <PresentationInfo order="35" flags="MidiBus,OrderSet" color="1927660031"/>
       <Controllable name="solo" id="121052" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="121058" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="121060" flags="Toggle" value="0" solo-safe="0"/>
@@ -6230,7 +6310,7 @@
       <Slavable/>
     </Route>
     <Route id="121302" name="Composite Kick" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="36" flags="AudioBus,OrderSet" color="2212161023"/>
+      <PresentationInfo order="37" flags="AudioBus,OrderSet" color="2212161023"/>
       <Controllable name="solo" id="121310" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="121316" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="121318" flags="Toggle" value="0" solo-safe="0"/>
@@ -6620,40 +6700,6 @@
           <Controllable name="gaincontrol" id="719142" flags="GainLike" value="0"/>
         </Processor>
       </Processor>
-      <Processor id="746676" name="send 6" active="1" user-latency="0" own-input="1" own-output="1" type="send" role="Send" bitslot="5" selfdestruct="1">
-        <Automation>
-          <AutomationList automation-id="gain" id="2800198" interpolation-style="Linear" state="Off"/>
-        </Automation>
-        <IO name="send 6" id="746677" direction="Output" default-type="audio" pretty-name="SC Composite Kick (6)" user-latency="0">
-          <Port type="audio" name="send 6/audio_send 1">
-            <Connection other="Sidechain 11/audio_in 1"/>
-          </Port>
-          <Port type="audio" name="send 6/audio_send 2"/>
-        </IO>
-        <PannerShell bypassed="0" user-panner="" linked-to-route="1">
-          <Panner uri="http://ardour.org/plugin/panner_2in2out" type="Equal Power Stereo"/>
-        </PannerShell>
-        <Pannable>
-          <Controllable name="pan-azimuth" id="121321" flags="" value="0.5"/>
-          <Controllable name="pan-width" id="121325" flags="" value="1"/>
-          <Controllable name="pan-elevation" id="121323" flags="" value="0"/>
-          <Controllable name="pan-frontback" id="121327" flags="" value="0"/>
-          <Controllable name="pan-lfe" id="121329" flags="" value="0"/>
-          <Automation>
-            <AutomationList automation-id="pan-azimuth" id="121320" interpolation-style="Linear" state="Off"/>
-            <AutomationList automation-id="pan-elevation" id="121322" interpolation-style="Linear" state="Off"/>
-            <AutomationList automation-id="pan-width" id="121324" interpolation-style="Linear" state="Off"/>
-            <AutomationList automation-id="pan-frontback" id="121326" interpolation-style="Linear" state="Off"/>
-            <AutomationList automation-id="pan-lfe" id="121328" interpolation-style="Linear" state="Off"/>
-          </Automation>
-        </Pannable>
-        <Processor id="746692" name="Amp" active="1" user-latency="0" type="amp">
-          <Automation>
-            <AutomationList automation-id="gain" id="2800198" interpolation-style="Linear" state="Off"/>
-          </Automation>
-          <Controllable name="gaincontrol" id="746691" flags="GainLike" value="0"/>
-        </Processor>
-      </Processor>
       <Processor id="1254142" name="send 3" active="1" user-latency="0" own-input="1" own-output="1" type="send" role="Send" bitslot="2" selfdestruct="1">
         <Automation>
           <AutomationList automation-id="gain" id="2800218" interpolation-style="Linear" state="Off"/>
@@ -6745,7 +6791,7 @@
       <Slavable/>
     </Route>
     <Route id="121370" name="Snare Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="37" flags="MidiBus,OrderSet" color="2867163903"/>
+      <PresentationInfo order="38" flags="MidiBus,OrderSet" color="2867163903"/>
       <Controllable name="solo" id="121378" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="121384" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="121386" flags="Toggle" value="0" solo-safe="0"/>
@@ -7276,7 +7322,7 @@
       <Slavable/>
     </Route>
     <Route id="121628" name="Snare Layer 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="38" flags="MidiBus,OrderSet" color="3251824127"/>
+      <PresentationInfo order="39" flags="MidiBus,OrderSet" color="3251824127"/>
       <Controllable name="solo" id="121636" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="121642" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="121644" flags="Toggle" value="0" solo-safe="0"/>
@@ -7506,7 +7552,7 @@
           <Channelmap type="audio" from="0" to="0"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state55">
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1" state-dir="state59">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="cutoff" value="1"/>
           <Port symbol="resonance" value="0"/>
@@ -7993,7 +8039,7 @@
       <Slavable/>
     </Route>
     <Route id="122012" name="Composite Snare" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="39" flags="AudioBus,OrderSet" color="2045084927"/>
+      <PresentationInfo order="40" flags="AudioBus,OrderSet" color="2045084927"/>
       <Controllable name="solo" id="122020" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="122026" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="122028" flags="Toggle" value="0" solo-safe="0"/>
@@ -8462,7 +8508,7 @@
       <Controllable name="midi-channel-pressure-0" id="2471008" flags="" value="0"/>
     </Route>
     <Route id="159719" name="Bass Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="44" flags="MidiBus,OrderSet" color="3851006207"/>
+      <PresentationInfo order="45" flags="MidiBus,OrderSet" color="3851006207"/>
       <Controllable name="solo" id="159727" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="159733" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="159735" flags="Toggle" value="0" solo-safe="0"/>
@@ -8847,7 +8893,7 @@
       <Slavable/>
     </Route>
     <Route id="159977" name="Bass Layer 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="46" flags="MidiBus,OrderSet" color="3664963071"/>
+      <PresentationInfo order="47" flags="MidiBus,OrderSet" color="3664963071"/>
       <Controllable name="solo" id="159985" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="159991" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="159993" flags="Toggle" value="0" solo-safe="0"/>
@@ -9232,7 +9278,7 @@
       <Slavable/>
     </Route>
     <Route id="160361" name="Composite Bass" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="48" flags="AudioBus,OrderSet" color="3815958015"/>
+      <PresentationInfo order="49" flags="AudioBus,OrderSet" color="3815958015"/>
       <Controllable name="solo" id="160369" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="160375" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="160377" flags="Toggle" value="0" solo-safe="0"/>
@@ -9786,6 +9832,7 @@
       <IO name="Closed Hat" id="191530" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Closed Hat/midi_in 1">
           <Connection other="Cymbals Map 1/midi_out 1"/>
+          <Connection other="Cymbals Map 2/midi_out 1"/>
         </Port>
       </IO>
       <IO name="Closed Hat" id="191531" direction="Output" default-type="midi" user-latency="0">
@@ -9886,7 +9933,7 @@
       <Diskstream flags="Recordable" playlist="Closed Hat" name="Closed Hat" id="191543" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="192065" name="Hi-Hat Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="49" flags="MidiBus,OrderSet" color="4155735039"/>
+      <PresentationInfo order="50" flags="MidiBus,OrderSet" color="4155735039"/>
       <Controllable name="solo" id="192073" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="192079" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="192081" flags="Toggle" value="0" solo-safe="0"/>
@@ -10422,6 +10469,7 @@
       <IO name="Crash 1" id="193110" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Crash 1/midi_in 1">
           <Connection other="Cymbals Map 1/midi_out 1"/>
+          <Connection other="Cymbals Map 2/midi_out 1"/>
         </Port>
       </IO>
       <IO name="Crash 1" id="193111" direction="Output" default-type="midi" user-latency="0">
@@ -10522,7 +10570,7 @@
       <Diskstream flags="Recordable" playlist="Crash 1.1" name="Crash 1" id="193123" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="194179" name="Crash Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="51" flags="MidiBus,OrderSet" color="4051220223"/>
+      <PresentationInfo order="52" flags="MidiBus,OrderSet" color="4051220223"/>
       <Controllable name="solo" id="194187" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="194193" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="194195" flags="Toggle" value="0" solo-safe="0"/>
@@ -11169,7 +11217,7 @@
       <Diskstream flags="Recordable" playlist="Pads 2.1" name="Pads 2" id="195698" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="196243" name="Pads Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="60" flags="MidiBus,OrderSet" color="3854163967"/>
+      <PresentationInfo order="61" flags="MidiBus,OrderSet" color="3854163967"/>
       <Controllable name="solo" id="196251" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="196257" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="196259" flags="Toggle" value="0" solo-safe="0"/>
@@ -11554,7 +11602,7 @@
       <Slavable/>
     </Route>
     <Route id="196501" name="Pads Layer 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="62" flags="MidiBus,OrderSet" color="3773156863"/>
+      <PresentationInfo order="63" flags="MidiBus,OrderSet" color="3773156863"/>
       <Controllable name="solo" id="196509" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="196515" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="196517" flags="Toggle" value="0" solo-safe="0"/>
@@ -11723,89 +11771,89 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#preset122" last-preset-label="FX Loony Bin AS" parameter-changed-since-last-preset="0" state-dir="state29">
+        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#Noise4Upreset47" last-preset-label="FX Arcade 1 l" parameter-changed-since-last-preset="1" state-dir="state36">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
-          <Port symbol="volume" value="0.28400000929832458"/>
-          <Port symbol="filtertype" value="0.27272701263427734"/>
-          <Port symbol="cutoff" value="0.35600000619888306"/>
-          <Port symbol="resonance" value="0.75199997425079346"/>
-          <Port symbol="keyfollow" value="0"/>
-          <Port symbol="filtercontour" value="0.5"/>
+          <Port symbol="volume" value="0.34000000357627869"/>
+          <Port symbol="filtertype" value="0.090909093618392944"/>
+          <Port symbol="cutoff" value="1"/>
+          <Port symbol="resonance" value="0"/>
+          <Port symbol="keyfollow" value="0.50800001621246338"/>
+          <Port symbol="filtercontour" value="0.52799999713897705"/>
           <Port symbol="filterattack" value="0"/>
-          <Port symbol="filterdecay" value="0"/>
-          <Port symbol="filtersustain" value="1"/>
+          <Port symbol="filterdecay" value="0.35200002789497375"/>
+          <Port symbol="filtersustain" value="0.4400000274181366"/>
           <Port symbol="filterrelease" value="0"/>
           <Port symbol="ampattack" value="0"/>
-          <Port symbol="ampdecay" value="0"/>
-          <Port symbol="ampsustain" value="1"/>
-          <Port symbol="amprelease" value="0.70399999618530273"/>
+          <Port symbol="ampdecay" value="0.67200005054473877"/>
+          <Port symbol="ampsustain" value="0"/>
+          <Port symbol="amprelease" value="0.58000004291534424"/>
           <Port symbol="osc1volume" value="0"/>
-          <Port symbol="osc2volume" value="0.73199999332427979"/>
+          <Port symbol="osc2volume" value="1"/>
           <Port symbol="osc3volume" value="0"/>
           <Port symbol="oscmastertune" value="0.5"/>
-          <Port symbol="osc1tune" value="0.51399999856948853"/>
-          <Port symbol="osc2tune" value="0.5"/>
-          <Port symbol="osc1finetune" value="0.5"/>
+          <Port symbol="osc1tune" value="1"/>
+          <Port symbol="osc2tune" value="0.5010000467300415"/>
+          <Port symbol="osc1finetune" value="0.50800001621246338"/>
           <Port symbol="osc2finetune" value="0.5"/>
           <Port symbol="osc1waveform" value="0.5"/>
-          <Port symbol="osc2waveform" value="0.5"/>
+          <Port symbol="osc2waveform" value="0.75"/>
           <Port symbol="oscsync" value="0"/>
-          <Port symbol="lfo1waveform" value="0.2800000011920929"/>
-          <Port symbol="lfo2waveform" value="0.2800000011920929"/>
-          <Port symbol="lfo1rate" value="0.54000002145767212"/>
-          <Port symbol="lfo2rate" value="0.13600000739097595"/>
-          <Port symbol="lfo1amount" value="1"/>
-          <Port symbol="lfo2amount" value="1"/>
-          <Port symbol="lfo1destination" value="0.42857098579406738"/>
-          <Port symbol="lfo2destination" value="0.85714298486709595"/>
+          <Port symbol="lfo1waveform" value="0.56000000238418579"/>
+          <Port symbol="lfo2waveform" value="0.5480000376701355"/>
+          <Port symbol="lfo1rate" value="0.61200004816055298"/>
+          <Port symbol="lfo2rate" value="0.66400003433227539"/>
+          <Port symbol="lfo1amount" value="0.62800002098083496"/>
+          <Port symbol="lfo2amount" value="0.61200004816055298"/>
+          <Port symbol="lfo1destination" value="0.28571429848670959"/>
+          <Port symbol="lfo2destination" value="0.8571428656578064"/>
           <Port symbol="lfo1phase" value="0"/>
-          <Port symbol="lfo2phase" value="0"/>
-          <Port symbol="osc2fm" value="0"/>
+          <Port symbol="lfo2phase" value="0.51200002431869507"/>
+          <Port symbol="osc2fm" value="0.88700002431869507"/>
           <Port symbol="osc2phase" value="0"/>
-          <Port symbol="osc1pw" value="0.51599997282028198"/>
-          <Port symbol="osc1phase" value="0.5"/>
-          <Port symbol="transpose" value="0.5"/>
+          <Port symbol="osc1pw" value="0.5"/>
+          <Port symbol="osc1phase" value="0.52000004053115845"/>
+          <Port symbol="transpose" value="0"/>
           <Port symbol="freeadattack" value="0"/>
-          <Port symbol="freeaddecay" value="0.44800001382827759"/>
-          <Port symbol="freeadamount" value="0.8399999737739563"/>
-          <Port symbol="freeaddestination" value="0.80000001192092896"/>
+          <Port symbol="freeaddecay" value="0.5480000376701355"/>
+          <Port symbol="freeadamount" value="0.97600007057189941"/>
+          <Port symbol="freeaddestination" value="1"/>
           <Port symbol="lfo1sync" value="0"/>
-          <Port symbol="lfo1keytrigger" value="0"/>
+          <Port symbol="lfo1keytrigger" value="1"/>
           <Port symbol="lfo2sync" value="0"/>
-          <Port symbol="lfo2keytrigger" value="0"/>
-          <Port symbol="portamento" value="0"/>
-          <Port symbol="portamentomode" value="0"/>
+          <Port symbol="lfo2keytrigger" value="1"/>
+          <Port symbol="portamento" value="0.32400000095367432"/>
+          <Port symbol="portamentomode" value="0.5"/>
           <Port symbol="voices" value="0"/>
-          <Port symbol="velocityvolume" value="0"/>
+          <Port symbol="velocityvolume" value="0.84800004959106445"/>
           <Port symbol="velocitycontour" value="0"/>
           <Port symbol="velocitycutoff" value="0"/>
           <Port symbol="pitchwheelcutoff" value="0"/>
-          <Port symbol="pitchwheelpitch" value="0.17200000584125519"/>
+          <Port symbol="pitchwheelpitch" value="0.16800001263618469"/>
           <Port symbol="ringmodulation" value="0"/>
-          <Port symbol="chorus1enable" value="0"/>
+          <Port symbol="chorus1enable" value="1"/>
           <Port symbol="chorus2enable" value="0"/>
           <Port symbol="reverbwet" value="0"/>
-          <Port symbol="reverbdecay" value="0.44800001382827759"/>
-          <Port symbol="reverbpredelay" value="0.23199999332427979"/>
-          <Port symbol="reverbhighcut" value="0"/>
-          <Port symbol="reverblowcut" value="1"/>
+          <Port symbol="reverbdecay" value="0.45600003004074097"/>
+          <Port symbol="reverbpredelay" value="0.4400000274181366"/>
+          <Port symbol="reverbhighcut" value="0.17200000584125519"/>
+          <Port symbol="reverblowcut" value="0.72000002861022949"/>
           <Port symbol="oscbitcrusher" value="1"/>
-          <Port symbol="highpass" value="0.32800000905990601"/>
-          <Port symbol="detune" value="0"/>
+          <Port symbol="highpass" value="0"/>
+          <Port symbol="detune" value="0.52799999713897705"/>
           <Port symbol="vintagenoise" value="0"/>
           <Port symbol="lv2_port_70" value="0"/>
           <Port symbol="unused_2" value="0"/>
-          <Port symbol="envelopeeditordest1" value="0.14285700023174286"/>
+          <Port symbol="envelopeeditordest1" value="0"/>
           <Port symbol="envelopeeditorspeed" value="0"/>
-          <Port symbol="envelopeeditoramount" value="0.7720000147819519"/>
+          <Port symbol="envelopeeditoramount" value="0"/>
           <Port symbol="envelopeoneshot" value="0"/>
           <Port symbol="envelopefixtempo" value="0"/>
           <Port symbol="lv2_port_77" value="0"/>
           <Port symbol="lv2_port_78" value="1"/>
-          <Port symbol="lv2_port_79" value="0"/>
+          <Port symbol="lv2_port_79" value="1"/>
           <Port symbol="lv2_port_80" value="0"/>
-          <Port symbol="lv2_port_81" value="1"/>
+          <Port symbol="lv2_port_81" value="0"/>
           <Port symbol="filterdrive" value="0"/>
           <Port symbol="delaywet" value="0"/>
           <Port symbol="delaytime" value="0.5"/>
@@ -11820,86 +11868,86 @@
         </lv2>
         <Controllable name="hidden" id="420097" flags="Toggle" value="0" parameter="1" symbol="lv2_freewheel"/>
         <Controllable name="unused" id="420099" flags="" value="0" parameter="4" symbol="unused"/>
-        <Controllable name="volume" id="420101" flags="" value="0.28400000929832458" parameter="5" symbol="volume"/>
-        <Controllable name="filtertype" id="420103" flags="" value="0.27272701263427734" parameter="6" symbol="filtertype"/>
-        <Controllable name="cutoff" id="420105" flags="" value="0.35600000619888306" parameter="7" symbol="cutoff"/>
-        <Controllable name="resonance" id="420107" flags="" value="0.75199997425079346" parameter="8" symbol="resonance"/>
-        <Controllable name="keyfollow" id="420109" flags="" value="0" parameter="9" symbol="keyfollow"/>
-        <Controllable name="filtercontour" id="420111" flags="" value="0.5" parameter="10" symbol="filtercontour"/>
+        <Controllable name="volume" id="420101" flags="" value="0.34000000357627869" parameter="5" symbol="volume"/>
+        <Controllable name="filtertype" id="420103" flags="" value="0.090909093618392944" parameter="6" symbol="filtertype"/>
+        <Controllable name="cutoff" id="420105" flags="" value="1" parameter="7" symbol="cutoff"/>
+        <Controllable name="resonance" id="420107" flags="" value="0" parameter="8" symbol="resonance"/>
+        <Controllable name="keyfollow" id="420109" flags="" value="0.50800001621246338" parameter="9" symbol="keyfollow"/>
+        <Controllable name="filtercontour" id="420111" flags="" value="0.52799999713897705" parameter="10" symbol="filtercontour"/>
         <Controllable name="filterattack" id="420113" flags="" value="0" parameter="11" symbol="filterattack"/>
-        <Controllable name="filterdecay" id="420115" flags="" value="0" parameter="12" symbol="filterdecay"/>
-        <Controllable name="filtersustain" id="420117" flags="" value="1" parameter="13" symbol="filtersustain"/>
+        <Controllable name="filterdecay" id="420115" flags="" value="0.35200002789497375" parameter="12" symbol="filterdecay"/>
+        <Controllable name="filtersustain" id="420117" flags="" value="0.4400000274181366" parameter="13" symbol="filtersustain"/>
         <Controllable name="filterrelease" id="420119" flags="" value="0" parameter="14" symbol="filterrelease"/>
         <Controllable name="ampattack" id="420121" flags="" value="0" parameter="15" symbol="ampattack"/>
-        <Controllable name="ampdecay" id="420123" flags="" value="0" parameter="16" symbol="ampdecay"/>
-        <Controllable name="ampsustain" id="420125" flags="" value="1" parameter="17" symbol="ampsustain"/>
-        <Controllable name="amprelease" id="420127" flags="" value="0.70399999618530273" parameter="18" symbol="amprelease"/>
+        <Controllable name="ampdecay" id="420123" flags="" value="0.67200005054473877" parameter="16" symbol="ampdecay"/>
+        <Controllable name="ampsustain" id="420125" flags="" value="0" parameter="17" symbol="ampsustain"/>
+        <Controllable name="amprelease" id="420127" flags="" value="0.58000004291534424" parameter="18" symbol="amprelease"/>
         <Controllable name="osc1volume" id="420129" flags="" value="0" parameter="19" symbol="osc1volume"/>
-        <Controllable name="osc2volume" id="420131" flags="" value="0.73199999332427979" parameter="20" symbol="osc2volume"/>
+        <Controllable name="osc2volume" id="420131" flags="" value="1" parameter="20" symbol="osc2volume"/>
         <Controllable name="osc3volume" id="420133" flags="" value="0" parameter="21" symbol="osc3volume"/>
         <Controllable name="oscmastertune" id="420135" flags="" value="0.5" parameter="22" symbol="oscmastertune"/>
-        <Controllable name="osc1tune" id="420137" flags="" value="0.51399999856948853" parameter="23" symbol="osc1tune"/>
-        <Controllable name="osc2tune" id="420139" flags="" value="0.5" parameter="24" symbol="osc2tune"/>
-        <Controllable name="osc1finetune" id="420141" flags="" value="0.5" parameter="25" symbol="osc1finetune"/>
+        <Controllable name="osc1tune" id="420137" flags="" value="1" parameter="23" symbol="osc1tune"/>
+        <Controllable name="osc2tune" id="420139" flags="" value="0.5010000467300415" parameter="24" symbol="osc2tune"/>
+        <Controllable name="osc1finetune" id="420141" flags="" value="0.50800001621246338" parameter="25" symbol="osc1finetune"/>
         <Controllable name="osc2finetune" id="420143" flags="" value="0.5" parameter="26" symbol="osc2finetune"/>
         <Controllable name="osc1waveform" id="420145" flags="" value="0.5" parameter="27" symbol="osc1waveform"/>
-        <Controllable name="osc2waveform" id="420147" flags="" value="0.5" parameter="28" symbol="osc2waveform"/>
+        <Controllable name="osc2waveform" id="420147" flags="" value="0.75" parameter="28" symbol="osc2waveform"/>
         <Controllable name="oscsync" id="420149" flags="" value="0" parameter="29" symbol="oscsync"/>
-        <Controllable name="lfo1waveform" id="420151" flags="" value="0.2800000011920929" parameter="30" symbol="lfo1waveform"/>
-        <Controllable name="lfo2waveform" id="420153" flags="" value="0.2800000011920929" parameter="31" symbol="lfo2waveform"/>
-        <Controllable name="lfo1rate" id="420155" flags="" value="0.54000002145767212" parameter="32" symbol="lfo1rate"/>
-        <Controllable name="lfo2rate" id="420157" flags="" value="0.13600000739097595" parameter="33" symbol="lfo2rate"/>
-        <Controllable name="lfo1amount" id="420159" flags="" value="1" parameter="34" symbol="lfo1amount"/>
-        <Controllable name="lfo2amount" id="420161" flags="" value="1" parameter="35" symbol="lfo2amount"/>
-        <Controllable name="lfo1destination" id="420163" flags="" value="0.42857098579406738" parameter="36" symbol="lfo1destination"/>
-        <Controllable name="lfo2destination" id="420165" flags="" value="0.85714298486709595" parameter="37" symbol="lfo2destination"/>
+        <Controllable name="lfo1waveform" id="420151" flags="" value="0.56000000238418579" parameter="30" symbol="lfo1waveform"/>
+        <Controllable name="lfo2waveform" id="420153" flags="" value="0.5480000376701355" parameter="31" symbol="lfo2waveform"/>
+        <Controllable name="lfo1rate" id="420155" flags="" value="0.61200004816055298" parameter="32" symbol="lfo1rate"/>
+        <Controllable name="lfo2rate" id="420157" flags="" value="0.66400003433227539" parameter="33" symbol="lfo2rate"/>
+        <Controllable name="lfo1amount" id="420159" flags="" value="0.62800002098083496" parameter="34" symbol="lfo1amount"/>
+        <Controllable name="lfo2amount" id="420161" flags="" value="0.61200004816055298" parameter="35" symbol="lfo2amount"/>
+        <Controllable name="lfo1destination" id="420163" flags="" value="0.28571429848670959" parameter="36" symbol="lfo1destination"/>
+        <Controllable name="lfo2destination" id="420165" flags="" value="0.8571428656578064" parameter="37" symbol="lfo2destination"/>
         <Controllable name="lfo1phase" id="420167" flags="" value="0" parameter="38" symbol="lfo1phase"/>
-        <Controllable name="lfo2phase" id="420169" flags="" value="0" parameter="39" symbol="lfo2phase"/>
-        <Controllable name="osc2fm" id="420171" flags="" value="0" parameter="40" symbol="osc2fm"/>
+        <Controllable name="lfo2phase" id="420169" flags="" value="0.51200002431869507" parameter="39" symbol="lfo2phase"/>
+        <Controllable name="osc2fm" id="420171" flags="" value="0.88700002431869507" parameter="40" symbol="osc2fm"/>
         <Controllable name="osc2phase" id="420173" flags="" value="0" parameter="41" symbol="osc2phase"/>
-        <Controllable name="osc1pw" id="420175" flags="" value="0.51599997282028198" parameter="42" symbol="osc1pw"/>
-        <Controllable name="osc1phase" id="420177" flags="" value="0.5" parameter="43" symbol="osc1phase"/>
-        <Controllable name="transpose" id="420179" flags="" value="0.5" parameter="44" symbol="transpose"/>
+        <Controllable name="osc1pw" id="420175" flags="" value="0.5" parameter="42" symbol="osc1pw"/>
+        <Controllable name="osc1phase" id="420177" flags="" value="0.52000004053115845" parameter="43" symbol="osc1phase"/>
+        <Controllable name="transpose" id="420179" flags="" value="0" parameter="44" symbol="transpose"/>
         <Controllable name="freeadattack" id="420181" flags="" value="0" parameter="45" symbol="freeadattack"/>
-        <Controllable name="freeaddecay" id="420183" flags="" value="0.44800001382827759" parameter="46" symbol="freeaddecay"/>
-        <Controllable name="freeadamount" id="420185" flags="" value="0.8399999737739563" parameter="47" symbol="freeadamount"/>
-        <Controllable name="freeaddestination" id="420187" flags="" value="0.80000001192092896" parameter="48" symbol="freeaddestination"/>
+        <Controllable name="freeaddecay" id="420183" flags="" value="0.5480000376701355" parameter="46" symbol="freeaddecay"/>
+        <Controllable name="freeadamount" id="420185" flags="" value="0.97600007057189941" parameter="47" symbol="freeadamount"/>
+        <Controllable name="freeaddestination" id="420187" flags="" value="1" parameter="48" symbol="freeaddestination"/>
         <Controllable name="lfo1sync" id="420189" flags="" value="0" parameter="49" symbol="lfo1sync"/>
-        <Controllable name="lfo1keytrigger" id="420191" flags="" value="0" parameter="50" symbol="lfo1keytrigger"/>
+        <Controllable name="lfo1keytrigger" id="420191" flags="" value="1" parameter="50" symbol="lfo1keytrigger"/>
         <Controllable name="lfo2sync" id="420193" flags="" value="0" parameter="51" symbol="lfo2sync"/>
-        <Controllable name="lfo2keytrigger" id="420195" flags="" value="0" parameter="52" symbol="lfo2keytrigger"/>
-        <Controllable name="portamento" id="420197" flags="" value="0" parameter="53" symbol="portamento"/>
-        <Controllable name="portamentomode" id="420199" flags="" value="0" parameter="54" symbol="portamentomode"/>
+        <Controllable name="lfo2keytrigger" id="420195" flags="" value="1" parameter="52" symbol="lfo2keytrigger"/>
+        <Controllable name="portamento" id="420197" flags="" value="0.32400000095367432" parameter="53" symbol="portamento"/>
+        <Controllable name="portamentomode" id="420199" flags="" value="0.5" parameter="54" symbol="portamentomode"/>
         <Controllable name="voices" id="420201" flags="" value="0" parameter="55" symbol="voices"/>
-        <Controllable name="velocityvolume" id="420203" flags="" value="0" parameter="56" symbol="velocityvolume"/>
+        <Controllable name="velocityvolume" id="420203" flags="" value="0.84800004959106445" parameter="56" symbol="velocityvolume"/>
         <Controllable name="velocitycontour" id="420205" flags="" value="0" parameter="57" symbol="velocitycontour"/>
         <Controllable name="velocitycutoff" id="420207" flags="" value="0" parameter="58" symbol="velocitycutoff"/>
         <Controllable name="pitchwheelcutoff" id="420209" flags="" value="0" parameter="59" symbol="pitchwheelcutoff"/>
-        <Controllable name="pitchwheelpitch" id="420211" flags="" value="0.17200000584125519" parameter="60" symbol="pitchwheelpitch"/>
+        <Controllable name="pitchwheelpitch" id="420211" flags="" value="0.16800001263618469" parameter="60" symbol="pitchwheelpitch"/>
         <Controllable name="ringmodulation" id="420213" flags="" value="0" parameter="61" symbol="ringmodulation"/>
-        <Controllable name="chorus1enable" id="420215" flags="" value="0" parameter="62" symbol="chorus1enable"/>
+        <Controllable name="chorus1enable" id="420215" flags="" value="1" parameter="62" symbol="chorus1enable"/>
         <Controllable name="chorus2enable" id="420217" flags="" value="0" parameter="63" symbol="chorus2enable"/>
         <Controllable name="reverbwet" id="420219" flags="" value="0" parameter="64" symbol="reverbwet"/>
-        <Controllable name="reverbdecay" id="420221" flags="" value="0.44800001382827759" parameter="65" symbol="reverbdecay"/>
-        <Controllable name="reverbpredelay" id="420223" flags="" value="0.23199999332427979" parameter="66" symbol="reverbpredelay"/>
-        <Controllable name="reverbhighcut" id="420225" flags="" value="0" parameter="67" symbol="reverbhighcut"/>
-        <Controllable name="reverblowcut" id="420227" flags="" value="1" parameter="68" symbol="reverblowcut"/>
+        <Controllable name="reverbdecay" id="420221" flags="" value="0.45600003004074097" parameter="65" symbol="reverbdecay"/>
+        <Controllable name="reverbpredelay" id="420223" flags="" value="0.4400000274181366" parameter="66" symbol="reverbpredelay"/>
+        <Controllable name="reverbhighcut" id="420225" flags="" value="0.17200000584125519" parameter="67" symbol="reverbhighcut"/>
+        <Controllable name="reverblowcut" id="420227" flags="" value="0.72000002861022949" parameter="68" symbol="reverblowcut"/>
         <Controllable name="oscbitcrusher" id="420229" flags="" value="1" parameter="69" symbol="oscbitcrusher"/>
-        <Controllable name="highpass" id="420231" flags="" value="0.32800000905990601" parameter="70" symbol="highpass"/>
-        <Controllable name="detune" id="420233" flags="" value="0" parameter="71" symbol="detune"/>
+        <Controllable name="highpass" id="420231" flags="" value="0" parameter="70" symbol="highpass"/>
+        <Controllable name="detune" id="420233" flags="" value="0.52799999713897705" parameter="71" symbol="detune"/>
         <Controllable name="vintagenoise" id="420235" flags="" value="0" parameter="72" symbol="vintagenoise"/>
         <Controllable name="Port 70" id="420237" flags="" value="0" parameter="73" symbol="lv2_port_70"/>
         <Controllable name="unused" id="420239" flags="" value="0" parameter="74" symbol="unused_2"/>
-        <Controllable name="envelopeeditordest1" id="420241" flags="" value="0.14285700023174286" parameter="75" symbol="envelopeeditordest1"/>
+        <Controllable name="envelopeeditordest1" id="420241" flags="" value="0" parameter="75" symbol="envelopeeditordest1"/>
         <Controllable name="envelopeeditorspeed" id="420243" flags="" value="0" parameter="76" symbol="envelopeeditorspeed"/>
-        <Controllable name="envelopeeditoramount" id="420245" flags="" value="0.7720000147819519" parameter="77" symbol="envelopeeditoramount"/>
+        <Controllable name="envelopeeditoramount" id="420245" flags="" value="0" parameter="77" symbol="envelopeeditoramount"/>
         <Controllable name="envelopeoneshot" id="420247" flags="" value="0" parameter="78" symbol="envelopeoneshot"/>
         <Controllable name="envelopefixtempo" id="420249" flags="" value="0" parameter="79" symbol="envelopefixtempo"/>
         <Controllable name="Port 77" id="420251" flags="" value="0" parameter="80" symbol="lv2_port_77"/>
         <Controllable name="Port 78" id="420253" flags="" value="1" parameter="81" symbol="lv2_port_78"/>
-        <Controllable name="Port 79" id="420255" flags="" value="0" parameter="82" symbol="lv2_port_79"/>
+        <Controllable name="Port 79" id="420255" flags="" value="1" parameter="82" symbol="lv2_port_79"/>
         <Controllable name="Port 80" id="420257" flags="" value="0" parameter="83" symbol="lv2_port_80"/>
-        <Controllable name="Port 81" id="420259" flags="" value="1" parameter="84" symbol="lv2_port_81"/>
+        <Controllable name="Port 81" id="420259" flags="" value="0" parameter="84" symbol="lv2_port_81"/>
         <Controllable name="filterdrive" id="420261" flags="" value="0" parameter="85" symbol="filterdrive"/>
         <Controllable name="delaywet" id="420263" flags="" value="0" parameter="86" symbol="delaywet"/>
         <Controllable name="delaytime" id="420265" flags="" value="0.5" parameter="87" symbol="delaytime"/>
@@ -11916,7 +11964,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="2803040" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="196505" flags="GainLike" value="0.34988793730735779"/>
+        <Controllable name="gaincontrol" id="196505" flags="GainLike" value="0.70435249805450439"/>
       </Processor>
       <Processor id="196533" name="meter-Pads Layer 2" active="1" user-latency="0" type="meter"/>
       <Processor id="196534" name="Pads Layer 2" active="1" user-latency="0" own-input="1" own-output="0" output="Pads Layer 2" type="main-outs" role="Main">
@@ -11939,7 +11987,7 @@
       <Slavable/>
     </Route>
     <Route id="196885" name="Composite Pads" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="63" flags="AudioBus,OrderSet" color="3852648447"/>
+      <PresentationInfo order="64" flags="AudioBus,OrderSet" color="3852648447"/>
       <Controllable name="solo" id="196893" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="196899" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="196901" flags="Toggle" value="0" solo-safe="0"/>
@@ -12246,9 +12294,7 @@
         <ThruMap/>
         <Processor id="746663" name="Sidechain 11" active="1" user-latency="0" own-input="1" own-output="1" type="sidechain">
           <IO name="Sidechain 11" id="746664" direction="Input" default-type="audio" pretty-name="SC Calf Sidechain Compressor" user-latency="0">
-            <Port type="audio" name="Sidechain 11/audio_in 1">
-              <Connection other="send 6/audio_send 1"/>
-            </Port>
+            <Port type="audio" name="Sidechain 11/audio_in 1"/>
             <Port type="audio" name="Sidechain 11/audio_in 2">
               <Connection other="send 9/audio_send 1"/>
               <Connection other="send 9/audio_send 2"/>
@@ -12379,7 +12425,7 @@
       <Slavable/>
     </Route>
     <Route id="221316" name="Vocal Melody" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
-      <PresentationInfo order="76" flags="MidiTrack,OrderSet" color="3538276607"/>
+      <PresentationInfo order="77" flags="MidiTrack,OrderSet" color="3538276607"/>
       <Controllable name="solo" id="221324" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="221330" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="221332" flags="Toggle" value="0" solo-safe="0"/>
@@ -12896,7 +12942,7 @@
       <Diskstream flags="Recordable" playlist="Vocal Melody" name="Vocal Melody" id="221357" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="247778" name="Vocal Melody 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
-      <PresentationInfo order="77" flags="MidiTrack,OrderSet" color="3111314943"/>
+      <PresentationInfo order="78" flags="MidiTrack,OrderSet" color="3111314943"/>
       <Controllable name="solo" id="247745" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="248385" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="248386" flags="Toggle" value="0" solo-safe="0"/>
@@ -13411,7 +13457,7 @@
       <Diskstream flags="Recordable" playlist="Vocal Melody 1.1" name="Vocal Melody 1" id="248398" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="264253" name="Vox Low ch52" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="78" flags="AudioTrack,OrderSet" color="3853415167"/>
+      <PresentationInfo order="79" flags="AudioTrack,OrderSet" color="3853415167"/>
       <Controllable name="solo" id="264261" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264267" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264269" flags="Toggle" value="0" solo-safe="0"/>
@@ -13490,7 +13536,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p0-g052-v05" name="just-turn-it-all-up-p0-g052-v05" id="264294" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="264353" name="Vox Low ch55" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="79" flags="AudioTrack,OrderSet" color="3849500159"/>
+      <PresentationInfo order="80" flags="AudioTrack,OrderSet" color="3849500159"/>
       <Controllable name="solo" id="264361" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264367" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264369" flags="Toggle" value="0" solo-safe="0"/>
@@ -13569,7 +13615,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p0-g055-v05" name="just-turn-it-all-up-p0-g055-v05" id="264394" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="264453" name="Vox Low ch58" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="80" flags="AudioTrack,OrderSet" color="1927645695"/>
+      <PresentationInfo order="81" flags="AudioTrack,OrderSet" color="1927645695"/>
       <Controllable name="solo" id="264461" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264467" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264469" flags="Toggle" value="0" solo-safe="0"/>
@@ -13649,7 +13695,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p0-g058-v05" name="just-turn-it-all-up-p0-g058-v05" id="264494" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="264553" name="Vox Low Oct ch52" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="81" flags="AudioTrack,OrderSet" color="3502564863"/>
+      <PresentationInfo order="82" flags="AudioTrack,OrderSet" color="3502564863"/>
       <Controllable name="solo" id="264561" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264567" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264569" flags="Toggle" value="0" solo-safe="0"/>
@@ -13729,7 +13775,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p12-g052-v05" name="just-turn-it-all-up-p12-g052-v05" id="264594" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="264653" name="Vox Low Oct ch55" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="82" flags="AudioTrack,OrderSet" color="3855905535"/>
+      <PresentationInfo order="83" flags="AudioTrack,OrderSet" color="3855905535"/>
       <Controllable name="solo" id="264661" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264667" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264669" flags="Toggle" value="0" solo-safe="0"/>
@@ -13809,7 +13855,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p12-g055-v05" name="just-turn-it-all-up-p12-g055-v05" id="264694" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="264753" name="Vox Low Oct ch58" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="83" flags="AudioTrack,OrderSet" color="1926161919"/>
+      <PresentationInfo order="84" flags="AudioTrack,OrderSet" color="1926161919"/>
       <Controllable name="solo" id="264761" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="264767" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="264769" flags="Toggle" value="0" solo-safe="0"/>
@@ -13888,7 +13934,7 @@
       <Diskstream flags="Recordable" playlist="just-turn-it-all-up-p12-g058-v05" name="just-turn-it-all-up-p12-g058-v05" id="264794" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="265800" name="Vox High ch52" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="84" flags="AudioTrack,OrderSet" color="3850990335"/>
+      <PresentationInfo order="85" flags="AudioTrack,OrderSet" color="3850990335"/>
       <Controllable name="solo" id="265767" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="265857" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="265858" flags="Toggle" value="0" solo-safe="0"/>
@@ -13967,7 +14013,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low ch52 1.1" name="Vox Low ch52 1" id="265870" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="265948" name="Vox High ch55" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="85" flags="AudioTrack,OrderSet" color="3215386111"/>
+      <PresentationInfo order="86" flags="AudioTrack,OrderSet" color="3215386111"/>
       <Controllable name="solo" id="265915" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="266005" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="266006" flags="Toggle" value="0" solo-safe="0"/>
@@ -14046,7 +14092,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low ch55 1.1" name="Vox Low ch55 1" id="266018" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="266096" name="Vox High ch58" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="86" flags="AudioTrack,OrderSet" color="1926030847"/>
+      <PresentationInfo order="87" flags="AudioTrack,OrderSet" color="1926030847"/>
       <Controllable name="solo" id="266063" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="266153" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="266154" flags="Toggle" value="0" solo-safe="0"/>
@@ -14125,7 +14171,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low ch58 1.1" name="Vox Low ch58 1" id="266166" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="266250" name="Vox High Oct ch52" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="87" flags="AudioTrack,OrderSet" color="3853826815"/>
+      <PresentationInfo order="88" flags="AudioTrack,OrderSet" color="3853826815"/>
       <Controllable name="solo" id="266217" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="266307" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="266308" flags="Toggle" value="0" solo-safe="0"/>
@@ -14204,7 +14250,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low Oct ch52 1.1" name="Vox Low Oct ch52 1" id="266320" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="266398" name="Vox High Oct ch55" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="88" flags="AudioTrack,OrderSet" color="3840271615"/>
+      <PresentationInfo order="89" flags="AudioTrack,OrderSet" color="3840271615"/>
       <Controllable name="solo" id="266365" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="266455" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="266456" flags="Toggle" value="0" solo-safe="0"/>
@@ -14283,7 +14329,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low Oct ch55 1.1" name="Vox Low Oct ch55 1" id="266468" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="266546" name="Vox High Oct ch58" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="89" flags="AudioTrack,OrderSet" color="3849512447"/>
+      <PresentationInfo order="90" flags="AudioTrack,OrderSet" color="3849512447"/>
       <Controllable name="solo" id="266513" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="266603" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="266604" flags="Toggle" value="0" solo-safe="0"/>
@@ -14362,7 +14408,7 @@
       <Diskstream flags="Recordable" playlist="Vox Low Oct ch58 1.1" name="Vox Low Oct ch58 1" id="266616" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="267052" name="Vocal Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="90" flags="AudioBus,OrderSet" color="3849491967"/>
+      <PresentationInfo order="91" flags="AudioBus,OrderSet" color="3849491967"/>
       <Controllable name="solo" id="267060" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="267066" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="267068" flags="Toggle" value="0" solo-safe="0"/>
@@ -14624,7 +14670,7 @@
       <Slavable/>
     </Route>
     <Route id="267520" name="Vocoder" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="91" flags="AudioBus,OrderSet" color="3856298751"/>
+      <PresentationInfo order="92" flags="AudioBus,OrderSet" color="3856298751"/>
       <Controllable name="solo" id="267528" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="267534" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="267536" flags="Toggle" value="0" solo-safe="0"/>
@@ -15542,7 +15588,7 @@
       <Diskstream flags="Recordable" playlist="Solo 2.2" name="Solo 2" id="320790" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="321603" name="Solo Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="64" flags="MidiBus,OrderSet" color="1927660543"/>
+      <PresentationInfo order="65" flags="MidiBus,OrderSet" color="1927660543"/>
       <Controllable name="solo" id="321611" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="321617" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="321619" flags="Toggle" value="0" solo-safe="0"/>
@@ -15927,7 +15973,7 @@
       <Slavable/>
     </Route>
     <Route id="322245" name="Composite Solo" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="66" flags="AudioBus,OrderSet" color="1927653119"/>
+      <PresentationInfo order="67" flags="AudioBus,OrderSet" color="1927653119"/>
       <Controllable name="solo" id="322253" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="322259" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="322261" flags="Toggle" value="0" solo-safe="0"/>
@@ -16535,7 +16581,7 @@
       <Slavable/>
     </Route>
     <Route id="360436" name="Solo Layer 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="65" flags="MidiBus,OrderSet" color="2188568063"/>
+      <PresentationInfo order="66" flags="MidiBus,OrderSet" color="2188568063"/>
       <Controllable name="solo" id="360444" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="360450" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="360452" flags="Toggle" value="0" solo-safe="0"/>
@@ -17378,7 +17424,7 @@
       <Diskstream flags="Recordable" playlist="Ballad Solo 2.1" name="Ballad Solo 2" id="635143" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="636052" name="Ballad Right L1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="67" flags="MidiBus,OrderSet" color="3286599935"/>
+      <PresentationInfo order="68" flags="MidiBus,OrderSet" color="3286599935"/>
       <Controllable name="solo" id="636060" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="636066" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="636068" flags="Toggle" value="0" solo-safe="0"/>
@@ -17763,7 +17809,7 @@
       <Slavable/>
     </Route>
     <Route id="636093" name="Ballad Right L2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="68" flags="MidiBus,OrderSet" color="3571806975"/>
+      <PresentationInfo order="69" flags="MidiBus,OrderSet" color="3571806975"/>
       <Controllable name="solo" id="636101" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="636107" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="636109" flags="Toggle" value="0" solo-safe="0"/>
@@ -18148,7 +18194,7 @@
       <Slavable/>
     </Route>
     <Route id="636568" name="Ballad Left L1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="69" flags="MidiBus,OrderSet" color="3773162751"/>
+      <PresentationInfo order="70" flags="MidiBus,OrderSet" color="3773162751"/>
       <Controllable name="solo" id="636576" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="636582" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="636584" flags="Toggle" value="0" solo-safe="0"/>
@@ -18533,7 +18579,7 @@
       <Slavable/>
     </Route>
     <Route id="636609" name="Ballad Left L2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="70" flags="MidiBus,OrderSet" color="3855077375"/>
+      <PresentationInfo order="71" flags="MidiBus,OrderSet" color="3855077375"/>
       <Controllable name="solo" id="636617" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="636623" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="636625" flags="Toggle" value="0" solo-safe="0"/>
@@ -18918,7 +18964,7 @@
       <Slavable/>
     </Route>
     <Route id="637084" name="Comp. Ballad Left" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="71" flags="AudioBus,OrderSet" color="3849509887"/>
+      <PresentationInfo order="72" flags="AudioBus,OrderSet" color="3849509887"/>
       <Controllable name="solo" id="637092" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="637098" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="637100" flags="Toggle" value="0" solo-safe="0"/>
@@ -19475,7 +19521,7 @@
       <Slavable/>
     </Route>
     <Route id="637152" name="Ballad Solo L1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="73" flags="MidiBus,OrderSet" color="3850751487"/>
+      <PresentationInfo order="74" flags="MidiBus,OrderSet" color="3850751487"/>
       <Controllable name="solo" id="637160" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="637166" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="637168" flags="Toggle" value="0" solo-safe="0"/>
@@ -19860,7 +19906,7 @@
       <Slavable/>
     </Route>
     <Route id="637193" name="Ballad Solo L2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="74" flags="MidiBus,OrderSet" color="3849496319"/>
+      <PresentationInfo order="75" flags="MidiBus,OrderSet" color="3849496319"/>
       <Controllable name="solo" id="637201" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="637207" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="637209" flags="Toggle" value="0" solo-safe="0"/>
@@ -20245,7 +20291,7 @@
       <Slavable/>
     </Route>
     <Route id="637668" name="Comp. Ballad Solo" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="75" flags="AudioBus,OrderSet" color="1923540479"/>
+      <PresentationInfo order="76" flags="AudioBus,OrderSet" color="1923540479"/>
       <Controllable name="solo" id="637676" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="637682" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="637684" flags="Toggle" value="0" solo-safe="0"/>
@@ -20534,7 +20580,7 @@
       <Diskstream flags="Recordable" playlist="Toms" name="Toms" id="663202" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="746849" name="Snare AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="40" flags="AudioBus,OrderSet" color="1927646207"/>
+      <PresentationInfo order="41" flags="AudioBus,OrderSet" color="1927646207"/>
       <Controllable name="solo" id="746857" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="746863" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="746865" flags="Toggle" value="0" solo-safe="0"/>
@@ -20767,7 +20813,7 @@
       <Slavable/>
     </Route>
     <Route id="802914" name="Drums Submix" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="43" flags="AudioBus,OrderSet" color="1927659007"/>
+      <PresentationInfo order="44" flags="AudioBus,OrderSet" color="1927659007"/>
       <Controllable name="solo" id="802922" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="802928" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="802930" flags="Toggle" value="0" solo-safe="0"/>
@@ -21096,7 +21142,7 @@
       <Slavable/>
     </Route>
     <Route id="803144" name="Vocals AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="92" flags="AudioBus,OrderSet" color="3854341631"/>
+      <PresentationInfo order="93" flags="AudioBus,OrderSet" color="3854341631"/>
       <Controllable name="solo" id="803152" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="803158" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="803160" flags="Toggle" value="0" solo-safe="0"/>
@@ -21350,7 +21396,7 @@
       <Slavable/>
     </Route>
     <Route id="860973" name="Pink Noise" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="96" flags="AudioTrack,OrderSet" color="3852038911"/>
+      <PresentationInfo order="97" flags="AudioTrack,OrderSet" color="3852038911"/>
       <Controllable name="solo" id="860981" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="860987" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="860989" flags="Toggle" value="0" solo-safe="0"/>
@@ -21478,7 +21524,7 @@
       <Diskstream flags="Recordable" playlist="Pink Noise" name="Pink Noise" id="861014" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
     </Route>
     <Route id="861062" name="Vocals Submix" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="93" flags="AudioBus,OrderSet" color="3538275583"/>
+      <PresentationInfo order="94" flags="AudioBus,OrderSet" color="3538275583"/>
       <Controllable name="solo" id="861070" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="861076" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="861078" flags="Toggle" value="0" solo-safe="0"/>
@@ -21994,7 +22040,7 @@
       <Slavable/>
     </Route>
     <Route id="861146" name="Snare Submix" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="41" flags="AudioBus,OrderSet" color="3856444927"/>
+      <PresentationInfo order="42" flags="AudioBus,OrderSet" color="3856444927"/>
       <Controllable name="solo" id="861154" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="861160" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="861162" flags="Toggle" value="0" solo-safe="0"/>
@@ -22429,7 +22475,7 @@
       <Slavable/>
     </Route>
     <Route id="1222874" name="Kick/Snare AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="42" flags="AudioBus,OrderSet" color="3336942591"/>
+      <PresentationInfo order="43" flags="AudioBus,OrderSet" color="3336942591"/>
       <Controllable name="solo" id="1222882" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1222888" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1222890" flags="Toggle" value="0" solo-safe="0"/>
@@ -22566,7 +22612,7 @@
       <Slavable/>
     </Route>
     <Route id="1253436" name="Comp. Lead Left" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="33" flags="AudioBus,OrderSet" color="1927655167"/>
+      <PresentationInfo order="34" flags="AudioBus,OrderSet" color="1927655167"/>
       <Controllable name="solo" id="1253409" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1253922" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1253923" flags="Toggle" value="0" solo-safe="0"/>
@@ -23325,7 +23371,7 @@
       <Slavable/>
     </Route>
     <Route id="1285234" name="Chorus AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="94" flags="AudioBus,OrderSet" color="3027559935"/>
+      <PresentationInfo order="95" flags="AudioBus,OrderSet" color="3027559935"/>
       <Controllable name="solo" id="1285242" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1285248" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1285250" flags="Toggle" value="0" solo-safe="0"/>
@@ -23477,7 +23523,7 @@
       <Slavable/>
     </Route>
     <Route id="1285276" name="Reverb AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="95" flags="AudioBus,OrderSet" color="1927668735"/>
+      <PresentationInfo order="96" flags="AudioBus,OrderSet" color="1927668735"/>
       <Controllable name="solo" id="1285284" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1285290" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1285292" flags="Toggle" value="0" solo-safe="0"/>
@@ -23617,7 +23663,7 @@
       <Slavable/>
     </Route>
     <Route id="1285745" name="Reference 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="97" flags="AudioTrack,OrderSet" color="3262639871"/>
+      <PresentationInfo order="98" flags="AudioTrack,OrderSet" color="3262639871"/>
       <Controllable name="solo" id="1285753" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1285759" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1285761" flags="Toggle" value="0" solo-safe="0"/>
@@ -23717,7 +23763,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state125"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state130"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -23883,7 +23929,7 @@
       <Diskstream flags="Recordable" playlist="Reference 1.1" name="Reference 1" id="1285786" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
     </Route>
     <Route id="1285795" name="Reference 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="98" flags="AudioTrack,OrderSet" color="2188568063"/>
+      <PresentationInfo order="99" flags="AudioTrack,OrderSet" color="2188568063"/>
       <Controllable name="solo" id="1285803" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1285809" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1285811" flags="Toggle" value="0" solo-safe="0"/>
@@ -24040,7 +24086,7 @@
       <Diskstream flags="Recordable" playlist="Reference 2.1" name="Reference 2" id="1285836" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
     </Route>
     <Route id="1285845" name="Reference 3" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="99" flags="AudioTrack,OrderSet" color="3854030847"/>
+      <PresentationInfo order="100" flags="AudioTrack,OrderSet" color="3854030847"/>
       <Controllable name="solo" id="1285853" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1285859" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1285861" flags="Toggle" value="0" solo-safe="0"/>
@@ -24197,7 +24243,7 @@
       <Diskstream flags="Recordable" playlist="Reference 3.1" name="Reference 3" id="1285886" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
     </Route>
     <Route id="1452671" name="Kick Layer 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="35" flags="MidiBus,OrderSet" color="3396527615"/>
+      <PresentationInfo order="36" flags="MidiBus,OrderSet" color="3396527615"/>
       <Controllable name="solo" id="1452644" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1453276" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1453277" flags="Toggle" value="0" solo-safe="0"/>
@@ -24769,7 +24815,7 @@
       <Slavable/>
     </Route>
     <Route id="1555432" name="Bass Layer 1 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="45" flags="MidiBus,OrderSet" color="3854398207"/>
+      <PresentationInfo order="46" flags="MidiBus,OrderSet" color="3854398207"/>
       <Controllable name="solo" id="1555405" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1555861" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1555862" flags="Toggle" value="0" solo-safe="0"/>
@@ -25154,7 +25200,7 @@
       <Slavable/>
     </Route>
     <Route id="1555926" name="Bass Layer 2 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="47" flags="MidiBus,OrderSet" color="3853873919"/>
+      <PresentationInfo order="48" flags="MidiBus,OrderSet" color="3853873919"/>
       <Controllable name="solo" id="1555899" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1556355" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1556356" flags="Toggle" value="0" solo-safe="0"/>
@@ -25539,7 +25585,7 @@
       <Slavable/>
     </Route>
     <Route id="1799861" name="Pads Layer 1 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="61" flags="MidiBus,OrderSet" color="1927648255"/>
+      <PresentationInfo order="62" flags="MidiBus,OrderSet" color="1927648255"/>
       <Controllable name="solo" id="1799834" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="1800290" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="1800291" flags="Toggle" value="0" solo-safe="0"/>
@@ -25924,7 +25970,7 @@
       <Slavable/>
     </Route>
     <Route id="2504855" name="Comp. Ballad Right" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="72" flags="AudioBus,OrderSet" color="3849503999"/>
+      <PresentationInfo order="73" flags="AudioBus,OrderSet" color="3849503999"/>
       <Controllable name="solo" id="2504828" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2504895" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2504896" flags="Toggle" value="0" solo-safe="0"/>
@@ -26481,7 +26527,7 @@
       <Slavable/>
     </Route>
     <Route id="2574534" name="Tom Bus 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="53" flags="MidiBus,OrderSet" color="1924064767"/>
+      <PresentationInfo order="54" flags="MidiBus,OrderSet" color="1924064767"/>
       <Controllable name="solo" id="2574542" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2574548" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2574550" flags="Toggle" value="0" solo-safe="0"/>
@@ -26684,7 +26730,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state20">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state24">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -26900,7 +26946,7 @@
       <Slavable/>
     </Route>
     <Route id="2574575" name="Tom Bus 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="54" flags="MidiBus,OrderSet" color="1927666687"/>
+      <PresentationInfo order="55" flags="MidiBus,OrderSet" color="1927666687"/>
       <Controllable name="solo" id="2574583" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2574589" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2574591" flags="Toggle" value="0" solo-safe="0"/>
@@ -27103,7 +27149,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state29">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state33">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -27319,7 +27365,7 @@
       <Slavable/>
     </Route>
     <Route id="2574616" name="Tom Bus 3" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="55" flags="MidiBus,OrderSet" color="3530745343"/>
+      <PresentationInfo order="56" flags="MidiBus,OrderSet" color="3530745343"/>
       <Controllable name="solo" id="2574624" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2574630" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2574632" flags="Toggle" value="0" solo-safe="0"/>
@@ -27738,7 +27784,7 @@
       <Slavable/>
     </Route>
     <Route id="2574657" name="Tom Bus 4" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="56" flags="MidiBus,OrderSet" color="1924392447"/>
+      <PresentationInfo order="57" flags="MidiBus,OrderSet" color="1924392447"/>
       <Controllable name="solo" id="2574665" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2574671" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2574673" flags="Toggle" value="0" solo-safe="0"/>
@@ -28157,7 +28203,7 @@
       <Slavable/>
     </Route>
     <Route id="2575661" name="Composite Toms" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="57" flags="AudioBus,OrderSet" color="2792547839"/>
+      <PresentationInfo order="58" flags="AudioBus,OrderSet" color="2792547839"/>
       <Controllable name="solo" id="2575669" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2575675" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2575677" flags="Toggle" value="0" solo-safe="0"/>
@@ -28401,7 +28447,7 @@
       <Slavable/>
     </Route>
     <Route id="2611901" name="Toms AUX" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="58" flags="AudioBus,OrderSet" color="3849948159"/>
+      <PresentationInfo order="59" flags="AudioBus,OrderSet" color="3849948159"/>
       <Controllable name="solo" id="2611909" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2611915" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2611917" flags="Toggle" value="0" solo-safe="0"/>
@@ -28638,7 +28684,7 @@
       <Slavable/>
     </Route>
     <Route id="2612160" name="Toms Submix" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="59" flags="AudioBus,OrderSet" color="3638935295"/>
+      <PresentationInfo order="60" flags="AudioBus,OrderSet" color="3638935295"/>
       <Controllable name="solo" id="2612168" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2612174" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2612176" flags="Toggle" value="0" solo-safe="0"/>
@@ -29024,13 +29070,15 @@
       <Controllable name="rec-enable" id="2982485" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Drums Map 1.1" name="Drums Map 1" id="2982478" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="4750827" name="Cymbals Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="4750827" name="Cymbals Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="27" flags="MidiTrack,OrderSet" color="3856901375"/>
       <Controllable name="solo" id="4750794" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4750869" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="4750870" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Cymbals Map 1" id="4750828" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Cymbals Map 1/midi_in 1"/>
+        <Port type="midi" name="Cymbals Map 1/midi_in 1">
+          <Connection other="system:midi_capture_3"/>
+        </Port>
       </IO>
       <IO name="Cymbals Map 1" id="4750829" direction="Output" default-type="midi" user-latency="0">
         <Port type="midi" name="Cymbals Map 1/midi_out 1">
@@ -29068,13 +29116,13 @@
           <AutomationList automation-id="pan-lfe" id="4750839" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
+      <Processor id="4750843" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="4750840" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="4750841" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="4750842" flags="GainLike" value="1"/>
       </Processor>
-      <Processor id="4750843" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="4750844" name="Cymbals Map 1" active="1" user-latency="0" own-input="1" own-output="0" output="Cymbals Map 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -29119,13 +29167,13 @@
         </Processor>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="4750885" flags="RealTime" value="1" monitoring="MonitorInput"/>
+      <Controllable name="monitor" id="4750885" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="4750886" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="4750887" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="4750887" flags="Toggle,RealTime" value="1"/>
       <Diskstream flags="Recordable" playlist="Cymbals Map 1" name="Cymbals Map 1" id="4750882" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="5642773" name="Open Hi-Hat Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="50" flags="MidiBus,OrderSet" color="2514842367"/>
+      <PresentationInfo order="51" flags="MidiBus,OrderSet" color="2514842367"/>
       <Controllable name="solo" id="5642746" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="5643299" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="5643300" flags="Toggle" value="0" solo-safe="0"/>
@@ -29293,7 +29341,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#preset083" last-preset-label="DR Hat Short Moves TAL" parameter-changed-since-last-preset="1" state-dir="state23">
+        <lv2 last-preset-uri="http://kunz.corrupt.ch/products/tal-noisemaker#preset083" last-preset-label="DR Hat Short Moves TAL" parameter-changed-since-last-preset="1" state-dir="state24">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.52700001001358032"/>
@@ -29654,7 +29702,7 @@
       <Slavable/>
     </Route>
     <Route id="5643367" name="Ride Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
-      <PresentationInfo order="52" flags="MidiBus,OrderSet" color="3471143679"/>
+      <PresentationInfo order="53" flags="MidiBus,OrderSet" color="3471143679"/>
       <Controllable name="solo" id="5643340" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="5643857" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="5643858" flags="Toggle" value="0" solo-safe="0"/>
@@ -30163,6 +30211,7 @@
       <IO name="Open Hat" id="5643931" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Open Hat/midi_in 1">
           <Connection other="Cymbals Map 1/midi_out 1"/>
+          <Connection other="Cymbals Map 2/midi_out 1"/>
         </Port>
       </IO>
       <IO name="Open Hat" id="5643932" direction="Output" default-type="midi" user-latency="0">
@@ -30270,6 +30319,7 @@
       <IO name="Ride" id="5644764" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Ride/midi_in 1">
           <Connection other="Cymbals Map 1/midi_out 1"/>
+          <Connection other="Cymbals Map 2/midi_out 1"/>
         </Port>
       </IO>
       <IO name="Ride" id="5644765" direction="Output" default-type="midi" user-latency="0">
@@ -30377,6 +30427,7 @@
       <IO name="Crash 2" id="5645658" direction="Input" default-type="midi" user-latency="0">
         <Port type="midi" name="Crash 2/midi_in 1">
           <Connection other="Cymbals Map 1/midi_out 1"/>
+          <Connection other="Cymbals Map 2/midi_out 1"/>
         </Port>
       </IO>
       <IO name="Crash 2" id="5645659" direction="Output" default-type="midi" user-latency="0">
@@ -30475,6 +30526,106 @@
       <Controllable name="rec-safe" id="5645714" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="5645715" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Crash 2" name="Crash 2" id="5645708" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="5869151" name="Cymbals Map 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="28" flags="MidiTrack,OrderSet" color="3620205823"/>
+      <Controllable name="solo" id="5869118" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="5869193" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="5869194" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Cymbals Map 2" id="5869152" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Cymbals Map 2/midi_in 1"/>
+      </IO>
+      <IO name="Cymbals Map 2" id="5869153" direction="Output" default-type="midi" user-latency="0">
+        <Port type="midi" name="Cymbals Map 2/midi_out 1">
+          <Connection other="Closed Hat/midi_in 1"/>
+          <Connection other="Crash 1/midi_in 1"/>
+          <Connection other="Crash 2/midi_in 1"/>
+          <Connection other="Open Hat/midi_in 1"/>
+          <Connection other="Ride/midi_in 1"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="5869195" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="5869196" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="5869197" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="5869198" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="5869199" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="5869200" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="5869201" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="5869202" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="5869203" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="5869204" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="5869154" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="5869155" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="5869156" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="5869157" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="5869158" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="5869159" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="5869160" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="5869161" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="5869162" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="5869163" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="5869165" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="5869166" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="5869167" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="5869164" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
+      <Processor id="5869168" name="Cymbals Map 2" active="1" user-latency="0" own-input="1" own-output="0" output="Cymbals Map 2" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="5869154" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="5869155" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="5869156" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="5869157" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="5869158" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="5869159" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="5869160" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="5869161" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="5869162" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="5869163" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Processor id="5869188" name="Monitor" active="0" user-latency="0" own-input="1" own-output="1" type="intsend" role="Listen" selfdestruct="0" target="90" allow-feedback="0">
+        <Automation>
+          <AutomationList automation-id="gain" id="5869191" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="5869154" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="5869155" flags="" value="0"/>
+          <Controllable name="pan-elevation" id="5869156" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="5869157" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="5869158" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="5869159" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="5869160" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="5869161" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="5869162" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="5869163" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+        <Processor id="5869190" name="Amp" active="0" user-latency="0" type="amp">
+          <Automation>
+            <AutomationList automation-id="gain" id="5869191" interpolation-style="Linear" state="Off"/>
+          </Automation>
+          <Controllable name="gaincontrol" id="5869192" flags="GainLike" value="1"/>
+        </Processor>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="5869211" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="5869212" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="5869213" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Cymbals Map 2" name="Cymbals Map 2" id="5869206" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
   </Routes>
   <Playlists>
@@ -30629,10 +30780,24 @@
       <Region name="Drums Map 1-38.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="629760" position="10768235" beat="677.99998148148143" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="6" start-beats="0" length-beats="39.651555555555547" id="4705997" type="midi" first-edit="nothing" source-0="4705990" master-source-0="4705990"/>
       <Region name="Drums Map 1-40.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="190588" length="270000" position="12324706" beat="776" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="7" start-beats="11.999977777777872" length-beats="17" id="4706077" type="midi" first-edit="nothing" source-0="4706070" master-source-0="4706070"/>
     </Playlist>
-    <Playlist id="4750073" name="Cymbals Map 1" type="midi" orig-track-id="4750827" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="4750073" name="Cymbals Map 1" type="midi" orig-track-id="4750827" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Cymbals Map 1-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2796744" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="176.09128888888887" id="5869997" type="midi" first-edit="nothing" source-0="5869990" master-source-0="5869990"/>
+      <Region name="Cymbals Map 1-9.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1586213" position="3173812" beat="199.83260740740741" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="99.872670370370372" id="5870069" type="midi" first-edit="nothing" source-0="5870062" master-source-0="5870062"/>
+      <Region name="Cymbals Map 1-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="810333" position="5763210" beat="362.86877777777778" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="51.020966666666652" id="5870108" type="midi" first-edit="nothing" source-0="5870101" master-source-0="5870101"/>
+      <Region name="Cymbals Map 1-13.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3118996" position="6987202" beat="439.93494074074079" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="196.3812296296295" id="5870160" type="midi" first-edit="nothing" source-0="5870153" master-source-0="5870153"/>
+      <Region name="Cymbals Map 1-18.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="576122" position="10793610" beat="679.59766666666667" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="36.274348148148192" id="5870289" type="midi" first-edit="nothing" source-0="5870282" master-source-0="5870282"/>
+      <Region name="Cymbals Map 1-20.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="527360" position="12320751" beat="775.75098888888886" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="33.204148148148192" id="5870328" type="midi" first-edit="nothing" source-0="5870321" master-source-0="5870321"/>
+    </Playlist>
     <Playlist id="5643982" name="Open Hat" type="midi" orig-track-id="5643930" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="5644815" name="Ride" type="midi" orig-track-id="5644763" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="5645709" name="Crash 2" type="midi" orig-track-id="5645657" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="5869207" name="Cymbals Map 2" type="midi" orig-track-id="5869151" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Cymbals Map 2-3.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="636832" position="2660860" beat="167.53562962962963" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="40.09682962962961" id="5870022" type="midi" first-edit="nothing" source-0="5870015" master-source-0="5870015"/>
+      <Region name="Cymbals Map 2-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1205747" position="4639037" beat="292.08751481481477" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="75.917403703703712" id="5870083" type="midi" first-edit="nothing" source-0="5870026" master-source-0="5870026"/>
+      <Region name="Cymbals Map 2-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="566016" position="6527603" beat="410.99722592592587" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="35.638044444444517" id="5870138" type="midi" first-edit="nothing" source-0="5870126" master-source-0="5870126"/>
+      <Region name="Cymbals Map 2-11.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="825720" position="10037325" beat="631.97972222222222" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="51.989777777777704" id="5870231" type="midi" first-edit="nothing" source-0="5870224" master-source-0="5870224"/>
+      <Region name="Cymbals Map 2-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1115856" position="11269412" beat="709.55557037037033" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="4" start-beats="0" length-beats="70.257599999999911" id="5870303" type="midi" first-edit="nothing" source-0="5870235" master-source-0="5870235"/>
+    </Playlist>
   </Playlists>
   <UnusedPlaylists/>
   <RouteGroups/>
@@ -30713,7 +30878,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="559" y-off="61" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="0" y-off="672" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -30743,7 +30908,10 @@
       <Window name="RPM-115729" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-663161" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-191502" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5643930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-193082" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5645657" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5644763" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2833432" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2982423" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-4750827" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -30769,7 +30937,9 @@
       <Window name="RPM-1555926" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-160361" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-192065" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5642773" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-194179" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5643367" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2574534" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2574575" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2574616" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -30875,11 +31045,11 @@
       <Window name="PM-115391-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115393-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115394-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-159248-159280" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-159248-159278" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-159248-159280" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-159248-159281" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-159280-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-159278-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-159280-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-159281-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-159295-159325" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-159295-159327" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -30989,6 +31159,14 @@
       <Window name="PM-191532-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-191534-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-191535-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5643930-5645603" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643930-5643963" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643930-5643966" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643930-5643967" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5645603-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643963-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643966-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643967-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-193082-2834223" visible="0" x-off="548" y-off="132" x-size="592" y-size="267" custom-ui="1"/>
       <Window name="P-193082-193112" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-193082-193114" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -30997,6 +31175,22 @@
       <Window name="PM-193112-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-193114-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-193115-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5645657-5646443" visible="0" x-off="548" y-off="132" x-size="592" y-size="267" custom-ui="1"/>
+      <Window name="P-5645657-5645690" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5645657-5645693" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5645657-5645694" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5646443-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5645690-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5645693-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5645694-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5644763-5645591" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5644763-5644796" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5644763-5644799" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5644763-5644800" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5645591-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5644796-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5644799-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5644800-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2833432-2833462" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2833432-2833464" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2833432-2833465" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -31013,12 +31207,12 @@
       <Window name="PM-2982436-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2982440-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2982460-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-4750827-4750840" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-4750827-4750843" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-4750827-4750840" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-4750827-4750844" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-4750827-4750864" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-4750840-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4750843-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-4750840-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4750844-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-4750864-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-80231-80266" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -31162,7 +31356,6 @@
       <Window name="P-121302-1386288" visible="0" x-off="0" y-off="0" x-size="948" y-size="365" custom-ui="1"/>
       <Window name="P-121302-1386315" visible="0" x-off="0" y-off="0" x-size="732" y-size="712" custom-ui="1"/>
       <Window name="P-121302-719127" visible="0" x-off="1174" y-off="37" x-size="535" y-size="647" custom-ui="1"/>
-      <Window name="P-121302-746676" visible="0" x-off="1174" y-off="71" x-size="535" y-size="579" custom-ui="1"/>
       <Window name="P-121302-1254142" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-121302-121332" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-121302-1222973" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -31175,7 +31368,6 @@
       <Window name="PM-1386288-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1386315-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-719127-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-746676-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1254142-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-121332-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1222973-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -31387,6 +31579,22 @@
       <Window name="PM-192095-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-192097-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-192098-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5642773-5642791" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5642793" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5643078" visible="0" x-off="564" y-off="239" x-size="560" y-size="53" custom-ui="1"/>
+      <Window name="P-5642773-5643256" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5643291" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5643293" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5643296" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5642773-5643297" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5642791-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5642793-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643078-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643256-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643291-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643293-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643296-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643297-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-194179-194214" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-194179-194210" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-194179-194244" visible="0" x-off="0" y-off="83" x-size="536" y-size="53" custom-ui="1"/>
@@ -31403,6 +31611,22 @@
       <Window name="PM-194209-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-194211-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-194212-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5643367-5643385" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643387" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643672" visible="0" x-off="576" y-off="239" x-size="536" y-size="53" custom-ui="1"/>
+      <Window name="P-5643367-5643823" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643849" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643851" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643854" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5643367-5643855" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5643385-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643387-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643672-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643823-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643849-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643851-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643854-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5643855-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-2574534-2574569" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2574534-2574565" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-2574534-2575591" visible="0" x-off="0" y-off="209" x-size="592" y-size="267" custom-ui="1"/>
@@ -31527,7 +31751,7 @@
       <Window name="PM-1800264-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-196501-196536" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-196501-196532" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-196501-420095" visible="0" x-off="0" y-off="130" x-size="519" y-size="53" custom-ui="1"/>
+      <Window name="P-196501-420095" visible="0" x-off="0" y-off="130" x-size="502" y-size="53" custom-ui="1"/>
       <Window name="P-196501-196531" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-196501-196533" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-196501-196534" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -31983,67 +32207,15 @@
       <Window name="PM-1285875-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285877-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285878-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5642773" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5642773-5642791" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5642793" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5643078" visible="0" x-off="564" y-off="239" x-size="560" y-size="53" custom-ui="1"/>
-      <Window name="P-5642773-5643256" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5643291" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5643293" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5643296" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5642773-5643297" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5642791-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5642793-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643078-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643256-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643291-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643293-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643296-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643297-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5643367" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5643367-5643385" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643387" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643672" visible="0" x-off="576" y-off="239" x-size="536" y-size="53" custom-ui="1"/>
-      <Window name="P-5643367-5643823" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643849" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643851" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643854" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643367-5643855" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5643385-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643387-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643672-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643823-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643849-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643851-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643854-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643855-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5643930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5643930-5643963" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643930-5643966" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5643930-5643967" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5643963-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643966-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5643967-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5644763" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5644763-5644796" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5644763-5644799" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5644763-5644800" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5644796-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5644799-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5644800-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5644763-5645591" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5645591-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5643930-5645603" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5645603-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5645657" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5645657-5645690" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5645657-5645693" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5645657-5645694" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5645690-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5645693-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5645694-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5645657-5646443" visible="0" x-off="548" y-off="132" x-size="592" y-size="267" custom-ui="1"/>
-      <Window name="PM-5646443-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5869151" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5869151-5869164" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5869151-5869165" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5869151-5869168" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5869151-5869188" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5869164-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5869165-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5869168-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5869188-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="64" visible="1"/>
         <Object id="automation 58" height="64" visible="0"/>
@@ -33487,6 +33659,12 @@
           <Object id="processor 5645690"/>
           <Object id="processor 5646443"/>
         </Object>
+        <Object id="strip 5869151" visible="1" strip-width="Wide">
+          <Object id="processor 5869165"/>
+        </Object>
+        <Object id="rtav 5869151" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 5869167" height="64" visible="0"/>
+        <Object id="automation 5869151 12/0/0" height="64" visible="0"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
