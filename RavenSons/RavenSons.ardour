@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="5917105" name-counter="18" event-counter="506376243" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="5965929" name-counter="18" event-counter="513193354" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -2239,9 +2239,7 @@
     <Region name="Cymbals Map 1-19.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="323328" position="12320751" beat="775.75098888888886" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="20.357688888888902" id="5870317" type="midi" first-edit="nothing" source-0="5870293" master-source-0="5870293"/>
     <Region name="Cymbals Map 1-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="527360" position="12320751" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="33.204148148148143" id="5870325" type="midi" first-edit="nothing" source-0="5870321" master-source-0="5870321"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="194179" control="0" order="3"/>
-  </Selection>
+  <Selection/>
   <Locations>
     <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda drums solo" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -2854,7 +2852,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state131"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state132"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -10601,8 +10599,8 @@
         <AutomationList automation-id="phase" id="2802457" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="194198" flags="" value="0.41011237361457875"/>
-        <Controllable name="pan-width" id="194202" flags="" value="0.3707864887258977"/>
+        <Controllable name="pan-azimuth" id="194198" flags="" value="0.41011238098144531"/>
+        <Controllable name="pan-width" id="194202" flags="" value="0.37078648805618286"/>
         <Controllable name="pan-elevation" id="194200" flags="" value="0"/>
         <Controllable name="pan-frontback" id="194204" flags="" value="0"/>
         <Controllable name="pan-lfe" id="194206" flags="" value="0"/>
@@ -11057,8 +11055,8 @@
       <Processor id="194212" name="Crash Bus 1" active="1" user-latency="0" own-input="1" own-output="0" output="Crash Bus 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="194198" flags="" value="0.41011237361457875"/>
-          <Controllable name="pan-width" id="194202" flags="" value="0.3707864887258977"/>
+          <Controllable name="pan-azimuth" id="194198" flags="" value="0.41011238098144531"/>
+          <Controllable name="pan-width" id="194202" flags="" value="0.37078648805618286"/>
           <Controllable name="pan-elevation" id="194200" flags="" value="0"/>
           <Controllable name="pan-frontback" id="194204" flags="" value="0"/>
           <Controllable name="pan-lfe" id="194206" flags="" value="0"/>
@@ -23766,7 +23764,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state131"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state132"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -27152,7 +27150,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state35">
+        <lv2 last-preset-uri="file:///home/a5kin/.lv2/Noize_Mak3r_RS_Tom_2.lv2/RS_Tom_2.ttl" last-preset-label="RS Tom 2" parameter-changed-since-last-preset="0" state-dir="state36">
           <Port symbol="lv2_freewheel" value="0"/>
           <Port symbol="unused" value="0"/>
           <Port symbol="volume" value="0.34800001978874207"/>
@@ -29732,8 +29730,8 @@
         <AutomationList automation-id="phase" id="5643865" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="5643370" flags="" value="0.7471910252999725"/>
-        <Controllable name="pan-width" id="5643371" flags="" value="0.46067412917533612"/>
+        <Controllable name="pan-azimuth" id="5643370" flags="" value="0.74719101190567017"/>
+        <Controllable name="pan-width" id="5643371" flags="" value="0.46067413687705994"/>
         <Controllable name="pan-elevation" id="5643372" flags="" value="0"/>
         <Controllable name="pan-frontback" id="5643373" flags="" value="0"/>
         <Controllable name="pan-lfe" id="5643374" flags="" value="0"/>
@@ -30188,8 +30186,8 @@
       <Processor id="5643855" name="Ride Bus" active="1" user-latency="0" own-input="1" own-output="0" output="Ride Bus" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="5643370" flags="" value="0.7471910252999725"/>
-          <Controllable name="pan-width" id="5643371" flags="" value="0.46067412917533612"/>
+          <Controllable name="pan-azimuth" id="5643370" flags="" value="0.74719101190567017"/>
+          <Controllable name="pan-width" id="5643371" flags="" value="0.46067413687705994"/>
           <Controllable name="pan-elevation" id="5643372" flags="" value="0"/>
           <Controllable name="pan-frontback" id="5643373" flags="" value="0"/>
           <Controllable name="pan-lfe" id="5643374" flags="" value="0"/>
@@ -30658,8 +30656,8 @@
         <AutomationList automation-id="phase" id="5917081" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="5916586" flags="" value="0.69101125001907338"/>
-        <Controllable name="pan-width" id="5916587" flags="" value="0.4157303089506168"/>
+        <Controllable name="pan-azimuth" id="5916586" flags="" value="0.69101125001907349"/>
+        <Controllable name="pan-width" id="5916587" flags="" value="0.41573029756546021"/>
         <Controllable name="pan-elevation" id="5916588" flags="" value="0"/>
         <Controllable name="pan-frontback" id="5916589" flags="" value="0"/>
         <Controllable name="pan-lfe" id="5916590" flags="" value="0"/>
@@ -31114,8 +31112,8 @@
       <Processor id="5917071" name="Crash Bus 2" active="1" user-latency="0" own-input="1" own-output="0" output="Crash Bus 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="5916586" flags="" value="0.69101125001907338"/>
-          <Controllable name="pan-width" id="5916587" flags="" value="0.4157303089506168"/>
+          <Controllable name="pan-azimuth" id="5916586" flags="" value="0.69101125001907349"/>
+          <Controllable name="pan-width" id="5916587" flags="" value="0.41573029756546021"/>
           <Controllable name="pan-elevation" id="5916588" flags="" value="0"/>
           <Controllable name="pan-frontback" id="5916589" flags="" value="0"/>
           <Controllable name="pan-lfe" id="5916590" flags="" value="0"/>
@@ -31381,7 +31379,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="0" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="97" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -31443,6 +31441,7 @@
       <Window name="RPM-192065" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-5642773" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-194179" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-5916583" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-5643367" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2574534" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-2574575" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -32123,6 +32122,22 @@
       <Window name="PM-194209-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-194211-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-194212-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-5916583-5916601" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5916603" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5916888" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5917039" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5917065" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5917067" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5917070" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-5916583-5917071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-5916601-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5916603-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5916888-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5917039-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5917065-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5917067-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5917070-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-5917071-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-5643367-5643385" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-5643367-5643387" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-5643367-5643672" visible="0" x-off="576" y-off="239" x-size="536" y-size="53" custom-ui="1"/>
@@ -32719,23 +32734,6 @@
       <Window name="PM-1285875-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285877-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285878-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-5916583" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-5916583-5916601" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5916603" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5916888" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5917039" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5917065" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5917067" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5917070" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-5916583-5917071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-5916601-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5916603-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5916888-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5917039-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5917065-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5917067-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5917070-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-5917071-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="64" visible="1"/>
         <Object id="automation 58" height="64" visible="0"/>
@@ -34112,7 +34110,7 @@
         <Object id="strip 2833432" visible="1" strip-width="Wide">
           <Object id="processor 2833462"/>
         </Object>
-        <Object id="rtav 2982423" height="312" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 2982423" height="312" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="49" note-range-max="73"/>
         <Object id="automation 2982439" height="64" visible="0"/>
         <Object id="automation 2982423 12/0/0" height="64" visible="0"/>
         <Object id="strip 2982423" visible="1" strip-width="Wide">
@@ -34182,7 +34180,7 @@
         <Object id="strip 5869151" visible="1" strip-width="Wide">
           <Object id="processor 5869165"/>
         </Object>
-        <Object id="rtav 5869151" height="64" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="rtav 5869151" height="231" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="50" note-range-max="72"/>
         <Object id="automation 5869167" height="64" visible="0"/>
         <Object id="automation 5869151 12/0/0" height="64" visible="0"/>
         <Object id="rtav 5916583" height="64" visible="1"/>
