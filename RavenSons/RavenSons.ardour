@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="6012453" name-counter="18" event-counter="515301877" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="6058643" name-counter="18" event-counter="523417685" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -955,6 +955,10 @@
     <Source name="Cymbals Map 1-18.mid" type="midi" flags="Writable,CanRename" id="5870282" captured-for="Cymbals Map 1" origin=""/>
     <Source name="Cymbals Map 1-19.mid" type="midi" flags="Writable,CanRename" id="5870293" captured-for="Cymbals Map 1" origin=""/>
     <Source name="Cymbals Map 1-20.mid" type="midi" flags="Writable,CanRename" id="5870321" captured-for="Cymbals Map 1" origin=""/>
+    <Source name="Solo 1-4.mid" type="midi" flags="Writable,CanRename" id="6025707" captured-for="Solo 1" origin="">
+      <InterpolationStyle parameter="midi-pitch-bender-0" style="Discrete"/>
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
   </Sources>
   <Regions>
     <Region name="Ballad Right 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5054720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="219.68737717309148" id="2908067" type="midi" first-edit="nothing" source-0="2879831" master-source-0="2879831"/>
@@ -2238,8 +2242,11 @@
     <Region name="Cymbals Map 1-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="323328" position="12320751" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="20.357688888888887" id="5870314" type="midi" first-edit="nothing" source-0="5870293" master-source-0="5870293"/>
     <Region name="Cymbals Map 1-19.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="323328" position="12320751" beat="775.75098888888886" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="0" length-beats="20.357688888888902" id="5870317" type="midi" first-edit="nothing" source-0="5870293" master-source-0="5870293"/>
     <Region name="Cymbals Map 1-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="527360" position="12320751" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="33.204148148148143" id="5870325" type="midi" first-edit="nothing" source-0="5870321" master-source-0="5870321"/>
+    <Region name="Solo 1-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2368512" position="7170479" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="149.12853333333334" id="6058631" type="midi" first-edit="nothing" source-0="6025707" master-source-0="6025707"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="54" control="0" order="0"/>
+  </Selection>
   <Locations>
     <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda drums solo" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -2852,7 +2859,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state133"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state134"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -3005,7 +3012,7 @@
       <Controllable name="midicc-0-0" id="483" flags="" value="0"/>
       <Controllable name="midicc-0-32" id="484" flags="" value="0"/>
       <Controllable name="midi-pgm-change-0" id="485" flags="" value="1"/>
-      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="8320"/>
+      <Controllable name="midi-pitch-bender-0" id="82439" flags="" value="8192"/>
       <Controllable name="midi-pitch-bender-1" id="82444" flags="" value="8192"/>
     </Route>
     <Route id="21044" name="Right Lead 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -3078,7 +3085,7 @@
       <Controllable name="rec-safe" id="21082" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="21080" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="MIDI 6.1" name="MIDI 6" id="21085" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8320"/>
+      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8192"/>
       <Controllable name="midi-pitch-bender-1" id="82454" flags="" value="8192"/>
     </Route>
     <Route id="80231" name="Left Lead Meat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -5530,7 +5537,7 @@
       <Controllable name="rec-enable" id="115397" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Right Wing Perfo 2.1" name="Right Wing Perfo 2" id="115402" speed="1" capture-alignment="Automatic" record-safe="0"/>
       <Controllable name="midi-pitch-bender-0" id="4883472" flags="" value="8192"/>
-      <Controllable name="midi-channel-pressure-1" id="4883486" flags="" value="0"/>
+      <Controllable name="midi-channel-pressure-1" id="4883486" flags="" value="2"/>
     </Route>
     <Route id="115682" name="Kick" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="17" flags="MidiTrack,OrderSet" color="3852114431"/>
@@ -8414,7 +8421,7 @@
       <Controllable name="rec-safe" id="159286" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="159284" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Bass 1.1" name="Bass 1" id="159289" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="175753" flags="" value="1988"/>
+      <Controllable name="midi-pitch-bender-0" id="175753" flags="" value="8192"/>
       <Controllable name="midi-pitch-bender-1" id="175757" flags="" value="8192"/>
       <Controllable name="midi-pitch-bender-2" id="175761" flags="" value="8192"/>
       <Controllable name="midi-pitch-bender-3" id="175765" flags="" value="8192"/>
@@ -8504,7 +8511,7 @@
       <Controllable name="rec-safe" id="159333" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="159331" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Bass 2.1" name="Bass 2" id="159336" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="175817" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="175817" flags="" value="8960"/>
       <Controllable name="midi-channel-pressure-0" id="2471008" flags="" value="0"/>
     </Route>
     <Route id="159719" name="Bass Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -15442,13 +15449,15 @@
       </Processor>
       <Slavable/>
     </Route>
-    <Route id="320702" name="Hard Solo 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="320702" name="Hard Solo 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="9" flags="MidiTrack,OrderSet" color="2917503487"/>
       <Controllable name="solo" id="320710" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="320716" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="320718" flags="Toggle" value="0" solo-safe="0"/>
       <IO name="Hard Solo 1" id="320730" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Hard Solo 1/midi_in 1"/>
+        <Port type="midi" name="Hard Solo 1/midi_in 1">
+          <Connection other="system:midi_capture_2"/>
+        </Port>
       </IO>
       <IO name="Hard Solo 1" id="320731" direction="Output" default-type="midi" user-latency="0">
         <Port type="midi" name="Hard Solo 1/midi_out 1">
@@ -15483,13 +15492,13 @@
           <AutomationList automation-id="pan-lfe" id="320728" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
+      <Processor id="320734" name="meter-Solo 1" active="1" user-latency="0" type="meter"/>
       <Processor id="320732" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="2805275" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="320706" flags="GainLike" value="1"/>
       </Processor>
-      <Processor id="320734" name="meter-Solo 1" active="1" user-latency="0" type="meter"/>
       <Processor id="320735" name="Hard Solo 1" active="1" user-latency="0" own-input="1" own-output="0" output="Hard Solo 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -15510,9 +15519,9 @@
       <Slavable/>
       <Controllable name="monitor" id="320742" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="320740" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="320738" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="320738" flags="Toggle,RealTime" value="1"/>
       <Diskstream flags="Recordable" playlist="Solo 1.2" name="Solo 1" id="320743" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="361252" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="361252" flags="" value="8576"/>
       <Controllable name="midi-pitch-bender-3" id="2470926" flags="" value="8192"/>
     </Route>
     <Route id="320749" name="Hard Solo 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
@@ -23764,7 +23773,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state133"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state134"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -29071,7 +29080,7 @@
       <Controllable name="rec-enable" id="2982485" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Drums Map 1.1" name="Drums Map 1" id="2982478" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="4750827" name="Cymbals Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="4750827" name="Cymbals Map 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="27" flags="MidiTrack,OrderSet" color="3856901375"/>
       <Controllable name="solo" id="4750794" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="4750869" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
@@ -29115,13 +29124,13 @@
           <AutomationList automation-id="pan-lfe" id="4750839" interpolation-style="Linear" state="Off"/>
         </Automation>
       </Pannable>
-      <Processor id="4750843" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="4750840" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
           <AutomationList automation-id="gain" id="4750841" interpolation-style="Linear" state="Off"/>
         </Automation>
         <Controllable name="gaincontrol" id="4750842" flags="GainLike" value="1"/>
       </Processor>
+      <Processor id="4750843" name="meter-Drums Map" active="1" user-latency="0" type="meter"/>
       <Processor id="4750844" name="Cymbals Map 1" active="1" user-latency="0" own-input="1" own-output="0" output="Cymbals Map 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
@@ -29168,7 +29177,7 @@
       <Slavable/>
       <Controllable name="monitor" id="4750885" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="4750886" flags="Toggle,RealTime" value="0"/>
-      <Controllable name="rec-enable" id="4750887" flags="Toggle,RealTime" value="1"/>
+      <Controllable name="rec-enable" id="4750887" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Cymbals Map 1" name="Cymbals Map 1" id="4750882" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
     <Route id="5642773" name="Open Hi-Hat Bus" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -31227,7 +31236,9 @@
     <Playlist id="266196" name="Vox Low Oct ch52 1.1" type="audio" orig-track-id="266250" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="266344" name="Vox Low Oct ch55 1.1" type="audio" orig-track-id="266398" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="266492" name="Vox Low Oct ch58 1.1" type="audio" orig-track-id="266546" shared-with-ids="" frozen="0" combine-ops="0"/>
-    <Playlist id="320744" name="Solo 1.2" type="midi" orig-track-id="320702" shared-with-ids="" frozen="0" combine-ops="0"/>
+    <Playlist id="320744" name="Solo 1.2" type="midi" orig-track-id="320702" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Solo 1-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2368512" position="7170479" beat="451.47460370370368" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="149.12853333333339" id="6058634" type="midi" first-edit="nothing" source-0="6025707" master-source-0="6025707"/>
+    </Playlist>
     <Playlist id="320791" name="Solo 2.2" type="midi" orig-track-id="320749" shared-with-ids="" frozen="0" combine-ops="0"/>
     <Playlist id="633147" name="Ballad Right 1.1" type="midi" orig-track-id="633105" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Ballad Right 1-8.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="51618" length="238235" position="55588" beat="3.499992592592605" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="3.2500074074074075" length-beats="15" id="4118448" type="midi" first-edit="nothing" source-0="4118429" master-source-0="4118429"/>
@@ -31379,7 +31390,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="5" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="1349" y-off="672" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
