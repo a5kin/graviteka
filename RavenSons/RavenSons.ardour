@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="7023898" name-counter="18" event-counter="627326079" vca-counter="1">
+<Session version="3002" name="RavenSons" sample-rate="44100" end-is-free="0" id-counter="7270567" name-counter="18" event-counter="637671414" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -1004,6 +1004,48 @@
     <Source name="raven-sons-verse2-ch52-high.wav" type="audio" flags="" id="7023772" channel="0" origin="" gain="1"/>
     <Source name="raven-sons-verse2-ch55-high.wav" type="audio" flags="" id="7023797" channel="0" origin="" gain="1"/>
     <Source name="raven-sons-verse2-ch58-high.wav" type="audio" flags="" id="7023822" channel="0" origin="" gain="1"/>
+    <Source name="Vocal Melody 1 1-4.mid" type="midi" flags="Writable,CanRename" id="7046904" captured-for="Vocal Melody 1 1" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="Vocal Melody 1 1-5.mid" type="midi" flags="Writable,CanRename" id="7072513" captured-for="Vocal Melody 1 1" origin=""/>
+    <Source name="Vocal Melody 1 1-6.mid" type="midi" flags="Writable,CanRename" id="7072524" captured-for="Vocal Melody 1 1" origin=""/>
+    <Source name="Vocal Melody 1 1-7.mid" type="midi" flags="Writable,CanRename" id="7072535" captured-for="Vocal Melody 1 1" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="raven-sons-chorus1-ch52-low.wav" type="audio" flags="" id="7121625" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low.wav" type="audio" flags="" id="7121650" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low.wav" type="audio" flags="" id="7121675" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-oct.wav" type="audio" flags="" id="7121700" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-oct.wav" type="audio" flags="" id="7121725" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-oct.wav" type="audio" flags="" id="7121750" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-2.wav" type="audio" flags="" id="7170931" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-2.wav" type="audio" flags="" id="7170956" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-2.wav" type="audio" flags="" id="7170981" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-oct-2.wav" type="audio" flags="" id="7171006" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-oct-2.wav" type="audio" flags="" id="7171031" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-oct-2.wav" type="audio" flags="" id="7171056" channel="0" origin="" gain="1"/>
+    <Source name="Vocal Melody-3.mid" type="midi" flags="Writable,CanRename" id="7220539" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="Vocal Melody 1-4.mid" type="midi" flags="Writable,CanRename" id="7269524" origin="">
+      <InterpolationStyle parameter="midi-channel-pressure-1" style="Discrete"/>
+    </Source>
+    <Source name="chorus1-high.mid" type="midi" flags="Writable,CanRename" id="7269777" origin=""/>
+    <Source name="raven-sons-chorus1-ch52-high.wav" type="audio" flags="" id="7269782" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-high.wav" type="audio" flags="" id="7269807" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-high.wav" type="audio" flags="" id="7269832" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-3.wav" type="audio" flags="" id="7270263" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-3.wav" type="audio" flags="" id="7270288" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-3.wav" type="audio" flags="" id="7270313" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-oct-3.wav" type="audio" flags="" id="7270338" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-oct-3.wav" type="audio" flags="" id="7270363" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-oct-3.wav" type="audio" flags="" id="7270388" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-4.wav" type="audio" flags="" id="7270419" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-4.wav" type="audio" flags="" id="7270444" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-4.wav" type="audio" flags="" id="7270469" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch52-low-oct-4.wav" type="audio" flags="" id="7270494" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch55-low-oct-4.wav" type="audio" flags="" id="7270519" channel="0" origin="" gain="1"/>
+    <Source name="raven-sons-chorus1-ch58-low-oct-4.wav" type="audio" flags="" id="7270544" channel="0" origin="" gain="1"/>
   </Sources>
   <Regions>
     <Region name="Ballad Right 1-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5054720" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="219.68737717309148" id="2908067" type="midi" first-edit="nothing" source-0="2879831" master-source-0="2879831"/>
@@ -2356,18 +2398,95 @@
     <Region name="Vocal Melody 1 1-3.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="45.5" id="6781184" type="midi" first-edit="nothing" source-0="6587780" master-source-0="6587780"/>
     <Region name="raven-sons-verse2-ch52-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781202" type="audio" first-edit="nothing" source-0="6781200" master-source-0="6781200" channels="1"/>
     <Region name="raven-sons-verse2-ch52-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781211" type="audio" first-edit="nothing" source-0="6781200" master-source-0="6781200" channels="1"/>
+    <Region name="raven-sons-verse2-ch52-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781225" type="audio" first-edit="nothing" source-0="6781200" master-source-0="6781200" channels="1"/>
     <Region name="raven-sons-verse2-ch52-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781243" type="audio" first-edit="nothing" source-0="6781241" master-source-0="6781241" channels="1"/>
     <Region name="raven-sons-verse2-ch52-low.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781344" type="audio" first-edit="nothing" source-0="6781342" master-source-0="6781342" channels="1"/>
     <Region name="raven-sons-verse2-ch55-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781369" type="audio" first-edit="nothing" source-0="6781367" master-source-0="6781367" channels="1"/>
     <Region name="raven-sons-verse2-ch58-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781394" type="audio" first-edit="nothing" source-0="6781392" master-source-0="6781392" channels="1"/>
     <Region name="raven-sons-verse2-ch55-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781419" type="audio" first-edit="nothing" source-0="6781417" master-source-0="6781417" channels="1"/>
+    <Region name="raven-sons-verse2-ch55-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781428" type="audio" first-edit="nothing" source-0="6781417" master-source-0="6781417" channels="1"/>
     <Region name="raven-sons-verse2-ch58-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781444" type="audio" first-edit="nothing" source-0="6781442" master-source-0="6781442" channels="1"/>
+    <Region name="raven-sons-verse2-ch58-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781453" type="audio" first-edit="nothing" source-0="6781442" master-source-0="6781442" channels="1"/>
     <Region name="Vocal Melody 1 1-3.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="45.5" id="6975057" type="midi" first-edit="nothing" source-0="6587780" master-source-0="6587780"/>
     <Region name="raven-sons-verse2-ch52-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7023774" type="audio" first-edit="nothing" source-0="7023772" master-source-0="7023772" channels="1"/>
     <Region name="raven-sons-verse2-ch55-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7023799" type="audio" first-edit="nothing" source-0="7023797" master-source-0="7023797" channels="1"/>
     <Region name="raven-sons-verse2-ch58-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7023824" type="audio" first-edit="nothing" source-0="7023822" master-source-0="7023822" channels="1"/>
+    <Region name="Vocal Melody 1 1-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="732416" position="4637589" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="46.115081481481482" id="7072392" type="midi" first-edit="nothing" source-0="7046904" master-source-0="7046904"/>
+    <Region name="Vocal Melody 1 1-4.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="732416" position="4637589" beat="291.99634444444439" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="46.115081481481525" id="7072395" type="midi" first-edit="nothing" source-0="7046904" master-source-0="7046904"/>
+    <Region name="Vocal Melody 1 1-5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="128512" position="4701176" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="8.0914962962962971" id="7072517" type="midi" first-edit="nothing" source-0="7072513" master-source-0="7072513"/>
+    <Region name="Vocal Melody 1 1-5.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="128512" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="8.0914962962962704" id="7072520" type="midi" first-edit="nothing" source-0="7072513" master-source-0="7072513"/>
+    <Region name="Vocal Melody 1 1-6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669952" position="4701176" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="42.182162962962963" id="7072528" type="midi" first-edit="nothing" source-0="7072524" master-source-0="7072524"/>
+    <Region name="Vocal Melody 1 1-6.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669952" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="42.182162962962991" id="7072531" type="midi" first-edit="nothing" source-0="7072524" master-source-0="7072524"/>
+    <Region name="Vocal Melody 1 1-7" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="42.166044444444445" id="7072541" type="midi" first-edit="nothing" source-0="7072535" master-source-0="7072535"/>
+    <Region name="raven-sons-chorus1-ch52-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121627" type="audio" first-edit="nothing" source-0="7121625" master-source-0="7121625" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121636" type="audio" first-edit="nothing" source-0="7121625" master-source-0="7121625" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121652" type="audio" first-edit="nothing" source-0="7121650" master-source-0="7121650" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121661" type="audio" first-edit="nothing" source-0="7121650" master-source-0="7121650" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121677" type="audio" first-edit="nothing" source-0="7121675" master-source-0="7121675" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121686" type="audio" first-edit="nothing" source-0="7121675" master-source-0="7121675" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121702" type="audio" first-edit="nothing" source-0="7121700" master-source-0="7121700" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121711" type="audio" first-edit="nothing" source-0="7121700" master-source-0="7121700" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121727" type="audio" first-edit="nothing" source-0="7121725" master-source-0="7121725" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121736" type="audio" first-edit="nothing" source-0="7121725" master-source-0="7121725" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121752" type="audio" first-edit="nothing" source-0="7121750" master-source-0="7121750" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7121761" type="audio" first-edit="nothing" source-0="7121750" master-source-0="7121750" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170448" type="audio" first-edit="nothing" source-0="7121625" master-source-0="7121625" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170458" type="audio" first-edit="nothing" source-0="7121650" master-source-0="7121650" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170468" type="audio" first-edit="nothing" source-0="7121675" master-source-0="7121675" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170492" type="audio" first-edit="nothing" source-0="7121700" master-source-0="7121700" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170502" type="audio" first-edit="nothing" source-0="7121625" master-source-0="7121625" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170512" type="audio" first-edit="nothing" source-0="7121650" master-source-0="7121650" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170522" type="audio" first-edit="nothing" source-0="7121675" master-source-0="7121675" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170933" type="audio" first-edit="nothing" source-0="7170931" master-source-0="7170931" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170942" type="audio" first-edit="nothing" source-0="7170931" master-source-0="7170931" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170958" type="audio" first-edit="nothing" source-0="7170956" master-source-0="7170956" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170967" type="audio" first-edit="nothing" source-0="7170956" master-source-0="7170956" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170983" type="audio" first-edit="nothing" source-0="7170981" master-source-0="7170981" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7170992" type="audio" first-edit="nothing" source-0="7170981" master-source-0="7170981" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171008" type="audio" first-edit="nothing" source-0="7171006" master-source-0="7171006" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171017" type="audio" first-edit="nothing" source-0="7171006" master-source-0="7171006" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171033" type="audio" first-edit="nothing" source-0="7171031" master-source-0="7171031" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171042" type="audio" first-edit="nothing" source-0="7171031" master-source-0="7171031" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171058" type="audio" first-edit="nothing" source-0="7171056" master-source-0="7171056" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7171067" type="audio" first-edit="nothing" source-0="7171056" master-source-0="7171056" channels="1"/>
+    <Region name="Vocal Melody 1 1-7.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="42.166044444444481" id="7220534" type="midi" first-edit="nothing" source-0="7072535" master-source-0="7072535"/>
+    <Region name="Vocal Melody 1 1-7.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="42.166044444444481" id="7269515" type="midi" first-edit="nothing" source-0="7072535" master-source-0="7072535"/>
+    <Region name="raven-sons-chorus1-ch52-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269784" type="audio" first-edit="nothing" source-0="7269782" master-source-0="7269782" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269809" type="audio" first-edit="nothing" source-0="7269807" master-source-0="7269807" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269834" type="audio" first-edit="nothing" source-0="7269832" master-source-0="7269832" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269843" type="audio" first-edit="nothing" source-0="7269832" master-source-0="7269832" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269896" type="audio" first-edit="nothing" source-0="7170931" master-source-0="7170931" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269912" type="audio" first-edit="nothing" source-0="7171006" master-source-0="7171006" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4697206" beat="295.75" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269928" type="audio" first-edit="nothing" source-0="7170956" master-source-0="7170956" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269944" type="audio" first-edit="nothing" source-0="7171031" master-source-0="7171031" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269960" type="audio" first-edit="nothing" source-0="7170981" master-source-0="7170981" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269976" type="audio" first-edit="nothing" source-0="7171056" master-source-0="7171056" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269992" type="audio" first-edit="nothing" source-0="7170931" master-source-0="7170931" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270008" type="audio" first-edit="nothing" source-0="7170956" master-source-0="7170956" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-high.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270024" type="audio" first-edit="nothing" source-0="7269832" master-source-0="7269832" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270062" type="audio" first-edit="nothing" source-0="7170981" master-source-0="7170981" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270265" type="audio" first-edit="nothing" source-0="7270263" master-source-0="7270263" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270274" type="audio" first-edit="nothing" source-0="7270263" master-source-0="7270263" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270290" type="audio" first-edit="nothing" source-0="7270288" master-source-0="7270288" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270299" type="audio" first-edit="nothing" source-0="7270288" master-source-0="7270288" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270315" type="audio" first-edit="nothing" source-0="7270313" master-source-0="7270313" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270324" type="audio" first-edit="nothing" source-0="7270313" master-source-0="7270313" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270340" type="audio" first-edit="nothing" source-0="7270338" master-source-0="7270338" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270349" type="audio" first-edit="nothing" source-0="7270338" master-source-0="7270338" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270365" type="audio" first-edit="nothing" source-0="7270363" master-source-0="7270363" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270374" type="audio" first-edit="nothing" source-0="7270363" master-source-0="7270363" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270390" type="audio" first-edit="nothing" source-0="7270388" master-source-0="7270388" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270399" type="audio" first-edit="nothing" source-0="7270388" master-source-0="7270388" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270421" type="audio" first-edit="nothing" source-0="7270419" master-source-0="7270419" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270446" type="audio" first-edit="nothing" source-0="7270444" master-source-0="7270444" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270471" type="audio" first-edit="nothing" source-0="7270469" master-source-0="7270469" channels="1"/>
+    <Region name="raven-sons-chorus1-ch52-low-oct.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270496" type="audio" first-edit="nothing" source-0="7270494" master-source-0="7270494" channels="1"/>
+    <Region name="raven-sons-chorus1-ch55-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270521" type="audio" first-edit="nothing" source-0="7270519" master-source-0="7270519" channels="1"/>
+    <Region name="raven-sons-chorus1-ch58-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270546" type="audio" first-edit="nothing" source-0="7270544" master-source-0="7270544" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="264753" control="0" order="21"/>
+  </Selection>
   <Locations>
     <Location id="2797625" name="session" start="0" end="12960803" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="4037272" name="coda drums solo" start="12388141" end="12388141" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -2984,7 +3103,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state154"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state159"/>
       </Processor>
       <Processor id="84" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -3210,7 +3329,7 @@
       <Controllable name="rec-safe" id="21082" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="21080" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="MIDI 6.1" name="MIDI 6" id="21085" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="82449" flags="" value="8960"/>
       <Controllable name="midi-pitch-bender-1" id="82454" flags="" value="8192"/>
     </Route>
     <Route id="80231" name="Left Lead Meat" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -8636,7 +8755,7 @@
       <Controllable name="rec-safe" id="159333" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="159331" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Bass 2.1" name="Bass 2" id="159336" speed="1" capture-alignment="Automatic" record-safe="0"/>
-      <Controllable name="midi-pitch-bender-0" id="175817" flags="" value="8192"/>
+      <Controllable name="midi-pitch-bender-0" id="175817" flags="" value="8320"/>
       <Controllable name="midi-channel-pressure-0" id="2471008" flags="" value="0"/>
     </Route>
     <Route id="159719" name="Bass Layer 1" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak">
@@ -24112,7 +24231,7 @@
           <Channelmap type="audio" from="1" to="1"/>
         </OutputMap-0>
         <ThruMap/>
-        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state154"/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state159"/>
       </Processor>
       <Processor id="1285775" name="Amp" active="1" user-latency="0" type="amp">
         <Automation>
@@ -32087,11 +32206,13 @@
     <Playlist id="221358" name="Vocal Melody" type="midi" orig-track-id="221316" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Vocal Melody-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="45.5" id="6636661" type="midi" first-edit="nothing" source-0="6636659" master-source-0="6636659"/>
       <Region name="Vocal Melody-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="45.5" id="6781192" type="midi" first-edit="nothing" source-0="6781190" master-source-0="6781190"/>
+      <Region name="Vocal Melody-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="42.166044444444481" id="7220543" type="midi" first-edit="nothing" source-0="7220539" master-source-0="7220539"/>
     </Playlist>
     <Playlist id="248399" name="Vocal Melody 1.1" type="midi" orig-track-id="247778" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Vocal Melody 1-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="45.5" id="6539092" type="midi" first-edit="nothing" source-0="6539090" master-source-0="6539090"/>
-      <Region name="Vocal Melody 1-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="45.5" id="6636627" type="midi" first-edit="nothing" source-0="6539090" master-source-0="6539090"/>
+      <Region name="Vocal Melody 1-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="3" start-beats="0" length-beats="45.5" id="6636627" type="midi" first-edit="nothing" source-0="6539090" master-source-0="6539090"/>
       <Region name="Vocal Melody 1-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="45.5" id="6975079" type="midi" first-edit="nothing" source-0="6975077" master-source-0="6975077"/>
+      <Region name="Vocal Melody 1-4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="42.166044444444481" id="7269528" type="midi" first-edit="nothing" source-0="7269524" master-source-0="7269524"/>
     </Playlist>
     <Playlist id="264295" name="just-turn-it-all-up-p0-g052-v05" type="audio" orig-track-id="264253" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="raven-sons-verse1-ch52-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6538919" type="audio" first-edit="nothing" source-0="6538908" master-source-0="6538908" channels="1">
@@ -32150,6 +32271,37 @@
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="6781357" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="raven-sons-chorus1-ch52-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270430" type="audio" first-edit="nothing" source-0="7270419" master-source-0="7270419" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270431" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270432" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270433" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270434" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -32220,6 +32372,37 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="raven-sons-chorus1-ch55-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270455" type="audio" first-edit="nothing" source-0="7270444" master-source-0="7270444" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270456" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270457" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270458" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270459" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="264495" name="just-turn-it-all-up-p0-g058-v05" type="audio" orig-track-id="264453" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="raven-sons-verse1-ch58-low.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6538969" type="audio" first-edit="nothing" source-0="6538958" master-source-0="6538958" channels="1">
@@ -32284,6 +32467,37 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="raven-sons-chorus1-ch58-low.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270480" type="audio" first-edit="nothing" source-0="7270469" master-source-0="7270469" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270481" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270482" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270483" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270484" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="264595" name="just-turn-it-all-up-p12-g052-v05" type="audio" orig-track-id="264553" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="raven-sons-verse1-ch52-low-oct.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6538994" type="audio" first-edit="nothing" source-0="6538983" master-source-0="6538983" channels="1">
@@ -32317,31 +32531,62 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="raven-sons-verse2-ch52-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781225" type="audio" first-edit="nothing" source-0="6781200" master-source-0="6781200" channels="1">
+      <Region name="raven-sons-verse2-ch52-low-oct.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7220118" type="audio" first-edit="nothing" source-0="6781200" master-source-0="6781200" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="6781226" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220119" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="6781227" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220120" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="6781228" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220121" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="6781229" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220122" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="raven-sons-chorus1-ch52-low-oct.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270505" type="audio" first-edit="nothing" source-0="7270494" master-source-0="7270494" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270506" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270507" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270508" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270509" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -32381,31 +32626,62 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="raven-sons-verse2-ch55-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781428" type="audio" first-edit="nothing" source-0="6781417" master-source-0="6781417" channels="1">
+      <Region name="raven-sons-verse2-ch55-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7220108" type="audio" first-edit="nothing" source-0="6781417" master-source-0="6781417" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="6781429" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220109" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="6781430" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220110" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="6781431" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220111" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="6781432" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220112" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="raven-sons-chorus1-ch55-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270530" type="audio" first-edit="nothing" source-0="7270519" master-source-0="7270519" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270531" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270532" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270533" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270534" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -32445,31 +32721,62 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="raven-sons-verse2-ch58-low-oct" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6781453" type="audio" first-edit="nothing" source-0="6781442" master-source-0="6781442" channels="1">
+      <Region name="raven-sons-verse2-ch58-low-oct.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3907059" beat="246" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7220098" type="audio" first-edit="nothing" source-0="6781442" master-source-0="6781442" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="6781454" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220099" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="6781455" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="7220100" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="6781456" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220101" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="6781457" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="7220102" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="raven-sons-chorus1-ch58-low-oct.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270555" type="audio" first-edit="nothing" source-0="7270544" master-source-0="7270544" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270556" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270557" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270558" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270559" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -32540,6 +32847,43 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="raven-sons-chorus1-ch52-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269793" type="audio" first-edit="nothing" source-0="7269782" master-source-0="7269782" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="7269799" interpolation-style="Linear" state="Off">
+            <events>0 1.2472566366195679
+698764 1.2472566366195679
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7269794" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7269795" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7269796" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7269797" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="265894" name="Vox Low ch55 1.1" type="audio" orig-track-id="265948" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="raven-sons-verse1-ch55-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6539417" type="audio" first-edit="nothing" source-0="6539406" master-source-0="6539406" channels="1">
@@ -32604,6 +32948,43 @@
           </AutomationList>
         </InverseFadeOut>
       </Region>
+      <Region name="raven-sons-chorus1-ch55-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="295.99997037037036" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7269818" type="audio" first-edit="nothing" source-0="7269807" master-source-0="7269807" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="7269824" interpolation-style="Linear" state="Off">
+            <events>0 1.2472566366195679
+698764 1.2472566366195679
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7269819" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7269820" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7269821" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7269822" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
     </Playlist>
     <Playlist id="266042" name="Vox Low ch58 1.1" type="audio" orig-track-id="266096" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="raven-sons-verse1-ch58-high" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="3176471" beat="200.00002592592591" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="6539442" type="audio" first-edit="nothing" source-0="6539431" master-source-0="6539431" channels="1">
@@ -32662,6 +33043,43 @@
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="7023837" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="raven-sons-chorus1-ch58-high.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="698764" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="7270046" type="audio" first-edit="nothing" source-0="7269832" master-source-0="7269832" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="7270052" interpolation-style="Linear" state="Off">
+            <events>0 1.231191873550415
+698764 1.231191873550415
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="7270047" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="7270048" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="7270049" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="7270050" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -32749,6 +33167,7 @@
     <Playlist id="6153027" name="Vocal Melody 1 1.1" type="midi" orig-track-id="6152430" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="Vocal Melody 1 1-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="723110" position="3176471" beat="200" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="45.5" id="6153791" type="midi" first-edit="nothing" source-0="6153784" master-source-0="6153784"/>
       <Region name="Vocal Melody 1 1-3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="722647" position="3907059" beat="246.00001111111109" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="45.5" id="6587782" type="midi" first-edit="nothing" source-0="6587780" master-source-0="6587780"/>
+      <Region name="Vocal Melody 1 1-7.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="669696" position="4701176" beat="296" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="0" length-beats="42.166044444444481" id="7072544" type="midi" first-edit="nothing" source-0="7072535" master-source-0="7072535"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists>
@@ -32805,9 +33224,7 @@
   </Click>
   <LTC-In>
     <IO name="LTC In" id="47" direction="Input" default-type="audio" user-latency="0">
-      <Port type="audio" name="LTC-in">
-        <Connection other="system:capture_1"/>
-      </Port>
+      <Port type="audio" name="LTC-in"/>
     </IO>
   </LTC-In>
   <LTC-Out>
@@ -32866,7 +33283,7 @@
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="676" y-size="491"/>
       <Window name="add-video" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="inspector" visible="0" x-off="48" y-off="0" x-size="821" y-size="864"/>
-      <Window name="audio-midi-setup" visible="0" x-off="385" y-off="193" x-size="571" y-size="408"/>
+      <Window name="audio-midi-setup" visible="0" x-off="328" y-off="672" x-size="571" y-size="408"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="830" y-off="0" x-size="330" y-size="326"/>
       <Window name="bundle-manager" visible="0" x-off="59" y-off="52" x-size="480" y-size="240"/>
@@ -34187,13 +34604,13 @@
       <Window name="PM-1285308-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-1285309-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-860973-861004" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-860973-6992797" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-860973-7238471" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-860973-861003" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-860973-2011930" visible="0" x-off="296" y-off="689" x-size="469" y-size="53" custom-ui="1"/>
       <Window name="P-860973-861005" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-860973-861006" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-861004-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-6992797-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-7238471-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-861003-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2011930-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-861005-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -35313,6 +35730,11 @@
           <Object id="processor 6926605"/>
           <Object id="processor 6944047"/>
           <Object id="processor 6992797"/>
+          <Object id="processor 7041407"/>
+          <Object id="processor 7090647"/>
+          <Object id="processor 7139457"/>
+          <Object id="processor 7188932"/>
+          <Object id="processor 7238471"/>
         </Object>
         <Object id="rtav 861062" height="64" visible="1"/>
         <Object id="automation 861066" height="64" visible="0"/>
